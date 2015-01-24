@@ -52,13 +52,13 @@ def get_stops_nearby(current_mark,possible_stop):
     return sorted(stops_nearby, key=lambda tup: tup[1])
 
 def execute():
-     stops = IOUtils.read_file_to_dictlist(paths.GOOGLE_TRANSIT + 'stops.txt')
+#     stops = IOUtils.read_file_to_dictlist(paths.GOOGLE_TRANSIT + 'stops.txt')
      #route_marks = IOUtils.read_file_to_dictlist(paths.GOOGLE_TRANSIT + "shapes.txt")
-     route_marks = KML_manager.extract_routes(paths.ROTAS + "Rotas.kml")
+     route_marks = KML_manager.extract_routes("dados/Rotas.kml")
      marks = IOUtils.lists_to_dicts(route_marks)
 
-     marks2 = routes_manager.marks_from_route(marks,"904")
-     paradas = find_stops_routes(stops,marks2)
+     marks2 = routes_manager.marks_from_route(marks,"500")
+     #paradas = find_stops_routes(stops,marks2)
      KML_manager.write_stops(paradas,"teste1.kml")
 #     a = 1
 # #print(paradasOi)
@@ -77,4 +77,4 @@ def execute():
 #             lista1.append((a-b))
 #     print reduce(lambda x, y: x + y, lista1) / len(lista1)
 #     a = 1
-#cProfile.run('execute()')
+cProfile.run('execute()')
