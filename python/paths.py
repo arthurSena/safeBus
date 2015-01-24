@@ -1,0 +1,7 @@
+GOOGLE_TRANSIT = "../../dados/googleTransit/"
+INTERPOLATED_SHAPES= "../../dados/googleTransit/shapesRotas/interpolado/"
+DADOS_KML_TO_SHAPE = "../../dados/dados_kml_to_shape/"
+ROTAS = "../../dados/rotas/"
+PARADAS = "../../dados/paradas/"
+PARADAS_KML = PARADAS + "Paradas individuais - kml/"
+PARADAS_SEM_REPETICAO = PARADAS + "dados_atualizados_sem_paradas_repetidas/"
