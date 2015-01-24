@@ -12,7 +12,7 @@ public class StreetMining {
 	public static void main(String[] args) throws Exception {
 		
 		
-		String xml = coletar("av floriano peixoto campina grande pb");
+		String xml = coletar("av floriano peixoto", "campina grande pb");
 		
 		System.out.println();
 		System.out.println(">>>");
@@ -38,9 +38,9 @@ public class StreetMining {
 
 
 
-	private static String coletar(String logradouro) throws Exception {		
+	private static String coletar(String logradouro, String cidade) throws Exception {		
 		
-		String url = "http://maps.googleapis.com/maps/api/geocode/xml?address=" + logradouro.replace(" ", "+") + "&sensor=false";
+		String url = "http://maps.googleapis.com/maps/api/geocode/xml?address=" + logradouro.replace(" ", "+") + "+" + cidade.replace(" ", "+") + "&sensor=false";
 		
 		try {
 			Document doc = Jsoup.connect(url).get();
