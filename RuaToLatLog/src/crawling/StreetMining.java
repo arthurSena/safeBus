@@ -12,11 +12,11 @@ public class StreetMining {
 	public static void main(String[] args) throws Exception {
 		
 		
-		String html = coletar("av floriano peixoto campina grande pb");
+		String xml = coletar("av floriano peixoto campina grande pb");
 		
 		System.out.println();
 		System.out.println(">>>");
-		System.out.println(extrairLatLon(html));
+		System.out.println(extrairLatLon(xml));
 		
 	}
 	
