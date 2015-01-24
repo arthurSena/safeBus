@@ -1,0 +1,5910 @@
+[
+  {
+    "stop_id":"70_001",
+    "stop_name":"70_001",
+    "stop_desc":"Rua / Avenida: CAMPOS SALES",
+    "stop_lat":-7.221078984439373,
+    "stop_lon":-35.874209962785244
+  },
+  {
+    "stop_id":"274_002",
+    "stop_name":"274_002",
+    "stop_desc":"Rua / Avenida: CAMPOS SALES",
+    "stop_lat":-7.222693003714085,
+    "stop_lon":-35.873241014778614
+  },
+  {
+    "stop_id":"449_003",
+    "stop_name":"449_003",
+    "stop_desc":"Rua / Avenida: FERNANDES VIEIRA",
+    "stop_lat":-7.226035036146641,
+    "stop_lon":-35.873269010335207
+  },
+  {
+    "stop_id":"259_004",
+    "stop_name":"259_004",
+    "stop_desc":"Rua / Avenida: FERNANDES VIEIRA",
+    "stop_lat":-7.22511101514101,
+    "stop_lon":-35.874778004363179
+  },
+  {
+    "stop_id":"560_004",
+    "stop_name":"560_004",
+    "stop_desc":"Rua / Avenida: BR-230",
+    "stop_lat":-7.237944966182113,
+    "stop_lon":-35.866168029606342
+  },
+  {
+    "stop_id":"IGREJA_PETENCOSTAL_007",
+    "stop_name":"IGREJA PETENCOSTAL_007",
+    "stop_desc":"Rua / Avenida: BR-230",
+    "stop_lat":-7.238891031593084,
+    "stop_lon":-35.864332979544997
+  },
+  {
+    "stop_id":"154_008",
+    "stop_name":"154_008",
+    "stop_desc":"Rua / Avenida: SAO LUIS",
+    "stop_lat":-7.24012803286314,
+    "stop_lon":-35.862023010849953
+  },
+  {
+    "stop_id":"137_-_OPOSTO_009",
+    "stop_name":"137 - OPOSTO_009",
+    "stop_desc":"Rua / Avenida: JOSELITA BRASILEIRO",
+    "stop_lat":-7.240329030901194,
+    "stop_lon":-35.863694027066231
+  },
+  {
+    "stop_id":"208_010",
+    "stop_name":"208_010",
+    "stop_desc":"Rua / Avenida: RANULFO GOMES DE ARAUJO",
+    "stop_lat":-7.240374041721225,
+    "stop_lon":-35.865807021036744
+  },
+  {
+    "stop_id":"TERMO-PU_-_OPOSTO_011",
+    "stop_name":"TERMO-PU - OPOSTO_011",
+    "stop_desc":"Rua / Avenida: BR-230",
+    "stop_lat":-7.243101010099053,
+    "stop_lon":-35.85587203502655
+  },
+  {
+    "stop_id":"OI_-_TELEMAR_012",
+    "stop_name":"OI - TELEMAR_012",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.220379011705510,
+    "stop_lon":-35.885555036365900
+  },
+  {
+    "stop_id":"FEIRA_CENTRAL_013",
+    "stop_name":"FEIRA CENTRAL_013",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.217510975897310,
+    "stop_lon":-35.879532974213300
+  },
+  {
+    "stop_id":"CASA_CORAL_014",
+    "stop_name":"CASA CORAL_014",
+    "stop_desc":"Rua / Avenida: JANUNCIO FERREIRA",
+    "stop_lat":-7.215552041307090,
+    "stop_lon":-35.879341028630700
+  },
+  {
+    "stop_id":"YPIRANGA_015",
+    "stop_name":"YPIRANGA_015",
+    "stop_desc":"Rua / Avenida: JANUNCIO FERREIRA",
+    "stop_lat":-7.215116014704100,
+    "stop_lon":-35.880980025976800
+  },
+  {
+    "stop_id":"ESCOLA_LIONS_016",
+    "stop_name":"ESCOLA LIONS_016",
+    "stop_desc":"Rua / Avenida: JANUNCIO FERREIRA",
+    "stop_lat":-7.213431000709530,
+    "stop_lon":-35.883446987718300
+  },
+  {
+    "stop_id":"194_017",
+    "stop_name":"194_017",
+    "stop_desc":"Rua / Avenida: VIGOLVINO WANDERLEY",
+    "stop_lat":-7.214123010635370,
+    "stop_lon":-35.885142982006000
+  },
+  {
+    "stop_id":"98_018",
+    "stop_name":"98_018",
+    "stop_desc":"Rua / Avenida: FRANCISCO AFONSO DE ALBUQUERQUE",
+    "stop_lat":-7.208808967843650,
+    "stop_lon":-35.887532997876400
+  },
+  {
+    "stop_id":"290_019",
+    "stop_name":"290_019",
+    "stop_desc":"Rua / Avenida: FRANCISCO AFONSO DE ALBUQUERQUE",
+    "stop_lat":-7.208434967324130,
+    "stop_lon":-35.886304965242700
+  },
+  {
+    "stop_id":"180_020",
+    "stop_name":"180_020",
+    "stop_desc":"Rua / Avenida: CAPITAO ADHEMAR DE PAIVA",
+    "stop_lat":-7.20757900737226,
+    "stop_lon":-35.884820027276800
+  },
+  {
+    "stop_id":"219_021",
+    "stop_name":"219_021",
+    "stop_desc":"Rua / Avenida: NEWTON ESTILAC LEAL",
+    "stop_lat":-7.20712898299098,
+    "stop_lon":-35.885549001395700
+  },
+  {
+    "stop_id":"_022",
+    "stop_name":"_022",
+    "stop_desc":"Rua / Avenida: ADALTO TRAVASSOS DE MOURA",
+    "stop_lat":-7.205591993406410,
+    "stop_lon":-35.885741030797300
+  },
+  {
+    "stop_id":"424_023",
+    "stop_name":"424_023",
+    "stop_desc":"Rua / Avenida: ADALTO TRAVASSOS DE MOURA",
+    "stop_lat":-7.204037988558410,
+    "stop_lon":-35.885392008349200
+  },
+  {
+    "stop_id":"670_024",
+    "stop_name":"670_024",
+    "stop_desc":"Rua / Avenida: ADALTO TRAVASSOS DE MOURA",
+    "stop_lat":-7.202240992337460,
+    "stop_lon":-35.884900996461500
+  },
+  {
+    "stop_id":"243_025",
+    "stop_name":"243_025",
+    "stop_desc":"Rua / Avenida: PRESIDENTE ROOSEVELT",
+    "stop_lat":-7.2022720053792,
+    "stop_lon":-35.883170971646900
+  },
+  {
+    "stop_id":"51_026",
+    "stop_name":"51_026",
+    "stop_desc":"Rua / Avenida: PRESIDENTE ROOSEVELT",
+    "stop_lat":-7.20276796258986,
+    "stop_lon":-35.881171971559500
+  },
+  {
+    "stop_id":"SUCATA_027",
+    "stop_name":"SUCATA_027",
+    "stop_desc":"Rua / Avenida: DR. VASCONCELOS",
+    "stop_lat":-7.199396006762981,
+    "stop_lon":-35.879273973405300
+  },
+  {
+    "stop_id":"ESC_ANA_AZEVEDO_028",
+    "stop_name":"ESC ANA AZEVEDO_028",
+    "stop_desc":"Rua / Avenida: NACOES",
+    "stop_lat":-7.196028996258974,
+    "stop_lon":-35.879571028053700
+  },
+  {
+    "stop_id":"_029",
+    "stop_name":"_029",
+    "stop_desc":"Rua / Avenida: NACOES",
+    "stop_lat":-7.192379012703896,
+    "stop_lon":-35.88071197271340
+  },
+  {
+    "stop_id":"_030",
+    "stop_name":"_030",
+    "stop_desc":"Rua / Avenida: REPUBLICA PORTUGUESA",
+    "stop_lat":-7.187031023204327,
+    "stop_lon":-35.881342962384200
+  },
+  {
+    "stop_id":"_031",
+    "stop_name":"_031",
+    "stop_desc":"Rua / Avenida: NACOES",
+    "stop_lat":-7.189367981627584,
+    "stop_lon":-35.881206002086400
+  },
+  {
+    "stop_id":"815_032",
+    "stop_name":"815_032",
+    "stop_desc":"Rua / Avenida: NACOES",
+    "stop_lat":-7.191322976723313,
+    "stop_lon":-35.881049009039900
+  },
+  {
+    "stop_id":"625_033",
+    "stop_name":"625_033",
+    "stop_desc":"Rua / Avenida: NACOES",
+    "stop_lat":-7.192832976579666,
+    "stop_lon":-35.880666961893400
+  },
+  {
+    "stop_id":"406_034",
+    "stop_name":"406_034",
+    "stop_desc":"Rua / Avenida: NACOES",
+    "stop_lat":-7.194216996431351,
+    "stop_lon":-35.88068900629870
+  },
+  {
+    "stop_id":"175_035",
+    "stop_name":"175_035",
+    "stop_desc":"Rua / Avenida: NACOES",
+    "stop_lat":-7.197465989738703,
+    "stop_lon":-35.878526978194700
+  },
+  {
+    "stop_id":"UPA_036",
+    "stop_name":"UPA_036",
+    "stop_desc":"Rua / Avenida: MANOEL TAVARES",
+    "stop_lat":-7.200025990605354,
+    "stop_lon":-35.877134995535000
+  },
+  {
+    "stop_id":"593_037",
+    "stop_name":"593_037",
+    "stop_desc":"Rua / Avenida: APOLONIA AMORIM",
+    "stop_lat":-7.205013977363706,
+    "stop_lon":-35.875335987657300
+  },
+  {
+    "stop_id":"219_-_OPOSTO_038",
+    "stop_name":"219 - OPOSTO_038",
+    "stop_desc":"Rua / Avenida: REVERENDO AUGUSTO SANTIAGO",
+    "stop_lat":-7.206175038591027,
+    "stop_lon":-35.876783961430100
+  },
+  {
+    "stop_id":"454_039",
+    "stop_name":"454_039",
+    "stop_desc":"Rua / Avenida: FELIX CAROLINO BARBOSA",
+    "stop_lat":-7.209129994735122,
+    "stop_lon":-35.877199033275200
+  },
+  {
+    "stop_id":"1133_040",
+    "stop_name":"1133_040",
+    "stop_desc":"Rua / Avenida: NEWTON ESTILAC LEAL",
+    "stop_lat":-7.209125971421599,
+    "stop_lon":-35.87793898768720
+  },
+  {
+    "stop_id":"929_041",
+    "stop_name":"929_041",
+    "stop_desc":"Rua / Avenida: NEWTON ESTILAC LEAL",
+    "stop_lat":-7.208754988387227,
+    "stop_lon":-35.87931202724570
+  },
+  {
+    "stop_id":"615_042",
+    "stop_name":"615_042",
+    "stop_desc":"Rua / Avenida: ESTELITA CRUZ",
+    "stop_lat":-7.210868988186121,
+    "stop_lon":-35.880124988034300
+  },
+  {
+    "stop_id":"459_043",
+    "stop_name":"459_043",
+    "stop_desc":"Rua / Avenida: ESTELITA CRUZ",
+    "stop_lat":-7.212132979184389,
+    "stop_lon":-35.880461018532500
+  },
+  {
+    "stop_id":"213_044",
+    "stop_name":"213_044",
+    "stop_desc":"Rua / Avenida: ANTONIO CAMPOS",
+    "stop_lat":-7.212417963892222,
+    "stop_lon":-35.881230980157800
+  },
+  {
+    "stop_id":"SOLON_DE_LUCENA_045",
+    "stop_name":"SOLON DE LUCENA_045",
+    "stop_desc":"Rua / Avenida: JANUNCIO FERREIRA",
+    "stop_lat":-7.215221961960197,
+    "stop_lon":-35.881812013685700
+  },
+  {
+    "stop_id":"JORNAL_CORREIO_046",
+    "stop_name":"JORNAL CORREIO_046",
+    "stop_desc":"Rua / Avenida: JANUNCIO FERREIRA",
+    "stop_lat":-7.21593601629138,
+    "stop_lon":-35.87903399951750
+  },
+  {
+    "stop_id":"_047",
+    "stop_name":"_047",
+    "stop_desc":"Rua / Avenida: PRACA DA BANDEIRA",
+    "stop_lat":-7.219793032854796,
+    "stop_lon":-35.884778033941900
+  },
+  {
+    "stop_id":"PRACINHA_048",
+    "stop_name":"PRACINHA_048",
+    "stop_desc":"Rua / Avenida: MELO LEITAO",
+    "stop_lat":-7.222824012860656,
+    "stop_lon":-35.892817033454700
+  },
+  {
+    "stop_id":"480_049",
+    "stop_name":"480_049",
+    "stop_desc":"Rua / Avenida: DOM PEDRO I",
+    "stop_lat":-7.226051967591047,
+    "stop_lon":-35.892559038475100
+  },
+  {
+    "stop_id":"MORTUARIA_050",
+    "stop_name":"MORTUARIA_050",
+    "stop_desc":"Rua / Avenida: DOM PEDRO I",
+    "stop_lat":-7.227843012660742,
+    "stop_lon":-35.893326988443700
+  },
+  {
+    "stop_id":"MATERIAL_DE_CONSTRUCAO_051",
+    "stop_name":"MATERIAL DE CONSTRUCAO_051",
+    "stop_desc":"Rua / Avenida: ALMIRANTE BARROSO",
+    "stop_lat":-7.230092966929078,
+    "stop_lon":-35.89381598867470
+  },
+  {
+    "stop_id":"517_052",
+    "stop_name":"517_052",
+    "stop_desc":"Rua / Avenida: RIO DE JANEIRO",
+    "stop_lat":-7.232735026627779,
+    "stop_lon":-35.89394498616450
+  },
+  {
+    "stop_id":"PRACA_053",
+    "stop_name":"PRACA_053",
+    "stop_desc":"Rua / Avenida: ESPÍRITO SANTO",
+    "stop_lat":-7.232666965574026,
+    "stop_lon":-35.892649982124500
+  },
+  {
+    "stop_id":"470_054",
+    "stop_name":"470_054",
+    "stop_desc":"Rua / Avenida: ESPÍRITO SANTO",
+    "stop_lat":-7.234531017020345,
+    "stop_lon":-35.892385030165300
+  },
+  {
+    "stop_id":"606_055",
+    "stop_name":"606_055",
+    "stop_desc":"Rua / Avenida: ESPÍRITO SANTO",
+    "stop_lat":-7.235541036352515,
+    "stop_lon":-35.892253015190300
+  },
+  {
+    "stop_id":"408_056",
+    "stop_name":"408_056",
+    "stop_desc":"Rua / Avenida: ESPÍRITO SANTO",
+    "stop_lat":-7.237419001758099,
+    "stop_lon":-35.892035001888800
+  },
+  {
+    "stop_id":"1288_057",
+    "stop_name":"1288_057",
+    "stop_desc":"Rua / Avenida: ESPÍRITO SANTO",
+    "stop_lat":-7.240888020023704,
+    "stop_lon":-35.891612973064100
+  },
+  {
+    "stop_id":"_058",
+    "stop_name":"_058",
+    "stop_desc":"Rua / Avenida: APRÍGIO NEPOMUCENO",
+    "stop_lat":-7.243026997894049,
+    "stop_lon":-35.891980016604000
+  },
+  {
+    "stop_id":"484_059",
+    "stop_name":"484_059",
+    "stop_desc":"Rua / Avenida: APRÍGIO NEPOMUCENO",
+    "stop_lat":-7.243195977061987,
+    "stop_lon":-35.89349303394550
+  },
+  {
+    "stop_id":"ED._CANAA_III_060",
+    "stop_name":"ED. CANAA III_060",
+    "stop_desc":"Rua / Avenida: SEVERINO PIMENTEL",
+    "stop_lat":-7.24425402469933,
+    "stop_lon":-35.893566962331500
+  },
+  {
+    "stop_id":"690_061",
+    "stop_name":"690_061",
+    "stop_desc":"Rua / Avenida: PEDRO OTAVIO DE FARIAS LEITE",
+    "stop_lat":-7.245036978274584,
+    "stop_lon":-35.894018998369500
+  },
+  {
+    "stop_id":"1166_062",
+    "stop_name":"1166_062",
+    "stop_desc":"Rua / Avenida: GETULIO CAVALCANTE",
+    "stop_lat":-7.247147038578987,
+    "stop_lon":-35.894053028896400
+  },
+  {
+    "stop_id":"1626_063",
+    "stop_name":"1626_063",
+    "stop_desc":"Rua / Avenida: GETULIO CAVALCANTE",
+    "stop_lat":-7.248887959867716,
+    "stop_lon":-35.893853036686700
+  },
+  {
+    "stop_id":"1746_064",
+    "stop_name":"1746_064",
+    "stop_desc":"Rua / Avenida: GETULIO CAVALCANTE",
+    "stop_lat":-7.250136025249958,
+    "stop_lon":-35.893724039196900
+  },
+  {
+    "stop_id":"460_065",
+    "stop_name":"460_065",
+    "stop_desc":"Rua / Avenida: ARIEL DE OLIVEIRA",
+    "stop_lat":-7.250385973602533,
+    "stop_lon":-35.894585028290700
+  },
+  {
+    "stop_id":"54_066",
+    "stop_name":"54_066",
+    "stop_desc":"Rua / Avenida: JOSE FIRMINO DA SILVA",
+    "stop_lat":-7.251553991809487,
+    "stop_lon":-35.894858026877000
+  },
+  {
+    "stop_id":"OFICINA_067",
+    "stop_name":"OFICINA_067",
+    "stop_desc":"Rua / Avenida: JOSE FIRMINO DA SILVA",
+    "stop_lat":-7.253425000235438,
+    "stop_lon":-35.894650993868700
+  },
+  {
+    "stop_id":"PONTO_DE_APOIO_068",
+    "stop_name":"PONTO DE APOIO_068",
+    "stop_desc":"Rua / Avenida: MANOEL ENEAS FIGUEIREDO FILHO",
+    "stop_lat":-7.255475968122482,
+    "stop_lon":-35.89736002497370
+  },
+  {
+    "stop_id":"RESTAURANTE_POPULAR_069",
+    "stop_name":"RESTAURANTE POPULAR_069",
+    "stop_desc":"Rua / Avenida: MANOEL ENEAS FIGUEIREDO FILHO",
+    "stop_lat":-7.256444999948144,
+    "stop_lon":-35.896966997534000
+  },
+  {
+    "stop_id":"BAR_DO_PEBA_070",
+    "stop_name":"BAR DO PEBA_070",
+    "stop_desc":"Rua / Avenida: MANOEL ENEAS FIGUEIREDO FILHO",
+    "stop_lat":-7.256945986300707,
+    "stop_lon":-35.89673800393930
+  },
+  {
+    "stop_id":"OFICINA_071",
+    "stop_name":"OFICINA_071",
+    "stop_desc":"Rua / Avenida: MANOEL ENEAS FIGUEIREDO FILHO",
+    "stop_lat":-7.255932027474046,
+    "stop_lon":-35.896854009479200
+  },
+  {
+    "stop_id":"LAVA_JATO_072",
+    "stop_name":"LAVA JATO_072",
+    "stop_desc":"Rua / Avenida: JOSE FIRMINO DA SILVA",
+    "stop_lat":-7.253455007448793,
+    "stop_lon":-35.894529959186900
+  },
+  {
+    "stop_id":"219_073",
+    "stop_name":"219_073",
+    "stop_desc":"Rua / Avenida: DR. VENTURA",
+    "stop_lat":-7.251932015642524,
+    "stop_lon":-35.895267985761100
+  },
+  {
+    "stop_id":"1192_-_OPOSTO_074",
+    "stop_name":"1192 - OPOSTO_074",
+    "stop_desc":"Rua / Avenida: MANOEL LEONARDO GOMES",
+    "stop_lat":-7.251650970429182,
+    "stop_lon":-35.896103996783400
+  },
+  {
+    "stop_id":"05_-_CIPRESA_075",
+    "stop_name":"05 - CIPRESA_075",
+    "stop_desc":"Rua / Avenida: MANOEL LEONARDO GOMES",
+    "stop_lat":-7.250094031915069,
+    "stop_lon":-35.896324021741700
+  },
+  {
+    "stop_id":"913_076",
+    "stop_name":"913_076",
+    "stop_desc":"Rua / Avenida: MANOEL LEONARDO GOMES",
+    "stop_lat":-7.247302019968629,
+    "stop_lon":-35.896661980077600
+  },
+  {
+    "stop_id":"667A_077",
+    "stop_name":"667A_077",
+    "stop_desc":"Rua / Avenida: MANOEL LEONARDO GOMES",
+    "stop_lat":-7.245527990162373,
+    "stop_lon":-35.896854009479200
+  },
+  {
+    "stop_id":"POSTO_DE_SAUDE_078",
+    "stop_name":"POSTO DE SAUDE_078",
+    "stop_desc":"Rua / Avenida: MANOEL LEONARDO GOMES",
+    "stop_lat":-7.242315961048007,
+    "stop_lon":-35.897224992513600
+  },
+  {
+    "stop_id":"CASA_DE_ORACAO_079",
+    "stop_name":"CASA DE ORACAO_079",
+    "stop_desc":"Rua / Avenida: MANOEL LEONARDO GOMES",
+    "stop_lat":-7.240710994228721,
+    "stop_lon":-35.89740201830860
+  },
+  {
+    "stop_id":"180_080",
+    "stop_name":"180_080",
+    "stop_desc":"Rua / Avenida: SEVERINO GALILEU",
+    "stop_lat":-7.241852022707462,
+    "stop_lon":-35.896681006997800
+  },
+  {
+    "stop_id":"360_081",
+    "stop_name":"360_081",
+    "stop_desc":"Rua / Avenida: SEVERINO GALILEU",
+    "stop_lat":-7.243368979543448,
+    "stop_lon":-35.896495012566400
+  },
+  {
+    "stop_id":"LINS_ARMARINHO_082",
+    "stop_name":"LINS ARMARINHO_082",
+    "stop_desc":"Rua / Avenida: APRÍGIO NEPOMUCENO",
+    "stop_lat":-7.243699980899692,
+    "stop_lon":-35.897526992484900
+  },
+  {
+    "stop_id":"1228_083",
+    "stop_name":"1228_083",
+    "stop_desc":"Rua / Avenida: APRÍGIO NEPOMUCENO",
+    "stop_lat":-7.243817998096347,
+    "stop_lon":-35.898828031495200
+  },
+  {
+    "stop_id":"480_084",
+    "stop_name":"480_084",
+    "stop_desc":"Rua / Avenida: AUGUSTO BORBOREMA",
+    "stop_lat":-7.245401004329324,
+    "stop_lon":-35.899212006479500
+  },
+  {
+    "stop_id":"414_085",
+    "stop_name":"414_085",
+    "stop_desc":"Rua / Avenida: AUGUSTO BORBOREMA",
+    "stop_lat":-7.246979987248778,
+    "stop_lon":-35.898938002064800
+  },
+  {
+    "stop_id":"2830_086",
+    "stop_name":"2830_086",
+    "stop_desc":"Rua / Avenida: FRANCISCO ERNESTO DO REGO",
+    "stop_lat":-7.24747896194458,
+    "stop_lon":-35.900427969172500
+  },
+  {
+    "stop_id":"1599_087",
+    "stop_name":"1599_087",
+    "stop_desc":"Rua / Avenida: ALMIRANTE BARROSO",
+    "stop_lat":-7.242697002366185,
+    "stop_lon":-35.901823975145800
+  },
+  {
+    "stop_id":"PANIFICADORA_SOUZA_088",
+    "stop_name":"PANIFICADORA SOUZA_088",
+    "stop_desc":"Rua / Avenida: ALMIRANTE BARROSO",
+    "stop_lat":-7.241251962259412,
+    "stop_lon":-35.900853015482400
+  },
+  {
+    "stop_id":"1043_089",
+    "stop_name":"1043_089",
+    "stop_desc":"Rua / Avenida: ALMIRANTE BARROSO",
+    "stop_lat":-7.238950962200761,
+    "stop_lon":-35.898878993466400
+  },
+  {
+    "stop_id":"149_090",
+    "stop_name":"149_090",
+    "stop_desc":"Rua / Avenida: ALMIRANTE BARROSO",
+    "stop_lat":-7.232221970334649,
+    "stop_lon":-35.894141960889100
+  },
+  {
+    "stop_id":"BORBOREMA_091",
+    "stop_name":"BORBOREMA_091",
+    "stop_desc":"Rua / Avenida: ALMIRANTE BARROSO",
+    "stop_lat":-7.230809032917023,
+    "stop_lon":-35.893797967582900
+  },
+  {
+    "stop_id":"HOSPITAL_092",
+    "stop_name":"HOSPITAL_092",
+    "stop_desc":"Rua / Avenida: DOM PEDRO I",
+    "stop_lat":-7.229017987847328,
+    "stop_lon":-35.893403012305400
+  },
+  {
+    "stop_id":"FACULDADE_DE_COMUNICACAO_093",
+    "stop_name":"FACULDADE DE COMUNICACAO_093",
+    "stop_desc":"Rua / Avenida: DOM PEDRO I",
+    "stop_lat":-7.226323038339615,
+    "stop_lon":-35.892530037090100
+  },
+  {
+    "stop_id":"PREFEITURA_094",
+    "stop_name":"PREFEITURA_094",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.219176962971687,
+    "stop_lon":-35.883015990257263
+  },
+  {
+    "stop_id":"5995_095",
+    "stop_name":"5995_095",
+    "stop_desc":"Rua / Avenida: BR-230",
+    "stop_lat":-7.252281038090587,
+    "stop_lon":-35.836570020765066
+  },
+  {
+    "stop_id":"5725_096",
+    "stop_name":"5725_096",
+    "stop_desc":"Rua / Avenida: BR-230",
+    "stop_lat":-7.250783024355769,
+    "stop_lon":-35.840499037876725
+  },
+  {
+    "stop_id":"PAGUE_FACIL_097",
+    "stop_name":"PAGUE FACIL_097",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.218267023563385,
+    "stop_lon":-35.88107499293983
+  },
+  {
+    "stop_id":"REDE_COMPRAS_098",
+    "stop_name":"REDE COMPRAS_098",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.21808304078877,
+    "stop_lon":-35.880768969655037
+  },
+  {
+    "stop_id":"1044_099",
+    "stop_name":"1044_099",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.217688001692295,
+    "stop_lon":-35.879819970577955
+  },
+  {
+    "stop_id":"1054_100",
+    "stop_name":"1054_100",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.217594962567091,
+    "stop_lon":-35.879602041095495
+  },
+  {
+    "stop_id":"1520_101",
+    "stop_name":"1520_101",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.215876001864672,
+    "stop_lon":-35.876044007018209
+  },
+  {
+    "stop_id":"1834_102",
+    "stop_name":"1834_102",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.21451997756958,
+    "stop_lon":-35.873102964833379
+  },
+  {
+    "stop_id":"1726_-_OPOSTO_103",
+    "stop_name":"1726 - OPOSTO_103",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.214802028611302,
+    "stop_lon":-35.874166963621974
+  },
+  {
+    "stop_id":"1461_104",
+    "stop_name":"1461_104",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.21587298437953,
+    "stop_lon":-35.876393029466271
+  },
+  {
+    "stop_id":"JUIZADO_DO_CONSUMIDOR_105",
+    "stop_name":"JUIZADO DO CONSUMIDOR_105",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.219114014878869,
+    "stop_lon":-35.883358977735043
+  },
+  {
+    "stop_id":"DAMAS_106",
+    "stop_name":"DAMAS_106",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.220322014763951,
+    "stop_lon":-35.885846978053451
+  },
+  {
+    "stop_id":"292_-_OPOSTO_107",
+    "stop_name":"292 - OPOSTO_107",
+    "stop_desc":"Rua / Avenida: ANTONIO JOSE RODRIGUES",
+    "stop_lat":-7.232785988599062,
+    "stop_lon":-35.865275021642447
+  },
+  {
+    "stop_id":"289E_108",
+    "stop_name":"289E_108",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.22042603418231,
+    "stop_lon":-35.886013023555279
+  },
+  {
+    "stop_id":"REAL_CLUBE_109",
+    "stop_name":"REAL CLUBE_109",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.223939979448915,
+    "stop_lon":-35.893642986193299
+  },
+  {
+    "stop_id":"HELENO_CABELEREIRO_110",
+    "stop_name":"HELENO CABELEREIRO_110",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.226473996415734,
+    "stop_lon":-35.899007990956306
+  },
+  {
+    "stop_id":"1640_111",
+    "stop_name":"1640_111",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.228187005966902,
+    "stop_lon":-35.902856038883328
+  },
+  {
+    "stop_id":"MULTI_CAR_-_OPOSTO_112",
+    "stop_name":"MULTI CAR - OPOSTO_112",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.230028007179499,
+    "stop_lon":-35.907143969088793
+  },
+  {
+    "stop_id":"2380_113",
+    "stop_name":"2380_113",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.23089100793004,
+    "stop_lon":-35.909094018861651
+  },
+  {
+    "stop_id":"VERBO_DA_VIDA_-_OPOSTO_114",
+    "stop_name":"VERBO DA VIDA - OPOSTO_114",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.233152026310563,
+    "stop_lon":-35.914154006168246
+  },
+  {
+    "stop_id":"IGREJA_EVANGELICA_115",
+    "stop_name":"IGREJA EVANGELICA_115",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.234217030927539,
+    "stop_lon":-35.916621973738074
+  },
+  {
+    "stop_id":"MAXXI_ATACADO_116",
+    "stop_name":"MAXXI ATACADO_116",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.234845003113151,
+    "stop_lon":-35.918043041601777
+  },
+  {
+    "stop_id":"4060_117",
+    "stop_name":"4060_117",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.23682296462357,
+    "stop_lon":-35.922676976770163
+  },
+  {
+    "stop_id":"4130_118",
+    "stop_name":"4130_118",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.238340005278587,
+    "stop_lon":-35.926131997257471
+  },
+  {
+    "stop_id":"BAR_SURUBIM_-_OPOSTO_119",
+    "stop_name":"BAR SURUBIM - OPOSTO_119",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.238983986899257,
+    "stop_lon":-35.92765599489212
+  },
+  {
+    "stop_id":"HOSPITAL_DE_TRAUMA_120",
+    "stop_name":"HOSPITAL DE TRAUMA_120",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.240465991199017,
+    "stop_lon":-35.931123001500964
+  },
+  {
+    "stop_id":"45_121",
+    "stop_name":"45_121",
+    "stop_desc":"Rua / Avenida: ANTONIO JOSE RODRIGUES",
+    "stop_lat":-7.231111032888293,
+    "stop_lon":-35.86670002900064
+  },
+  {
+    "stop_id":"BAR_SURUBIM_122",
+    "stop_name":"BAR SURUBIM_122",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.239194037392736,
+    "stop_lon":-35.927593968808651
+  },
+  {
+    "stop_id":"17_123",
+    "stop_name":"17_123",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.238525999709964,
+    "stop_lon":-35.926066031679511
+  },
+  {
+    "stop_id":"08_124",
+    "stop_name":"08_124",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.237103004008532,
+    "stop_lon":-35.922850985080004
+  },
+  {
+    "stop_id":"14B_125",
+    "stop_name":"14B_125",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.236501015722752,
+    "stop_lon":-35.921370992437005
+  },
+  {
+    "stop_id":"MEGA_NORDESTE_126",
+    "stop_name":"MEGA NORDESTE_126",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.235221015289426,
+    "stop_lon":-35.918448977172375
+  },
+  {
+    "stop_id":"FAVELA_DO_PAPELAO_127",
+    "stop_name":"FAVELA DO PAPELAO_127",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.233501970767975,
+    "stop_lon":-35.914534041658044
+  },
+  {
+    "stop_id":"RHEMA_128",
+    "stop_name":"RHEMA_128",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.232992015779018,
+    "stop_lon":-35.913394019007683
+  },
+  {
+    "stop_id":"2693_129",
+    "stop_name":"2693_129",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.232174025848508,
+    "stop_lon":-35.91156299225986
+  },
+  {
+    "stop_id":"PIZZARELLA_-_OPOSTO_130",
+    "stop_name":"PIZZARELLA - OPOSTO_130",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.231200970709324,
+    "stop_lon":-35.909317983314395
+  },
+  {
+    "stop_id":"MULTICAR_131",
+    "stop_name":"MULTICAR_131",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.230352973565459,
+    "stop_lon":-35.907427025958896
+  },
+  {
+    "stop_id":"1819_132",
+    "stop_name":"1819_132",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.22904103808105,
+    "stop_lon":-35.90451599098742
+  },
+  {
+    "stop_id":"1800_133",
+    "stop_name":"1800_133",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.228791005909443,
+    "stop_lon":-35.904309041798115
+  },
+  {
+    "stop_id":"LANCHONETE_134",
+    "stop_name":"LANCHONETE_134",
+    "stop_desc":"Rua / Avenida: DOM BOSCO",
+    "stop_lat":-7.227057041600347,
+    "stop_lon":-35.870165023952723
+  },
+  {
+    "stop_id":"1359_135",
+    "stop_name":"1359_135",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.227765982970595,
+    "stop_lon":-35.901462966576219
+  },
+  {
+    "stop_id":"IGREJA_SAO_CRISTOVAO_136",
+    "stop_name":"IGREJA SAO CRISTOVAO_136",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.226698966696858,
+    "stop_lon":-35.899073034524918
+  },
+  {
+    "stop_id":"APTA_-_OPOSTO_137",
+    "stop_name":"APTA - OPOSTO_137",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.225063992664218,
+    "stop_lon":-35.895604016259313
+  },
+  {
+    "stop_id":"845_138",
+    "stop_name":"845_138",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.2238630335778,
+    "stop_lon":-35.893097994849086
+  },
+  {
+    "stop_id":"217_139",
+    "stop_name":"217_139",
+    "stop_desc":"Rua / Avenida: PROFESSOR MIRON",
+    "stop_lat":-7.230090033262968,
+    "stop_lon":-35.868856022134423
+  },
+  {
+    "stop_id":"PRACA_CLEMENTINO_PROCOPIO_140",
+    "stop_name":"PRACA CLEMENTINO PROCOPIO_140",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.21965498290956,
+    "stop_lon":-35.88401997461915
+  },
+  {
+    "stop_id":"344_141",
+    "stop_name":"344_141",
+    "stop_desc":"Rua / Avenida: ANTONIO VILARIM",
+    "stop_lat":-7.241656975820661,
+    "stop_lon":-35.872124964371324
+  },
+  {
+    "stop_id":"APAE_142",
+    "stop_name":"APAE_142",
+    "stop_desc":"Rua / Avenida: EUTECIA VITAL RIBEIRO",
+    "stop_lat":-7.240926995873451,
+    "stop_lon":-35.87140697054565
+  },
+  {
+    "stop_id":"BOMPRECO_143",
+    "stop_name":"BOMPRECO_143",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.218091003596783,
+    "stop_lon":-35.881127966567874
+  },
+  {
+    "stop_id":"BOMPRECO_144",
+    "stop_name":"BOMPRECO_144",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.218154035508633,
+    "stop_lon":-35.88124799542129
+  },
+  {
+    "stop_id":"ARCA_CATEDRAL_145",
+    "stop_name":"ARCA CATEDRAL_145",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.218463998287916,
+    "stop_lon":-35.881946040317416
+  },
+  {
+    "stop_id":"ANTIGO_PHD_146",
+    "stop_name":"ANTIGO PHD_146",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.218560976907611,
+    "stop_lon":-35.88219297118485
+  },
+  {
+    "stop_id":"PRACA_DA_BANDEIRA_147",
+    "stop_name":"PRACA DA BANDEIRA_147",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.21973704174161,
+    "stop_lon":-35.884739980101585
+  },
+  {
+    "stop_id":"347_148",
+    "stop_name":"347_148",
+    "stop_desc":"Rua / Avenida: CAMPOS SALES",
+    "stop_lat":-7.223361963406205,
+    "stop_lon":-35.873049991205335
+  },
+  {
+    "stop_id":"PRACA_DA_BANDEIRA_149",
+    "stop_name":"PRACA DA BANDEIRA_149",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.219895962625742,
+    "stop_lon":-35.885014990344644
+  },
+  {
+    "stop_id":"141_150",
+    "stop_name":"141_150",
+    "stop_desc":"Rua / Avenida: MININISTRO JOSE AMERICO DE ALMEIDA",
+    "stop_lat":-7.219708962365985,
+    "stop_lon":-35.873210001736879
+  },
+  {
+    "stop_id":"DAMAS_151",
+    "stop_name":"DAMAS_151",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.220155969262123,
+    "stop_lon":-35.885573979467154
+  },
+  {
+    "stop_id":"JR_CABELEREIRO_152",
+    "stop_name":"JR CABELEREIRO_152",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.220550002530217,
+    "stop_lon":-35.88642499409616
+  },
+  {
+    "stop_id":"1328_153",
+    "stop_name":"1328_153",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.227328028529882,
+    "stop_lon":-35.901032974943519
+  },
+  {
+    "stop_id":"PIZZARELLA_154",
+    "stop_name":"PIZZARELLA_154",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.23104196600616,
+    "stop_lon":-35.909395013004541
+  },
+  {
+    "stop_id":"ARCA_TITAO_155",
+    "stop_name":"ARCA TITAO_155",
+    "stop_desc":"Rua / Avenida: FLORIANO PEIXOTO",
+    "stop_lat":-7.220496023073793,
+    "stop_lon":-35.885902969166636
+  },
+  {
+    "stop_id":"303_-_OPOSTO_156",
+    "stop_name":"303 - OPOSTO_156",
+    "stop_desc":"Rua / Avenida: ALMIRANTE BARROSO",
+    "stop_lat":-7.233568020164967,
+    "stop_lon":-35.894907983019948
+  },
+  {
+    "stop_id":"470A_157",
+    "stop_name":"470A_157",
+    "stop_desc":"Rua / Avenida: ALMIRANTE BARROSO",
+    "stop_lat":-7.234766967594624,
+    "stop_lon":-35.895782969892025
+  },
+  {
+    "stop_id":"820_158",
+    "stop_name":"820_158",
+    "stop_desc":"Rua / Avenida: ALMIRANTE BARROSO",
+    "stop_lat":-7.23725002259016,
+    "stop_lon":-35.897753974422812
+  },
+  {
+    "stop_id":"PANIFICADORA_RAINHA_DO_CRUZEIRO_159",
+    "stop_name":"PANIFICADORA RAINHA DO CRUZEIRO_159",
+    "stop_desc":"Rua / Avenida: ALMIRANTE BARROSO",
+    "stop_lat":-7.238530023023486,
+    "stop_lon":-35.898702973499894
+  },
+  {
+    "stop_id":"1408_160",
+    "stop_name":"1408_160",
+    "stop_desc":"Rua / Avenida: ALMIRANTE BARROSO",
+    "stop_lat":-7.241049036383629,
+    "stop_lon":-35.900904983282089
+  },
+  {
+    "stop_id":"1716_161",
+    "stop_name":"1716_161",
+    "stop_desc":"Rua / Avenida: ALMIRANTE BARROSO",
+    "stop_lat":-7.243249034509063,
+    "stop_lon":-35.902554038912058
+  },
+  {
+    "stop_id":"1908_162",
+    "stop_name":"1908_162",
+    "stop_desc":"Rua / Avenida: ALMIRANTE BARROSO",
+    "stop_lat":-7.244155034422875,
+    "stop_lon":-35.904069989919662
+  },
+  {
+    "stop_id":"2248_163",
+    "stop_name":"2248_163",
+    "stop_desc":"Rua / Avenida: ALMIRANTE BARROSO",
+    "stop_lat":-7.245451966300607,
+    "stop_lon":-35.906710037961602
+  },
+  {
+    "stop_id":"2690_164",
+    "stop_name":"2690_164",
+    "stop_desc":"Rua / Avenida: ALMIRANTE BARROSO",
+    "stop_lat":-7.246160991489887,
+    "stop_lon":-35.910662021487951
+  },
+  {
+    "stop_id":"242_165",
+    "stop_name":"242_165",
+    "stop_desc":"Rua / Avenida: FRANCISCO LOPES DE ALMEIDA",
+    "stop_lat":-7.246329970657826,
+    "stop_lon":-35.912461029365659
+  },
+  {
+    "stop_id":"SAFRA_-_OPOSTO_166",
+    "stop_name":"SAFRA - OPOSTO_166",
+    "stop_desc":"Rua / Avenida: FRANCISCO LOPES DE ALMEIDA",
+    "stop_lat":-7.246412029489875,
+    "stop_lon":-35.916228024289012
+  },
+  {
+    "stop_id":"115_167",
+    "stop_name":"115_167",
+    "stop_desc":"Rua / Avenida: FRANCISCO LOPES DE ALMEIDA",
+    "stop_lat":-7.246520994231105,
+    "stop_lon":-35.918790036812425
+  },
+  {
+    "stop_id":"POSTO_DE_SAUDE_168",
+    "stop_name":"POSTO DE SAUDE_168",
+    "stop_desc":"Rua / Avenida: FRANCISCO LOPES DE ALMEIDA",
+    "stop_lat":-7.246964983642101,
+    "stop_lon":-35.920892972499132
+  },
+  {
+    "stop_id":"LAVA_JATO_169",
+    "stop_name":"LAVA JATO_169",
+    "stop_desc":"Rua / Avenida: FRANCISCO LOPES DE ALMEIDA",
+    "stop_lat":-7.248755022883415,
+    "stop_lon":-35.923209981992841
+  },
+  {
+    "stop_id":"2011_-_OPOSTO_170",
+    "stop_name":"2011 - OPOSTO_170",
+    "stop_desc":"Rua / Avenida: FRANCISCO LOPES DE ALMEIDA",
+    "stop_lat":-7.251530019566417,
+    "stop_lon":-35.928287990391254
+  },
+  {
+    "stop_id":"SEST_-_SENAT_171",
+    "stop_name":"SEST - SENAT_171",
+    "stop_desc":"Rua / Avenida: FRANCISCO LOPES DE ALMEIDA",
+    "stop_lat":-7.251605959609151,
+    "stop_lon":-35.929371016100049
+  },
+  {
+    "stop_id":"CIRETRAN_172",
+    "stop_name":"CIRETRAN_172",
+    "stop_desc":"Rua / Avenida: FRANCISCO LOPES DE ALMEIDA",
+    "stop_lat":-7.251734035089612,
+    "stop_lon":-35.930613968521357
+  },
+  {
+    "stop_id":"CIRETRAN_-_OPOSTO_173",
+    "stop_name":"CIRETRAN - OPOSTO_173",
+    "stop_desc":"Rua / Avenida: FRANCISCO LOPES DE ALMEIDA",
+    "stop_lat":-7.251892033964396,
+    "stop_lon":-35.930821001529694
+  },
+  {
+    "stop_id":"1995_174",
+    "stop_name":"1995_174",
+    "stop_desc":"Rua / Avenida: FRANCISCO LOPES DE ALMEIDA",
+    "stop_lat":-7.251596990972757,
+    "stop_lon":-35.928100990131497
+  },
+  {
+    "stop_id":"1914_175",
+    "stop_name":"1914_175",
+    "stop_desc":"Rua / Avenida: FRANCISCO LOPES DE ALMEIDA",
+    "stop_lat":-7.2511319629848,
+    "stop_lon":-35.926867006346583
+  },
+  {
+    "stop_id":"699_176",
+    "stop_name":"699_176",
+    "stop_desc":"Rua / Avenida: FRANCISCO LOPES DE ALMEIDA",
+    "stop_lat":-7.249272018671036,
+    "stop_lon":-35.92376796528697
+  },
+  {
+    "stop_id":"09_177",
+    "stop_name":"09_177",
+    "stop_desc":"Rua / Avenida: FRANCISCO LOPES DE ALMEIDA",
+    "stop_lat":-7.248428966850042,
+    "stop_lon":-35.922662978991866
+  },
+  {
+    "stop_id":"06_178",
+    "stop_name":"06_178",
+    "stop_desc":"Rua / Avenida: FRANCISCO LOPES DE ALMEIDA",
+    "stop_lat":-7.247315011918545,
+    "stop_lon":-35.921196984127164
+  },
+  {
+    "stop_id":"839_179",
+    "stop_name":"839_179",
+    "stop_desc":"Rua / Avenida: FRANCISCO LOPES DE ALMEIDA",
+    "stop_lat":-7.246625013649464,
+    "stop_lon":-35.918934037908912
+  },
+  {
+    "stop_id":"SAFRA_180",
+    "stop_name":"SAFRA_180",
+    "stop_desc":"Rua / Avenida: FRANCISCO LOPES DE ALMEIDA",
+    "stop_lat":-7.246487969532609,
+    "stop_lon":-35.91620497405529
+  },
+  {
+    "stop_id":"155_181",
+    "stop_name":"155_181",
+    "stop_desc":"Rua / Avenida: FRANCISCO LOPES DE ALMEIDA",
+    "stop_lat":-7.246485035866499,
+    "stop_lon":-35.912779960781336
+  },
+  {
+    "stop_id":"2591_182",
+    "stop_name":"2591_182",
+    "stop_desc":"Rua / Avenida: ALMIRANTE BARROSO",
+    "stop_lat":-7.246215976774693,
+    "stop_lon":-35.910283997654915
+  },
+  {
+    "stop_id":"2439_183",
+    "stop_name":"2439_183",
+    "stop_desc":"Rua / Avenida: ALMIRANTE BARROSO",
+    "stop_lat":-7.245979020372033,
+    "stop_lon":-35.908733010292053
+  },
+  {
+    "stop_id":"A&C_184",
+    "stop_name":"A&C_184",
+    "stop_desc":"Rua / Avenida: ALMIRANTE BARROSO",
+    "stop_lat":-7.245272006839514,
+    "stop_lon":-35.90584896504879
+  },
+  {
+    "stop_id":"1812_185",
+    "stop_name":"1812_185",
+    "stop_desc":"Rua / Avenida: ALMIRANTE BARROSO",
+    "stop_lat":-7.243998041376472,
+    "stop_lon":-35.903633963316679
+  },
+  {
+    "stop_id":"CRUZEIRO_-_OPOSTO_186",
+    "stop_name":"CRUZEIRO - OPOSTO_186",
+    "stop_desc":"Rua / Avenida: JUSCELINO KUBITSCHEK",
+    "stop_lat":-7.244493998587132,
+    "stop_lon":-35.903493985533714
+  },
+  {
+    "stop_id":"1295_-_OPOSTO_187",
+    "stop_name":"1295 - OPOSTO_187",
+    "stop_desc":"Rua / Avenida: JUSCELINO KUBITSCHEK",
+    "stop_lat":-7.24685400724411,
+    "stop_lon":-35.904769962653518
+  },
+  {
+    "stop_id":"IGREJA_VERBO_DA_VIDA_188",
+    "stop_name":"IGREJA VERBO DA VIDA_188",
+    "stop_desc":"Rua / Avenida: JUSCELINO KUBITSCHEK",
+    "stop_lat":-7.248510019853711,
+    "stop_lon":-35.905617037788033
+  },
+  {
+    "stop_id":"1800_189",
+    "stop_name":"1800_189",
+    "stop_desc":"Rua / Avenida: JUSCELINO KUBITSCHEK",
+    "stop_lat":-7.250386979430914,
+    "stop_lon":-35.906524965539575
+  },
+  {
+    "stop_id":"1856_190",
+    "stop_name":"1856_190",
+    "stop_desc":"Rua / Avenida: JUSCELINO KUBITSCHEK",
+    "stop_lat":-7.251702016219497,
+    "stop_lon":-35.907259974628687
+  },
+  {
+    "stop_id":"2002_191",
+    "stop_name":"2002_191",
+    "stop_desc":"Rua / Avenida: JUSCELINO KUBITSCHEK",
+    "stop_lat":-7.25327798165381,
+    "stop_lon":-35.908068995922804
+  },
+  {
+    "stop_id":"ASSEMBLEIA_DE_DEUS_-_OPOSTO_192",
+    "stop_name":"ASSEMBLEIA DE DEUS - OPOSTO_192",
+    "stop_desc":"Rua / Avenida: JUSCELINO KUBITSCHEK",
+    "stop_lat":-7.255120994523168,
+    "stop_lon":-35.909017994999886
+  },
+  {
+    "stop_id":"2550_193",
+    "stop_name":"2550_193",
+    "stop_desc":"Rua / Avenida: JUSCELINO KUBITSCHEK",
+    "stop_lat":-7.256409041583538,
+    "stop_lon":-35.909699024632573
+  },
+  {
+    "stop_id":"2910_194",
+    "stop_name":"2910_194",
+    "stop_desc":"Rua / Avenida: JUSCELINO KUBITSCHEK",
+    "stop_lat":-7.261050017550588,
+    "stop_lon":-35.911888964474201
+  },
+  {
+    "stop_id":"2739_195",
+    "stop_name":"2739_195",
+    "stop_desc":"Rua / Avenida: JUSCELINO KUBITSCHEK",
+    "stop_lat":-7.258248031139374,
+    "stop_lon":-35.910382987931371
+  },
+  {
+    "stop_id":"2175_196",
+    "stop_name":"2175_196",
+    "stop_desc":"Rua / Avenida: JUSCELINO KUBITSCHEK",
+    "stop_lat":-7.253539999946952,
+    "stop_lon":-35.907937986776233
+  },
+  {
+    "stop_id":"1791_197",
+    "stop_name":"1791_197",
+    "stop_desc":"Rua / Avenida: JUSCELINO KUBITSCHEK",
+    "stop_lat":-7.251118971034885,
+    "stop_lon":-35.906688999384642
+  },
+  {
+    "stop_id":"1679_198",
+    "stop_name":"1679_198",
+    "stop_desc":"Rua / Avenida: JUSCELINO KUBITSCHEK",
+    "stop_lat":-7.249999986961484,
+    "stop_lon":-35.906123975291848
+  },
+  {
+    "stop_id":"1533_199",
+    "stop_name":"1533_199",
+    "stop_desc":"Rua / Avenida: JUSCELINO KUBITSCHEK",
+    "stop_lat":-7.248611021786928,
+    "stop_lon":-35.905433977022767
+  },
+  {
+    "stop_id":"1295_200",
+    "stop_name":"1295_200",
+    "stop_desc":"Rua / Avenida: JUSCELINO KUBITSCHEK",
+    "stop_lat":-7.246988033875823,
+    "stop_lon":-35.904590003192425
+  },
+  {
+    "stop_id":"830_-_OPOSTO_201",
+    "stop_name":"830 - OPOSTO_201",
+    "stop_desc":"Rua / Avenida: JUSCELINO KUBITSCHEK",
+    "stop_lat":-7.244883002713323,
+    "stop_lon":-35.903491973876953
+  },
+  {
+    "stop_id":"897_202",
+    "stop_name":"897_202",
+    "stop_desc":"Rua / Avenida: COSTA E SILVA",
+    "stop_lat":-7.237774981185794,
+    "stop_lon":-35.902844974771142
+  },
+  {
+    "stop_id":"675_203",
+    "stop_name":"675_203",
+    "stop_desc":"Rua / Avenida: COSTA E SILVA",
+    "stop_lat":-7.235800959169865,
+    "stop_lon":-35.902761993929744
+  },
+  {
+    "stop_id":"469_204",
+    "stop_name":"469_204",
+    "stop_desc":"Rua / Avenida: COSTA E SILVA",
+    "stop_lat":-7.234161039814353,
+    "stop_lon":-35.902723018079996
+  },
+  {
+    "stop_id":"670_205",
+    "stop_name":"670_205",
+    "stop_desc":"Rua / Avenida: COSTA E SILVA",
+    "stop_lat":-7.235727030783892,
+    "stop_lon":-35.902899038046598
+  },
+  {
+    "stop_id":"ESCOLA_CRISTINA_PROCOPIO_206",
+    "stop_name":"ESCOLA CRISTINA PROCOPIO_206",
+    "stop_desc":"Rua / Avenida: COSTA E SILVA",
+    "stop_lat":-7.237609019502997,
+    "stop_lon":-35.902977995574474
+  },
+  {
+    "stop_id":"FIEP_207",
+    "stop_name":"FIEP_207",
+    "stop_desc":"Rua / Avenida: MANOEL GONCALVES DE GUMARAES",
+    "stop_lat":-7.222213977947831,
+    "stop_lon":-35.875603035092354
+  },
+  {
+    "stop_id":"39_208",
+    "stop_name":"39_208",
+    "stop_desc":"Rua / Avenida: JILO GUEDES",
+    "stop_lat":-7.218668013811112,
+    "stop_lon":-35.87548702955246
+  },
+  {
+    "stop_id":"MARCENARIA_209",
+    "stop_name":"MARCENARIA_209",
+    "stop_desc":"Rua / Avenida: JANUNCIO FERREIRA",
+    "stop_lat":-7.213413985446096,
+    "stop_lon":-35.883741024881601
+  },
+  {
+    "stop_id":"2939_210",
+    "stop_name":"2939_210",
+    "stop_desc":"Rua / Avenida: SERGIPE",
+    "stop_lat":-7.256129002198577,
+    "stop_lon":-35.888925986364484
+  },
+  {
+    "stop_id":"23_211",
+    "stop_name":"23_211",
+    "stop_desc":"Rua / Avenida: MANOEL ALVES DO NASCIMENTO",
+    "stop_lat":-7.255646958947182,
+    "stop_lon":-35.889567034319043
+  },
+  {
+    "stop_id":"BORBAO_212",
+    "stop_name":"BORBAO_212",
+    "stop_desc":"Rua / Avenida: JILO GUEDES",
+    "stop_lat":-7.218871023505926,
+    "stop_lon":-35.875774025917053
+  },
+  {
+    "stop_id":"POSTO_ALE_213",
+    "stop_name":"POSTO ALE_213",
+    "stop_desc":"Rua / Avenida: JILO GUEDES",
+    "stop_lat":-7.221491960808635,
+    "stop_lon":-35.875405976548791
+  },
+  {
+    "stop_id":"COLEGIO_FÊNIX_214",
+    "stop_name":"COLEGIO FÊNIX_214",
+    "stop_desc":"Rua / Avenida: SEVERINO CRUZ",
+    "stop_lat":-7.223130036145449,
+    "stop_lon":-35.878176027908921
+  },
+  {
+    "stop_id":"HOSPITAL_GARDEN_215",
+    "stop_name":"HOSPITAL GARDEN_215",
+    "stop_desc":"Rua / Avenida: SEVERINO CRUZ",
+    "stop_lat":-7.225414020940661,
+    "stop_lon":-35.882734023034573
+  },
+  {
+    "stop_id":"ESCOLA_NORMAL_216",
+    "stop_name":"ESCOLA NORMAL_216",
+    "stop_desc":"Rua / Avenida: SEVERINO BEZERRA CABRAL",
+    "stop_lat":-7.230108976364136,
+    "stop_lon":-35.872886963188648
+  },
+  {
+    "stop_id":"ESCOLA_NORMAL_217",
+    "stop_name":"ESCOLA NORMAL_217",
+    "stop_desc":"Rua / Avenida: SEVERINO BEZERRA CABRAL",
+    "stop_lat":-7.230257000774145,
+    "stop_lon":-35.872779004275799
+  },
+  {
+    "stop_id":"AUTO_SHOPPING_-_OPOSTO_218",
+    "stop_name":"AUTO SHOPPING - OPOSTO_218",
+    "stop_desc":"Rua / Avenida: SEVERINO BEZERRA CABRAL",
+    "stop_lat":-7.232503015547991,
+    "stop_lon":-35.870958035811782
+  },
+  {
+    "stop_id":"COPASA_219",
+    "stop_name":"COPASA_219",
+    "stop_desc":"Rua / Avenida: SEVERINO BEZERRA CABRAL",
+    "stop_lat":-7.235314976423979,
+    "stop_lon":-35.868600038811564
+  },
+  {
+    "stop_id":"POLÍCIA_FEDERAL_221",
+    "stop_name":"POLÍCIA FEDERAL_221",
+    "stop_desc":"Rua / Avenida: SEVERINO BEZERRA CABRAL",
+    "stop_lat":-7.233202988281846,
+    "stop_lon":-35.87009503506124
+  },
+  {
+    "stop_id":"AUTO-MOTIVA_222",
+    "stop_name":"AUTO-MOTIVA_222",
+    "stop_desc":"Rua / Avenida: SEVERINO BEZERRA CABRAL",
+    "stop_lat":-7.229684013873339,
+    "stop_lon":-35.873016966506839
+  },
+  {
+    "stop_id":"AUTO-MOTIVA_223",
+    "stop_name":"AUTO-MOTIVA_223",
+    "stop_desc":"Rua / Avenida: SEVERINO BEZERRA CABRAL",
+    "stop_lat":-7.229545963928103,
+    "stop_lon":-35.873124003410339
+  },
+  {
+    "stop_id":"205_224",
+    "stop_name":"205_224",
+    "stop_desc":"Rua / Avenida: SEVERINO BEZERRA CABRAL",
+    "stop_lat":-7.226597964763641,
+    "stop_lon":-35.87557403370738
+  },
+  {
+    "stop_id":"SENAC_225",
+    "stop_name":"SENAC_225",
+    "stop_desc":"Rua / Avenida: MANOEL TAVARES",
+    "stop_lat":-7.213740041479468,
+    "stop_lon":-35.877096019685268
+  },
+  {
+    "stop_id":"1244_226",
+    "stop_name":"1244_226",
+    "stop_desc":"Rua / Avenida: MANOEL TAVARES",
+    "stop_lat":-7.205357970669866,
+    "stop_lon":-35.874755959957838
+  },
+  {
+    "stop_id":"ATACADAO_227",
+    "stop_name":"ATACADAO_227",
+    "stop_desc":"Rua / Avenida: MANOEL TAVARES",
+    "stop_lat":-7.201404981315136,
+    "stop_lon":-35.876545999199152
+  },
+  {
+    "stop_id":"PARQUE_DE_EXPOSICOES_228",
+    "stop_name":"PARQUE DE EXPOSICOES_228",
+    "stop_desc":"Rua / Avenida: BR-104 (SUL)",
+    "stop_lat":-7.285508997738361,
+    "stop_lon":-35.889586983248591
+  },
+  {
+    "stop_id":"807_229",
+    "stop_name":"807_229",
+    "stop_desc":"Rua / Avenida: MANOEL TAVARES",
+    "stop_lat":-7.209166958928108,
+    "stop_lon":-35.875959014520049
+  },
+  {
+    "stop_id":"HOSPITAL_MARIANA_230",
+    "stop_name":"HOSPITAL MARIANA_230",
+    "stop_desc":"Rua / Avenida: SEVERINO BEZERRA CABRAL",
+    "stop_lat":-7.226385064423084,
+    "stop_lon":-35.875945352017879
+  },
+  {
+    "stop_id":"SUPERMERCADO_QPRECO_231",
+    "stop_name":"SUPERMERCADO QPRECO_231",
+    "stop_desc":"Rua / Avenida: VIGARIO CALIXTO",
+    "stop_lat":-7.231242964044213,
+    "stop_lon":-35.880552968010306
+  },
+  {
+    "stop_id":"748_232",
+    "stop_name":"748_232",
+    "stop_desc":"Rua / Avenida: VIGARIO CALIXTO",
+    "stop_lat":-7.232988998293877,
+    "stop_lon":-35.879817958921194
+  },
+  {
+    "stop_id":"LUIZA_MOTTA_-_OPOSTO_233",
+    "stop_name":"LUIZA MOTTA - OPOSTO_233",
+    "stop_desc":"Rua / Avenida: VIGARIO CALIXTO",
+    "stop_lat":-7.234259024262428,
+    "stop_lon":-35.879603968933225
+  },
+  {
+    "stop_id":"1194_234",
+    "stop_name":"1194_234",
+    "stop_desc":"Rua / Avenida: VIGARIO CALIXTO",
+    "stop_lat":-7.236302029341459,
+    "stop_lon":-35.879499027505517
+  },
+  {
+    "stop_id":"TUBOS_NOGUEIRA_-_OPOSTO_235",
+    "stop_name":"TUBOS NOGUEIRA - OPOSTO_235",
+    "stop_desc":"Rua / Avenida: VIGARIO CALIXTO",
+    "stop_lat":-7.238690033555031,
+    "stop_lon":-35.879370030015707
+  },
+  {
+    "stop_id":"1530_236",
+    "stop_name":"1530_236",
+    "stop_desc":"Rua / Avenida: VIGARIO CALIXTO",
+    "stop_lat":-7.240892965346575,
+    "stop_lon":-35.879246983677149
+  },
+  {
+    "stop_id":"MATERIAL_DE_CONSTRUCAO_237",
+    "stop_name":"MATERIAL DE CONSTRUCAO_237",
+    "stop_desc":"Rua / Avenida: VIGARIO CALIXTO",
+    "stop_lat":-7.243379959836602,
+    "stop_lon":-35.879129972308874
+  },
+  {
+    "stop_id":"1964_238",
+    "stop_name":"1964_238",
+    "stop_desc":"Rua / Avenida: VIGARIO CALIXTO",
+    "stop_lat":-7.245234958827496,
+    "stop_lon":-35.879092002287507
+  },
+  {
+    "stop_id":"2158_239",
+    "stop_name":"2158_239",
+    "stop_desc":"Rua / Avenida: VIGARIO CALIXTO",
+    "stop_lat":-7.247305037453771,
+    "stop_lon":-35.879201972857118
+  },
+  {
+    "stop_id":"2394_240",
+    "stop_name":"2394_240",
+    "stop_desc":"Rua / Avenida: VIGARIO CALIXTO",
+    "stop_lat":-7.249227007851005,
+    "stop_lon":-35.879053026437759
+  },
+  {
+    "stop_id":"PROJETOS_VISUAIS_241",
+    "stop_name":"PROJETOS VISUAIS_241",
+    "stop_desc":"Rua / Avenida: VIGARIO CALIXTO",
+    "stop_lat":-7.251048982143402,
+    "stop_lon":-35.878885975107551
+  },
+  {
+    "stop_id":"3800_242",
+    "stop_name":"3800_242",
+    "stop_desc":"Rua / Avenida: VIGARIO CALIXTO",
+    "stop_lat":-7.254010979086161,
+    "stop_lon":-35.878914976492524
+  },
+  {
+    "stop_id":"3800_-_OPOSTO_243",
+    "stop_name":"3800 - OPOSTO_243",
+    "stop_desc":"Rua / Avenida: VIGARIO CALIXTO",
+    "stop_lat":-7.25413796491921,
+    "stop_lon":-35.878782039508224
+  },
+  {
+    "stop_id":"825_-_OPOSTO_244",
+    "stop_name":"825 - OPOSTO_244",
+    "stop_desc":"Rua / Avenida: SATURNINO DE BRITO FILHO",
+    "stop_lat":-7.251272024586797,
+    "stop_lon":-35.878274012356997
+  },
+  {
+    "stop_id":"1091_-_OPOSTO_245",
+    "stop_name":"1091 - OPOSTO_245",
+    "stop_desc":"Rua / Avenida: SATURNINO DE BRITO FILHO",
+    "stop_lat":-7.250847984105349,
+    "stop_lon":-35.876017017289996
+  },
+  {
+    "stop_id":"1444_246",
+    "stop_name":"1444_246",
+    "stop_desc":"Rua / Avenida: SATURNINO DE BRITO FILHO",
+    "stop_lat":-7.250231998041272,
+    "stop_lon":-35.872725024819374
+  },
+  {
+    "stop_id":"2025_247",
+    "stop_name":"2025_247",
+    "stop_desc":"Rua / Avenida: ELPÍDIO DE ALMEIDA",
+    "stop_lat":-7.246262999251485,
+    "stop_lon":-35.873430026695132
+  },
+  {
+    "stop_id":"QUINTA_DA_COLINA_248",
+    "stop_name":"QUINTA DA COLINA_248",
+    "stop_desc":"Rua / Avenida: ELPÍDIO DE ALMEIDA",
+    "stop_lat":-7.244202978909016,
+    "stop_lon":-35.874018017202616
+  },
+  {
+    "stop_id":"LOJAO_PARA_249",
+    "stop_name":"LOJAO PARA_249",
+    "stop_desc":"Rua / Avenida: ELPÍDIO DE ALMEIDA",
+    "stop_lat":-7.241154983639717,
+    "stop_lon":-35.874851010739803
+  },
+  {
+    "stop_id":"POLIVALENTE_250",
+    "stop_name":"POLIVALENTE_250",
+    "stop_desc":"Rua / Avenida: ELPÍDIO DE ALMEIDA",
+    "stop_lat":-7.238157028332353,
+    "stop_lon":-35.875644022598863
+  },
+  {
+    "stop_id":"1152_-_OPOSTO_251",
+    "stop_name":"1152 - OPOSTO_251",
+    "stop_desc":"Rua / Avenida: ELPÍDIO DE ALMEIDA",
+    "stop_lat":-7.235718984156847,
+    "stop_lon":-35.876335026696324
+  },
+  {
+    "stop_id":"370_252",
+    "stop_name":"370_252",
+    "stop_desc":"Rua / Avenida: ELPÍDIO DE ALMEIDA",
+    "stop_lat":-7.231461983174086,
+    "stop_lon":-35.877317972481251
+  },
+  {
+    "stop_id":"PARQUE_DA_CRIANCA_253",
+    "stop_name":"PARQUE DA CRIANCA_253",
+    "stop_desc":"Rua / Avenida: ELPÍDIO DE ALMEIDA",
+    "stop_lat":-7.226646998897195,
+    "stop_lon":-35.877106999978423
+  },
+  {
+    "stop_id":"426_254",
+    "stop_name":"426_254",
+    "stop_desc":"Rua / Avenida: ELPÍDIO DE ALMEIDA",
+    "stop_lat":-7.229594998061657,
+    "stop_lon":-35.877274973317981
+  },
+  {
+    "stop_id":"638_255",
+    "stop_name":"638_255",
+    "stop_desc":"Rua / Avenida: ELPÍDIO DE ALMEIDA",
+    "stop_lat":-7.231548987329006,
+    "stop_lon":-35.877447975799441
+  },
+  {
+    "stop_id":"882_256",
+    "stop_name":"882_256",
+    "stop_desc":"Rua / Avenida: ELPÍDIO DE ALMEIDA",
+    "stop_lat":-7.233195025473833,
+    "stop_lon":-35.877114040777087
+  },
+  {
+    "stop_id":"1100_257",
+    "stop_name":"1100_257",
+    "stop_desc":"Rua / Avenida: ELPÍDIO DE ALMEIDA",
+    "stop_lat":-7.235332997515798,
+    "stop_lon":-35.876535018905997
+  },
+  {
+    "stop_id":"POLIVALENTE_-_OPOSTO_258",
+    "stop_name":"POLIVALENTE - OPOSTO_258",
+    "stop_desc":"Rua / Avenida: ELPÍDIO DE ALMEIDA",
+    "stop_lat":-7.238157028332353,
+    "stop_lon":-35.875717028975487
+  },
+  {
+    "stop_id":"1660_259",
+    "stop_name":"1660_259",
+    "stop_desc":"Rua / Avenida: ELPÍDIO DE ALMEIDA",
+    "stop_lat":-7.240334982052445,
+    "stop_lon":-35.875181006267667
+  },
+  {
+    "stop_id":"QUINTA_DA_COLINA_-_OPOSTO_260",
+    "stop_name":"QUINTA DA COLINA - OPOSTO_260",
+    "stop_desc":"Rua / Avenida: ELPÍDIO DE ALMEIDA",
+    "stop_lat":-7.243590010330081,
+    "stop_lon":-35.874311970546842
+  },
+  {
+    "stop_id":"1954_261",
+    "stop_name":"1954_261",
+    "stop_desc":"Rua / Avenida: ELPÍDIO DE ALMEIDA",
+    "stop_lat":-7.245936021208763,
+    "stop_lon":-35.873609986156225
+  },
+  {
+    "stop_id":"CLUBE_CAMPESTRE_262",
+    "stop_name":"CLUBE CAMPESTRE_262",
+    "stop_desc":"Rua / Avenida: ELPÍDIO DE ALMEIDA",
+    "stop_lat":-7.248096959665418,
+    "stop_lon":-35.873027024790645
+  },
+  {
+    "stop_id":"1405_263",
+    "stop_name":"1405_263",
+    "stop_desc":"Rua / Avenida: SATURNINO DE BRITO FILHO",
+    "stop_lat":-7.250100988894701,
+    "stop_lon":-35.872756959870458
+  },
+  {
+    "stop_id":"850_-_OPOSTO_264",
+    "stop_name":"850 - OPOSTO_264",
+    "stop_desc":"Rua / Avenida: SATURNINO DE BRITO FILHO",
+    "stop_lat":-7.251102039590478,
+    "stop_lon":-35.877794986590743
+  },
+  {
+    "stop_id":"2077_265",
+    "stop_name":"2077_265",
+    "stop_desc":"Rua / Avenida: VIGARIO CALIXTO",
+    "stop_lat":-7.250905986875296,
+    "stop_lon":-35.878768963739276
+  },
+  {
+    "stop_id":"2471_266",
+    "stop_name":"2471_266",
+    "stop_desc":"Rua / Avenida: VIGARIO CALIXTO",
+    "stop_lat":-7.249239999800921,
+    "stop_lon":-35.878997035324574
+  },
+  {
+    "stop_id":"COMPLEXO_ALVORADA_-_OPOSTO_267",
+    "stop_name":"COMPLEXO ALVORADA - OPOSTO_267",
+    "stop_desc":"Rua / Avenida: VIGARIO CALIXTO",
+    "stop_lat":-7.247753972187638,
+    "stop_lon":-35.879081021994352
+  },
+  {
+    "stop_id":"1966_-_OPOSTO_268",
+    "stop_name":"1966 - OPOSTO_268",
+    "stop_desc":"Rua / Avenida: VIGARIO CALIXTO",
+    "stop_lat":-7.244409006088972,
+    "stop_lon":-35.878945989534259
+  },
+  {
+    "stop_id":"1445A_269",
+    "stop_name":"1445A_269",
+    "stop_desc":"Rua / Avenida: VIGARIO CALIXTO",
+    "stop_lat":-7.240526005625725,
+    "stop_lon":-35.879170959815383
+  },
+  {
+    "stop_id":"MOTIVA_270",
+    "stop_name":"MOTIVA_270",
+    "stop_desc":"Rua / Avenida: VIGARIO CALIXTO",
+    "stop_lat":-7.237986037507653,
+    "stop_lon":-35.87929199449718
+  },
+  {
+    "stop_id":"1250_-_OPOSTO_271",
+    "stop_name":"1250 - OPOSTO_271",
+    "stop_desc":"Rua / Avenida: VIGARIO CALIXTO",
+    "stop_lat":-7.236818019300699,
+    "stop_lon":-35.879367012530565
+  },
+  {
+    "stop_id":"LUIZA_MOTTA_272",
+    "stop_name":"LUIZA MOTTA_272",
+    "stop_desc":"Rua / Avenida: VIGARIO CALIXTO",
+    "stop_lat":-7.234244020655751,
+    "stop_lon":-35.879447981715202
+  },
+  {
+    "stop_id":"607_273",
+    "stop_name":"607_273",
+    "stop_desc":"Rua / Avenida: VIGARIO CALIXTO",
+    "stop_lat":-7.232795041054487,
+    "stop_lon":-35.879849977791309
+  },
+  {
+    "stop_id":"MACÊDO_RACOES_274",
+    "stop_name":"MACÊDO RACOES_274",
+    "stop_desc":"Rua / Avenida: VIGARIO CALIXTO",
+    "stop_lat":-7.231631968170404,
+    "stop_lon":-35.880291033536196
+  },
+  {
+    "stop_id":"SESC_275",
+    "stop_name":"SESC_275",
+    "stop_desc":"Rua / Avenida: VIGARIO CALIXTO",
+    "stop_lat":-7.228535022586584,
+    "stop_lon":-35.882677026093006
+  },
+  {
+    "stop_id":"ANTIGA_CARANGUEJO_276",
+    "stop_name":"ANTIGA CARANGUEJO_276",
+    "stop_desc":"Rua / Avenida: PAULO DE FRONTEIN",
+    "stop_lat":-7.227659029886127,
+    "stop_lon":-35.88421099819243
+  },
+  {
+    "stop_id":"CAVESA_277",
+    "stop_name":"CAVESA_277",
+    "stop_desc":"Rua / Avenida: MIGUEL COUTO",
+    "stop_lat":-7.225443022325635,
+    "stop_lon":-35.884409984573722
+  },
+  {
+    "stop_id":"UNESC_278",
+    "stop_name":"UNESC_278",
+    "stop_desc":"Rua / Avenida: MIGUEL COUTO",
+    "stop_lat":-7.223272025585175,
+    "stop_lon":-35.88384797796607
+  },
+  {
+    "stop_id":"478_280",
+    "stop_name":"478_280",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.23256504163146,
+    "stop_lon":-35.889062024652958
+  },
+  {
+    "stop_id":"POSTO_IPIRANGA_281",
+    "stop_name":"POSTO IPIRANGA_281",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.235948983579874,
+    "stop_lon":-35.888695986941457
+  },
+  {
+    "stop_id":"SECRETARIA_DE_SAUDE_282",
+    "stop_name":"SECRETARIA DE SAUDE_282",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.240410000085831,
+    "stop_lon":-35.888179996982217
+  },
+  {
+    "stop_id":"1750_-_OPOSTO_283",
+    "stop_name":"1750 - OPOSTO_283",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.243172004818916,
+    "stop_lon":-35.887877997010946
+  },
+  {
+    "stop_id":"ESCOLA_MONSENHOR_SALES_284",
+    "stop_name":"ESCOLA MONSENHOR SALES_284",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.246418986469507,
+    "stop_lon":-35.887400982901454
+  },
+  {
+    "stop_id":"VOLVO_285",
+    "stop_name":"VOLVO_285",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.25119398906827,
+    "stop_lon":-35.88737198151648
+  },
+  {
+    "stop_id":"CDRM_286",
+    "stop_name":"CDRM_286",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.252850001677871,
+    "stop_lon":-35.887302998453379
+  },
+  {
+    "stop_id":"NAZARIA_287",
+    "stop_name":"NAZARIA_287",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.257735980674624,
+    "stop_lon":-35.887181041762233
+  },
+  {
+    "stop_id":"BETONITA_288",
+    "stop_name":"BETONITA_288",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.259607994928956,
+    "stop_lon":-35.887223035097122
+  },
+  {
+    "stop_id":"COTEBRAS_289",
+    "stop_name":"COTEBRAS_289",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.261961968615651,
+    "stop_lon":-35.887444987893105
+  },
+  {
+    "stop_id":"REPLASTIL_290",
+    "stop_name":"REPLASTIL_290",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.263512033969164,
+    "stop_lon":-35.887603992596269
+  },
+  {
+    "stop_id":"ALPARGATAS_291",
+    "stop_name":"ALPARGATAS_291",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.266591964289546,
+    "stop_lon":-35.887856036424637
+  },
+  {
+    "stop_id":"SESI_-_OPOSTO_292",
+    "stop_name":"SESI - OPOSTO_292",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.269147019833326,
+    "stop_lon":-35.888087963685393
+  },
+  {
+    "stop_id":"VIPEX_293",
+    "stop_name":"VIPEX_293",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.270507989451289,
+    "stop_lon":-35.888066003099084
+  },
+  {
+    "stop_id":"CINEP_294",
+    "stop_name":"CINEP_294",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.268745023757219,
+    "stop_lon":-35.887913033366203
+  },
+  {
+    "stop_id":"LANCHONETE_VIDA_NOVA_295",
+    "stop_name":"LANCHONETE VIDA NOVA_295",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.267281040549278,
+    "stop_lon":-35.887782024219632
+  },
+  {
+    "stop_id":"SILVANA_296",
+    "stop_name":"SILVANA_296",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.266350984573364,
+    "stop_lon":-35.887700971215963
+  },
+  {
+    "stop_id":"BAR_DO_PAREDAO_-_OPOSTO_297",
+    "stop_name":"BAR DO PAREDAO - OPOSTO_297",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.265045000240207,
+    "stop_lon":-35.887567028403282
+  },
+  {
+    "stop_id":"BARRACA_SAO_JOSE_298",
+    "stop_name":"BARRACA SAO JOSE_298",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.263536006212235,
+    "stop_lon":-35.887450017035007
+  },
+  {
+    "stop_id":"FENOPLAST_299",
+    "stop_name":"FENOPLAST_299",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.261808998882771,
+    "stop_lon":-35.887281037867069
+  },
+  {
+    "stop_id":"NAZARIA_300",
+    "stop_name":"NAZARIA_300",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.257565995678306,
+    "stop_lon":-35.8870480209589
+  },
+  {
+    "stop_id":"2935_301",
+    "stop_name":"2935_301",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.255590967833996,
+    "stop_lon":-35.887131001800299
+  },
+  {
+    "stop_id":"VOLVO_-_OPOSTO_302",
+    "stop_name":"VOLVO - OPOSTO_302",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.251034984365106,
+    "stop_lon":-35.88722001761198
+  },
+  {
+    "stop_id":"1433_303",
+    "stop_name":"1433_303",
+    "stop_desc":"Rua / Avenida: CONSUL JOSEPH NOUJUAIN HABIB NACAD",
+    "stop_lat":-7.246171971783042,
+    "stop_lon":-35.885876985266805
+  },
+  {
+    "stop_id":"RES._ANA_BEATRIZ_304",
+    "stop_name":"RES. ANA BEATRIZ_304",
+    "stop_desc":"Rua / Avenida: CONSUL JOSEPH NOUJUAIN HABIB NACAD",
+    "stop_lat":-7.243864014744759,
+    "stop_lon":-35.884707039222121
+  },
+  {
+    "stop_id":"GRANVIDROS_-_OPOSTO_305",
+    "stop_name":"GRANVIDROS - OPOSTO_305",
+    "stop_desc":"Rua / Avenida: CONSUL JOSEPH NOUJUAIN HABIB NACAD",
+    "stop_lat":-7.241425970569253,
+    "stop_lon":-35.883821994066238
+  },
+  {
+    "stop_id":"MARABA_306",
+    "stop_name":"MARABA_306",
+    "stop_desc":"Rua / Avenida: CONSUL JOSEPH NOUJUAIN HABIB NACAD",
+    "stop_lat":-7.239988977089524,
+    "stop_lon":-35.883645974099636
+  },
+  {
+    "stop_id":"MPF_307",
+    "stop_name":"MPF_307",
+    "stop_desc":"Rua / Avenida: CONSUL JOSEPH NOUJUAIN HABIB NACAD",
+    "stop_lat":-7.237816974520683,
+    "stop_lon":-35.883771032094955
+  },
+  {
+    "stop_id":"PANIFICADORA_308",
+    "stop_name":"PANIFICADORA_308",
+    "stop_desc":"Rua / Avenida: CONSUL JOSEPH NOUJUAIN HABIB NACAD",
+    "stop_lat":-7.235904978588224,
+    "stop_lon":-35.883895000442863
+  },
+  {
+    "stop_id":"CONDOMÍNIO_309",
+    "stop_name":"CONDOMÍNIO_309",
+    "stop_desc":"Rua / Avenida: CONSUL JOSEPH NOUJUAIN HABIB NACAD",
+    "stop_lat":-7.235880000516772,
+    "stop_lon":-35.884174033999443
+  },
+  {
+    "stop_id":"POSTO_-_OPOSTO_310",
+    "stop_name":"POSTO - OPOSTO_310",
+    "stop_desc":"Rua / Avenida: CONSUL JOSEPH NOUJUAIN HABIB NACAD",
+    "stop_lat":-7.238069018349052,
+    "stop_lon":-35.884052999317646
+  },
+  {
+    "stop_id":"GRANVIDROS_311",
+    "stop_name":"GRANVIDROS_311",
+    "stop_desc":"Rua / Avenida: CONSUL JOSEPH NOUJUAIN HABIB NACAD",
+    "stop_lat":-7.241297978907824,
+    "stop_lon":-35.884092980995774
+  },
+  {
+    "stop_id":"53_312",
+    "stop_name":"53_312",
+    "stop_desc":"Rua / Avenida: CONSUL JOSEPH NOUJUAIN HABIB NACAD",
+    "stop_lat":-7.242131978273392,
+    "stop_lon":-35.88419197127223
+  },
+  {
+    "stop_id":"RESIDENCIAL_313",
+    "stop_name":"RESIDENCIAL_313",
+    "stop_desc":"Rua / Avenida: CONSUL JOSEPH NOUJUAIN HABIB NACAD",
+    "stop_lat":-7.2435890045017,
+    "stop_lon":-35.885090008378029
+  },
+  {
+    "stop_id":"27_314",
+    "stop_name":"27_314",
+    "stop_desc":"Rua / Avenida: JOAO BATISTA DA SILVA",
+    "stop_lat":-7.243451038375497,
+    "stop_lon":-35.887468960136175
+  },
+  {
+    "stop_id":"CARAJAS_315",
+    "stop_name":"CARAJAS_315",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.240347974002361,
+    "stop_lon":-35.8880599681288
+  },
+  {
+    "stop_id":"FELINTO_316",
+    "stop_name":"FELINTO_316",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.238790029659867,
+    "stop_lon":-35.888264989480376
+  },
+  {
+    "stop_id":"POSTO_IPIRANGA_-_OPOSTO_317",
+    "stop_name":"POSTO IPIRANGA - OPOSTO_317",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.236195998266339,
+    "stop_lon":-35.888561960309744
+  },
+  {
+    "stop_id":"557_318",
+    "stop_name":"557_318",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.233465006574988,
+    "stop_lon":-35.888841999694705
+  },
+  {
+    "stop_id":"RIO_DO_PEIXE_319",
+    "stop_name":"RIO DO PEIXE_319",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.230884972959757,
+    "stop_lon":-35.889165960252285
+  },
+  {
+    "stop_id":"627_320",
+    "stop_name":"627_320",
+    "stop_desc":"Rua / Avenida: ODON BEZERRA",
+    "stop_lat":-7.236357014626265,
+    "stop_lon":-35.896283034235239
+  },
+  {
+    "stop_id":"446_-_OPOSTO_321",
+    "stop_name":"446 - OPOSTO_321",
+    "stop_desc":"Rua / Avenida: ODON BEZERRA",
+    "stop_lat":-7.236193986609578,
+    "stop_lon":-35.894821984693408
+  },
+  {
+    "stop_id":"115_322",
+    "stop_name":"115_322",
+    "stop_desc":"Rua / Avenida: ODON BEZERRA",
+    "stop_lat":-7.235780004411936,
+    "stop_lon":-35.891706012189388
+  },
+  {
+    "stop_id":"ESCOLA_ESTADUAL_AROLDO_CRUZ_-_OPOSTO_323",
+    "stop_name":"ESCOLA ESTADUAL AROLDO CRUZ - OPOSTO_323",
+    "stop_desc":"Rua / Avenida: PEDRO LEAL",
+    "stop_lat":-7.235437016934156,
+    "stop_lon":-35.886055016890168
+  },
+  {
+    "stop_id":"78_324",
+    "stop_name":"78_324",
+    "stop_desc":"Rua / Avenida: JOAO QUIRINO",
+    "stop_lat":-7.235311958938837,
+    "stop_lon":-35.882791019976139
+  },
+  {
+    "stop_id":"528_325",
+    "stop_name":"528_325",
+    "stop_desc":"Rua / Avenida: JOAO QUIRINO",
+    "stop_lat":-7.235163012519479,
+    "stop_lon":-35.880266977474093
+  },
+  {
+    "stop_id":"706_326",
+    "stop_name":"706_326",
+    "stop_desc":"Rua / Avenida: JOAO QUIRINO",
+    "stop_lat":-7.235107021406293,
+    "stop_lon":-35.878808023408055
+  },
+  {
+    "stop_id":"CENTRAL_DE_POLÍCIA_327",
+    "stop_name":"CENTRAL DE POLÍCIA_327",
+    "stop_desc":"Rua / Avenida: JOAO QUIRINO",
+    "stop_lat":-7.233825009316206,
+    "stop_lon":-35.874018017202616
+  },
+  {
+    "stop_id":"40_328",
+    "stop_name":"40_328",
+    "stop_desc":"Rua / Avenida: RAIMUNDO NONATO",
+    "stop_lat":-7.225745022296906,
+    "stop_lon":-35.868169041350484
+  },
+  {
+    "stop_id":"213_329",
+    "stop_name":"213_329",
+    "stop_desc":"Rua / Avenida: RAIMUNDO NONATO",
+    "stop_lat":-7.223816011101008,
+    "stop_lon":-35.868123024702072
+  },
+  {
+    "stop_id":"147_A_330",
+    "stop_name":"147 A_330",
+    "stop_desc":"Rua / Avenida: MAMEDE MOISES RAIA",
+    "stop_lat":-7.218592995777726,
+    "stop_lon":-35.868025962263346
+  },
+  {
+    "stop_id":"259_-_OPOSTO_331",
+    "stop_name":"259 - OPOSTO_331",
+    "stop_desc":"Rua / Avenida: SANTO ANTONIO",
+    "stop_lat":-7.216226030141115,
+    "stop_lon":-35.864787027239799
+  },
+  {
+    "stop_id":"596_332",
+    "stop_name":"596_332",
+    "stop_desc":"Rua / Avenida: SANTO ANTONIO",
+    "stop_lat":-7.215650025755167,
+    "stop_lon":-35.86345799267292
+  },
+  {
+    "stop_id":"788_333",
+    "stop_name":"788_333",
+    "stop_desc":"Rua / Avenida: SANTO ANTONIO",
+    "stop_lat":-7.214870005846024,
+    "stop_lon":-35.861656973138452
+  },
+  {
+    "stop_id":"792_-_OPOSTO_334",
+    "stop_name":"792 - OPOSTO_334",
+    "stop_desc":"Rua / Avenida: SANTO ANTONIO",
+    "stop_lat":-7.214721981436014,
+    "stop_lon":-35.861549014225602
+  },
+  {
+    "stop_id":"645_335",
+    "stop_name":"645_335",
+    "stop_desc":"Rua / Avenida: SANTO ANTONIO",
+    "stop_lat":-7.215422037988901,
+    "stop_lon":-35.863144006580114
+  },
+  {
+    "stop_id":"945_-_VIZINHO_336",
+    "stop_name":"945 - VIZINHO_336",
+    "stop_desc":"Rua / Avenida: SANTO ANTONIO",
+    "stop_lat":-7.217103028669953,
+    "stop_lon":-35.867392038926482
+  },
+  {
+    "stop_id":"483_337",
+    "stop_name":"483_337",
+    "stop_desc":"Rua / Avenida: SANTO ANTONIO",
+    "stop_lat":-7.217487003654242,
+    "stop_lon":-35.871404958888888
+  },
+  {
+    "stop_id":"323_338",
+    "stop_name":"323_338",
+    "stop_desc":"Rua / Avenida: SANTO ANTONIO",
+    "stop_lat":-7.217752039432526,
+    "stop_lon":-35.872861985117197
+  },
+  {
+    "stop_id":"57_-_OPOSTO_339",
+    "stop_name":"57 - OPOSTO_339",
+    "stop_desc":"Rua / Avenida: SANTO ANTONIO",
+    "stop_lat":-7.217997964471579,
+    "stop_lon":-35.875196009874344
+  },
+  {
+    "stop_id":"252_340",
+    "stop_name":"252_340",
+    "stop_desc":"Rua / Avenida: SANTO ANTONIO",
+    "stop_lat":-7.217869972810149,
+    "stop_lon":-35.873498003929853
+  },
+  {
+    "stop_id":"202_341",
+    "stop_name":"202_341",
+    "stop_desc":"Rua / Avenida: PEDRO DA COSTA AGRA",
+    "stop_lat":-7.223551981151104,
+    "stop_lon":-35.868210028856993
+  },
+  {
+    "stop_id":"382_342",
+    "stop_name":"382_342",
+    "stop_desc":"Rua / Avenida: PEDRO DA COSTA AGRA",
+    "stop_lat":-7.225493984296918,
+    "stop_lon":-35.868283035233617
+  },
+  {
+    "stop_id":"613_-_OPOSTO_343",
+    "stop_name":"613 - OPOSTO_343",
+    "stop_desc":"Rua / Avenida: PEDRO DA COSTA AGRA",
+    "stop_lat":-7.227364992722869,
+    "stop_lon":-35.86831396445632
+  },
+  {
+    "stop_id":"CENTRAL_DE_POLÍCIA_-_OPOSTO_344",
+    "stop_name":"CENTRAL DE POLÍCIA - OPOSTO_344",
+    "stop_desc":"Rua / Avenida: JOAO QUIRINO",
+    "stop_lat":-7.233548993244767,
+    "stop_lon":-35.873816013336182
+  },
+  {
+    "stop_id":"1060_-_OPOSTO_345",
+    "stop_name":"1060 - OPOSTO_345",
+    "stop_desc":"Rua / Avenida: JOAO QUIRINO",
+    "stop_lat":-7.234731009230018,
+    "stop_lon":-35.87572599761188
+  },
+  {
+    "stop_id":"690_-_OPOSTO_346",
+    "stop_name":"690 - OPOSTO_346",
+    "stop_desc":"Rua / Avenida: JOAO QUIRINO",
+    "stop_lat":-7.234984980896115,
+    "stop_lon":-35.878920005634427
+  },
+  {
+    "stop_id":"260_347",
+    "stop_name":"260_347",
+    "stop_desc":"Rua / Avenida: JOAO QUIRINO",
+    "stop_lat":-7.235106015577912,
+    "stop_lon":-35.880814986303449
+  },
+  {
+    "stop_id":"ESCRITORIO_DE_ADVOCACIA_348",
+    "stop_name":"ESCRITORIO DE ADVOCACIA_348",
+    "stop_desc":"Rua / Avenida: JOAO QUIRINO",
+    "stop_lat":-7.235196037217975,
+    "stop_lon":-35.882698986679316
+  },
+  {
+    "stop_id":"1231_349",
+    "stop_name":"1231_349",
+    "stop_desc":"Rua / Avenida: DAMASCO",
+    "stop_lat":-7.235153038054705,
+    "stop_lon":-35.906907012686133
+  },
+  {
+    "stop_id":"1045_350",
+    "stop_name":"1045_350",
+    "stop_desc":"Rua / Avenida: DAMASCO",
+    "stop_lat":-7.235217997804284,
+    "stop_lon":-35.905128959566355
+  },
+  {
+    "stop_id":"867_351",
+    "stop_name":"867_351",
+    "stop_desc":"Rua / Avenida: DAMASCO",
+    "stop_lat":-7.235278012230992,
+    "stop_lon":-35.903590964153409
+  },
+  {
+    "stop_id":"234_-_OPOSTO_352",
+    "stop_name":"234 - OPOSTO_352",
+    "stop_desc":"Rua / Avenida: DAMASCO",
+    "stop_lat":-7.235555034130812,
+    "stop_lon":-35.898265019059181
+  },
+  {
+    "stop_id":"51_353",
+    "stop_name":"51_353",
+    "stop_desc":"Rua / Avenida: VIDAL DE NEGREIROS",
+    "stop_lat":-7.220756029710174,
+    "stop_lon":-35.882995035499334
+  },
+  {
+    "stop_id":"386_354",
+    "stop_name":"386_354",
+    "stop_desc":"Rua / Avenida: AGAMENON MAGALHAES",
+    "stop_lat":-7.212881986051798,
+    "stop_lon":-35.88156902231276
+  },
+  {
+    "stop_id":"SEMINARIO_355",
+    "stop_name":"SEMINARIO_355",
+    "stop_desc":"Rua / Avenida: ESTELITA CRUZ",
+    "stop_lat":-7.211995013058186,
+    "stop_lon":-35.880312994122505
+  },
+  {
+    "stop_id":"951_-_OPOSTO_356",
+    "stop_name":"951 - OPOSTO_356",
+    "stop_desc":"Rua / Avenida: NEWTON ESTILAC LEAL",
+    "stop_lat":-7.208913993090391,
+    "stop_lon":-35.879158973693848
+  },
+  {
+    "stop_id":"1066_357",
+    "stop_name":"1066_357",
+    "stop_desc":"Rua / Avenida: NEWTON ESTILAC LEAL",
+    "stop_lat":-7.209180034697056,
+    "stop_lon":-35.87813101708889
+  },
+  {
+    "stop_id":"483_358",
+    "stop_name":"483_358",
+    "stop_desc":"Rua / Avenida: FELIX CAROLINO BARBOSA",
+    "stop_lat":-7.208881974220276,
+    "stop_lon":-35.877044973894954
+  },
+  {
+    "stop_id":"181_359",
+    "stop_name":"181_359",
+    "stop_desc":"Rua / Avenida: AUGUSTO SANTIAGO",
+    "stop_lat":-7.206070013344288,
+    "stop_lon":-35.876961993053555
+  },
+  {
+    "stop_id":"IGREJA_DE_SAO_SEBASTIAO_360",
+    "stop_name":"IGREJA DE SAO SEBASTIAO_360",
+    "stop_desc":"Rua / Avenida: ESTELITA CRUZ",
+    "stop_lat":-7.205254035070539,
+    "stop_lon":-35.878562014549971
+  },
+  {
+    "stop_id":"91_361",
+    "stop_name":"91_361",
+    "stop_desc":"Rua / Avenida: APOLONIA AMORIM",
+    "stop_lat":-7.204833012074232,
+    "stop_lon":-35.880037983879447
+  },
+  {
+    "stop_id":"EMPASA_362",
+    "stop_name":"EMPASA_362",
+    "stop_desc":"Rua / Avenida: Dr. VASCONCELOS",
+    "stop_lat":-7.203412028029561,
+    "stop_lon":-35.880612982437015
+  },
+  {
+    "stop_id":"243_-_OPOSTO_363",
+    "stop_name":"243 - OPOSTO_363",
+    "stop_desc":"Rua / Avenida: PRESIDENTE ROOSEVELT",
+    "stop_lat":-7.202153988182545,
+    "stop_lon":-35.883242972195148
+  },
+  {
+    "stop_id":"205_364",
+    "stop_name":"205_364",
+    "stop_desc":"Rua / Avenida: CAPITAO ADHEMAR DE PAIVA",
+    "stop_lat":-7.206185013055801,
+    "stop_lon":-35.884653981775045
+  },
+  {
+    "stop_id":"ASSEMBLEIA_DE_DEUS_-_OPOSTO_365",
+    "stop_name":"ASSEMBLEIA DE DEUS - OPOSTO_365",
+    "stop_desc":"Rua / Avenida: NORBERTO LEAL",
+    "stop_lat":-7.207080032676458,
+    "stop_lon":-35.882679959759116
+  },
+  {
+    "stop_id":"246_-_OPOSTO_366",
+    "stop_name":"246 - OPOSTO_366",
+    "stop_desc":"Rua / Avenida: VEREADOR BENEDITO MOTA",
+    "stop_lat":-7.208578968420625,
+    "stop_lon":-35.882864026352763
+  },
+  {
+    "stop_id":"ESC._LUIZ_GOMES_367",
+    "stop_name":"ESC. LUIZ GOMES_367",
+    "stop_desc":"Rua / Avenida: FRANKLIN ARAUJO",
+    "stop_lat":-7.208412000909448,
+    "stop_lon":-35.88414796628058
+  },
+  {
+    "stop_id":"PRACA_368",
+    "stop_name":"PRACA_368",
+    "stop_desc":"Rua / Avenida: FRANCISCO AFONSO DE ALBUQUERQUE",
+    "stop_lat":-7.208199016749859,
+    "stop_lon":-35.885732984170318
+  },
+  {
+    "stop_id":"538_369",
+    "stop_name":"538_369",
+    "stop_desc":"Rua / Avenida: HENRIQUE DIAS",
+    "stop_lat":-7.208439996466041,
+    "stop_lon":-35.88863898999989
+  },
+  {
+    "stop_id":"95_370",
+    "stop_name":"95_370",
+    "stop_desc":"Rua / Avenida: EVARISO PEREIRA DA COSTA",
+    "stop_lat":-7.209354965016246,
+    "stop_lon":-35.890782997012138
+  },
+  {
+    "stop_id":"DONA_CLEMENTINA_371",
+    "stop_name":"DONA CLEMENTINA_371",
+    "stop_desc":"Rua / Avenida: CRISTIANO PALMEIRA",
+    "stop_lat":-7.208191975951195,
+    "stop_lon":-35.891766026616096
+  },
+  {
+    "stop_id":"320_372",
+    "stop_name":"320_372",
+    "stop_desc":"Rua / Avenida: CRISTIANO PALMEIRA",
+    "stop_lat":-7.207133006304503,
+    "stop_lon":-35.892497012391686
+  },
+  {
+    "stop_id":"223_373",
+    "stop_name":"223_373",
+    "stop_desc":"Rua / Avenida: EUCLIDES SEVERIANO",
+    "stop_lat":-7.207334004342556,
+    "stop_lon":-35.890818033367395
+  },
+  {
+    "stop_id":"86_374",
+    "stop_name":"86_374",
+    "stop_desc":"Rua / Avenida: JUVÊNCIO MARTINS DE FRANCA",
+    "stop_lat":-7.20747297629714,
+    "stop_lon":-35.888462970033288
+  },
+  {
+    "stop_id":"166_375",
+    "stop_name":"166_375",
+    "stop_desc":"Rua / Avenida: JUVÊNCIO MARTINS DE FRANCA",
+    "stop_lat":-7.206605030223727,
+    "stop_lon":-35.888675032183528
+  },
+  {
+    "stop_id":"613_376",
+    "stop_name":"613_376",
+    "stop_desc":"Rua / Avenida: HENRIQUE DIAS",
+    "stop_lat":-7.207309026271105,
+    "stop_lon":-35.889009973034263
+  },
+  {
+    "stop_id":"413_-_OPOSTO_377",
+    "stop_name":"413 - OPOSTO_377",
+    "stop_desc":"Rua / Avenida: HENRIQUE DIAS",
+    "stop_lat":-7.209394024685025,
+    "stop_lon":-35.888181002810597
+  },
+  {
+    "stop_id":"1671_378",
+    "stop_name":"1671_378",
+    "stop_desc":"Rua / Avenida: SIQUEIRA CAMPOS",
+    "stop_lat":-7.210483001545072,
+    "stop_lon":-35.887540960684419
+  },
+  {
+    "stop_id":"301_379",
+    "stop_name":"301_379",
+    "stop_desc":"Rua / Avenida: ÍNDIOS PIRAGIBE",
+    "stop_lat":-7.211937010288239,
+    "stop_lon":-35.8869409840554
+  },
+  {
+    "stop_id":"145_380",
+    "stop_name":"145_380",
+    "stop_desc":"Rua / Avenida: ÍNDIOS PIRAGIBE",
+    "stop_lat":-7.212604964151979,
+    "stop_lon":-35.885803978890181
+  },
+  {
+    "stop_id":"10_381",
+    "stop_name":"10_381",
+    "stop_desc":"Rua / Avenida: EPITACIO PESSOA",
+    "stop_lat":-7.213633004575968,
+    "stop_lon":-35.88896001689136
+  },
+  {
+    "stop_id":"518_382",
+    "stop_name":"518_382",
+    "stop_desc":"Rua / Avenida: XV DE NOVEMBRO",
+    "stop_lat":-7.209498966112733,
+    "stop_lon":-35.891787987202406
+  },
+  {
+    "stop_id":"688_383",
+    "stop_name":"688_383",
+    "stop_desc":"Rua / Avenida: XV DE NOVEMBRO",
+    "stop_lat":-7.208218965679407,
+    "stop_lon":-35.892647970467806
+  },
+  {
+    "stop_id":"976_384",
+    "stop_name":"976_384",
+    "stop_desc":"Rua / Avenida: XV DE NOVEMBRO",
+    "stop_lat":-7.206213008612394,
+    "stop_lon":-35.894088987261057
+  },
+  {
+    "stop_id":"118_385",
+    "stop_name":"118_385",
+    "stop_desc":"Rua / Avenida: XV DE NOVEMBRO",
+    "stop_lat":-7.204716000705957,
+    "stop_lon":-35.894807986915112
+  },
+  {
+    "stop_id":"EST_DA_PALMEIRA_386",
+    "stop_name":"EST DA PALMEIRA_386",
+    "stop_desc":"Rua / Avenida: XV DE NOVEMBRO",
+    "stop_lat":-7.199415033683181,
+    "stop_lon":-35.89598597958684
+  },
+  {
+    "stop_id":"368_387",
+    "stop_name":"368_387",
+    "stop_desc":"Rua / Avenida: ANTONIO ALVES LIMA",
+    "stop_lat":-7.196333007887006,
+    "stop_lon":-35.892514027655125
+  },
+  {
+    "stop_id":"230_-_OPOSTO_388",
+    "stop_name":"230 - OPOSTO_388",
+    "stop_desc":"Rua / Avenida: ROBERVAL RODRIGUES DE LIMA",
+    "stop_lat":-7.196930972859263,
+    "stop_lon":-35.891917990520597
+  },
+  {
+    "stop_id":"40B_-_OPOSTO_389",
+    "stop_name":"40B - OPOSTO_389",
+    "stop_desc":"Rua / Avenida: ANTONIO ALVES LIMA",
+    "stop_lat":-7.196212979033589,
+    "stop_lon":-35.892832037061453
+  },
+  {
+    "stop_id":"2636_-_OPOSTO_390",
+    "stop_name":"2636 - OPOSTO_390",
+    "stop_desc":"Rua / Avenida: PARIS",
+    "stop_lat":-7.189511982724071,
+    "stop_lon":-35.898512033745646
+  },
+  {
+    "stop_id":"2819_391",
+    "stop_name":"2819_391",
+    "stop_desc":"Rua / Avenida: PARIS",
+    "stop_lat":-7.18656700104475,
+    "stop_lon":-35.900479014962912
+  },
+  {
+    "stop_id":"_392",
+    "stop_name":"_392",
+    "stop_desc":"Rua / Avenida: JENIPAPO",
+    "stop_lat":-7.167248977348208,
+    "stop_lon":-35.913587976247072
+  },
+  {
+    "stop_id":"_393",
+    "stop_name":"_393",
+    "stop_desc":"Rua / Avenida: JENIPAPO",
+    "stop_lat":-7.167753987014294,
+    "stop_lon":-35.91590297408402
+  },
+  {
+    "stop_id":"_394",
+    "stop_name":"_394",
+    "stop_desc":"Rua / Avenida: JENIPAPO",
+    "stop_lat":-7.167693972587585,
+    "stop_lon":-35.918322997167706
+  },
+  {
+    "stop_id":"_395",
+    "stop_name":"_395",
+    "stop_desc":"Rua / Avenida: JENIPAPO",
+    "stop_lat":-7.166204005479813,
+    "stop_lon":-35.917760990560055
+  },
+  {
+    "stop_id":"_396",
+    "stop_name":"_396",
+    "stop_desc":"Rua / Avenida: JENIPAPO",
+    "stop_lat":-7.16202998533845,
+    "stop_lon":-35.917279031127691
+  },
+  {
+    "stop_id":"_397",
+    "stop_name":"_397",
+    "stop_desc":"Rua / Avenida: JENIPAPO",
+    "stop_lat":-7.159810960292816,
+    "stop_lon":-35.918186958879232
+  },
+  {
+    "stop_id":"PONTO_FINAL_398",
+    "stop_name":"PONTO FINAL_398",
+    "stop_desc":"Rua / Avenida: JENIPAPO",
+    "stop_lat":-7.157697966322303,
+    "stop_lon":-35.917173000052571
+  },
+  {
+    "stop_id":"IGREJA_399",
+    "stop_name":"IGREJA_399",
+    "stop_desc":"Rua / Avenida: JENIPAPO",
+    "stop_lat":-7.166695017367601,
+    "stop_lon":-35.910170003771782
+  },
+  {
+    "stop_id":"476_400",
+    "stop_name":"476_400",
+    "stop_desc":"Rua / Avenida: JENIPAPO",
+    "stop_lat":-7.167695984244347,
+    "stop_lon":-35.90928403660655
+  },
+  {
+    "stop_id":"CHACARA_401",
+    "stop_name":"CHACARA_401",
+    "stop_desc":"Rua / Avenida: PARIS",
+    "stop_lat":-7.177848983556032,
+    "stop_lon":-35.908419024199247
+  },
+  {
+    "stop_id":"2429_402",
+    "stop_name":"2429_402",
+    "stop_desc":"Rua / Avenida: PARIS",
+    "stop_lat":-7.181392014026642,
+    "stop_lon":-35.906052980571985
+  },
+  {
+    "stop_id":"101_-_OPOSTO_403",
+    "stop_name":"101 - OPOSTO_403",
+    "stop_desc":"Rua / Avenida: BRUXELAS",
+    "stop_lat":-7.189952032640576,
+    "stop_lon":-35.903366999700665
+  },
+  {
+    "stop_id":"101_404",
+    "stop_name":"101_404",
+    "stop_desc":"Rua / Avenida: BRUXELAS",
+    "stop_lat":-7.189951026812196,
+    "stop_lon":-35.903297010809183
+  },
+  {
+    "stop_id":"27_405",
+    "stop_name":"27_405",
+    "stop_desc":"Rua / Avenida: BRUXELAS",
+    "stop_lat":-7.187995025888085,
+    "stop_lon":-35.904007963836193
+  },
+  {
+    "stop_id":"DEPOSITO_DE_GAS_406",
+    "stop_name":"DEPOSITO DE GAS_406",
+    "stop_desc":"Rua / Avenida: BERNA",
+    "stop_lat":-7.18708198517561,
+    "stop_lon":-35.902779009193182
+  },
+  {
+    "stop_id":"460_407",
+    "stop_name":"460_407",
+    "stop_desc":"Rua / Avenida: MADRID",
+    "stop_lat":-7.187171000987291,
+    "stop_lon":-35.903747035190463
+  },
+  {
+    "stop_id":"COLEGIO_ESTADUAL_408",
+    "stop_name":"COLEGIO ESTADUAL_408",
+    "stop_desc":"Rua / Avenida: BRUXELAS",
+    "stop_lat":-7.185441982001066,
+    "stop_lon":-35.904957968741655
+  },
+  {
+    "stop_id":"_409",
+    "stop_name":"_409",
+    "stop_desc":"Rua / Avenida: VARSOVIA",
+    "stop_lat":-7.18383802101016,
+    "stop_lon":-35.902822008356452
+  },
+  {
+    "stop_id":"_410",
+    "stop_name":"_410",
+    "stop_desc":"Rua / Avenida: PARIS",
+    "stop_lat":-7.185846995562315,
+    "stop_lon":-35.901279989629984
+  },
+  {
+    "stop_id":"2933_411",
+    "stop_name":"2933_411",
+    "stop_desc":"Rua / Avenida: PARIS",
+    "stop_lat":-7.193471007049084,
+    "stop_lon":-35.895528998225927
+  },
+  {
+    "stop_id":"TV_PARAÍBA_412",
+    "stop_name":"TV PARAÍBA_412",
+    "stop_desc":"Rua / Avenida: XV DE NOVEMBRO",
+    "stop_lat":-7.196352034807205,
+    "stop_lon":-35.895913979038596
+  },
+  {
+    "stop_id":"EST_DA_PALMEIRA_413",
+    "stop_name":"EST DA PALMEIRA_413",
+    "stop_desc":"Rua / Avenida: XV DE NOVEMBRO",
+    "stop_lat":-7.199545037001371,
+    "stop_lon":-35.896055968478322
+  },
+  {
+    "stop_id":"1369_414",
+    "stop_name":"1369_414",
+    "stop_desc":"Rua / Avenida: XV DE NOVEMBRO",
+    "stop_lat":-7.202844992280006,
+    "stop_lon":-35.895320037379861
+  },
+  {
+    "stop_id":"1225_415",
+    "stop_name":"1225_415",
+    "stop_desc":"Rua / Avenida: XV DE NOVEMBRO",
+    "stop_lat":-7.204260025173426,
+    "stop_lon":-35.894948970526457
+  },
+  {
+    "stop_id":"601_416",
+    "stop_name":"601_416",
+    "stop_desc":"Rua / Avenida: PROFESSOR BALBINO",
+    "stop_lat":-7.205889970064163,
+    "stop_lon":-35.894950982183218
+  },
+  {
+    "stop_id":"57_417",
+    "stop_name":"57_417",
+    "stop_desc":"Rua / Avenida: SAO JOAO",
+    "stop_lat":-7.207728959619999,
+    "stop_lon":-35.895435959100723
+  },
+  {
+    "stop_id":"271_418",
+    "stop_name":"271_418",
+    "stop_desc":"Rua / Avenida: SAO JOAO",
+    "stop_lat":-7.20818099565804,
+    "stop_lon":-35.894440021365881
+  },
+  {
+    "stop_id":"791_419",
+    "stop_name":"791_419",
+    "stop_desc":"Rua / Avenida: DESEMBARGADOR AZEVEDO",
+    "stop_lat":-7.209417996928096,
+    "stop_lon":-35.893074022606015
+  },
+  {
+    "stop_id":"445_-_LATERAL_420",
+    "stop_name":"445 - LATERAL_420",
+    "stop_desc":"Rua / Avenida: DESEMBARGADOR AZEVEDO",
+    "stop_lat":-7.211022963747382,
+    "stop_lon":-35.891942968592048
+  },
+  {
+    "stop_id":"454_-_OPOSTO_421",
+    "stop_name":"454 - OPOSTO_421",
+    "stop_desc":"Rua / Avenida: TAVARES CAVALCANTE",
+    "stop_lat":-7.217519022524357,
+    "stop_lon":-35.877950973808765
+  },
+  {
+    "stop_id":"599_-_OPOSTO_422",
+    "stop_name":"599 - OPOSTO_422",
+    "stop_desc":"Rua / Avenida: TAVARES CAVALCANTE",
+    "stop_lat":-7.217808030545712,
+    "stop_lon":-35.87673501111567
+  },
+  {
+    "stop_id":"882_423",
+    "stop_name":"882_423",
+    "stop_desc":"Rua / Avenida: JOANA D'ARC",
+    "stop_lat":-7.222027983516455,
+    "stop_lon":-35.868994994089007
+  },
+  {
+    "stop_id":"789_-_OPOSTO_424",
+    "stop_name":"789 - OPOSTO_424",
+    "stop_desc":"Rua / Avenida: PEDRO DA COSTA AGRA",
+    "stop_lat":-7.228864012286067,
+    "stop_lon":-35.868361992761493
+  },
+  {
+    "stop_id":"34_425",
+    "stop_name":"34_425",
+    "stop_desc":"Rua / Avenida: ANTONIO JOSE RODRIGUES",
+    "stop_lat":-7.231138022616506,
+    "stop_lon":-35.866933967918158
+  },
+  {
+    "stop_id":"292_426",
+    "stop_name":"292_426",
+    "stop_desc":"Rua / Avenida: ANTONIO JOSE RODRIGUES",
+    "stop_lat":-7.232893025502563,
+    "stop_lon":-35.865485994145274
+  },
+  {
+    "stop_id":"COLINAS_DO_MIRANTE_(OPOSTO)_427",
+    "stop_name":"COLINAS DO MIRANTE (OPOSTO)_427",
+    "stop_desc":"Rua / Avenida: ENGENHEIRO JOSE CELINO FILHO",
+    "stop_lat":-7.234277967363596,
+    "stop_lon":-35.864799013361335
+  },
+  {
+    "stop_id":"PORTAO_DE_EMBARQUE_428",
+    "stop_name":"PORTAO DE EMBARQUE_428",
+    "stop_desc":"Rua / Avenida: TERMINAL RODOVIARIO ARGEMIRO DE FIQUEIREDO",
+    "stop_lat":-7.238234980031848,
+    "stop_lon":-35.87022596038878
+  },
+  {
+    "stop_id":"CEDMEX_-_OPOSTO_429",
+    "stop_name":"CEDMEX - OPOSTO_429",
+    "stop_desc":"Rua / Avenida: EUTECIA VITAL RIBEIRO",
+    "stop_lat":-7.239447003230453,
+    "stop_lon":-35.872527966275811
+  },
+  {
+    "stop_id":"RODOVIARIA_430",
+    "stop_name":"RODOVIARIA_430",
+    "stop_desc":"Rua / Avenida: BASÍLIO DE ARAUJO",
+    "stop_lat":-7.237390000373125,
+    "stop_lon":-35.870791990309954
+  },
+  {
+    "stop_id":"PARTAGE_433",
+    "stop_name":"PARTAGE_433",
+    "stop_desc":"Rua / Avenida: OTACÍLIO NEPOMUCENO",
+    "stop_lat":-7.236288031563163,
+    "stop_lon":-35.871058031916618
+  },
+  {
+    "stop_id":"CITROEN_434",
+    "stop_name":"CITROEN_434",
+    "stop_desc":"Rua / Avenida: OTACÍLIO NEPOMUCENO",
+    "stop_lat":-7.235185978934169,
+    "stop_lon":-35.871939975768328
+  },
+  {
+    "stop_id":"76_-_OPOSTO_435",
+    "stop_name":"76 - OPOSTO_435",
+    "stop_desc":"Rua / Avenida: JOAO HONORIO DE MELO",
+    "stop_lat":-7.228684974834323,
+    "stop_lon":-35.872520003467798
+  },
+  {
+    "stop_id":"63_436",
+    "stop_name":"63_436",
+    "stop_desc":"Rua / Avenida: TITO SODRE",
+    "stop_lat":-7.226809021085501,
+    "stop_lon":-35.872079031541944
+  },
+  {
+    "stop_id":"ABRIGO_JOSE_PINHEIRO_437",
+    "stop_name":"ABRIGO JOSE PINHEIRO_437",
+    "stop_desc":"Rua / Avenida: CAMPO SALES",
+    "stop_lat":-7.221770994365215,
+    "stop_lon":-35.873553995043039
+  },
+  {
+    "stop_id":"298_438",
+    "stop_name":"298_438",
+    "stop_desc":"Rua / Avenida: MAXIMINIANO MACHADO",
+    "stop_lat":-7.221141010522842,
+    "stop_lon":-35.872511034831405
+  },
+  {
+    "stop_id":"116_-_OPOSTO_439",
+    "stop_name":"116 - OPOSTO_439",
+    "stop_desc":"Rua / Avenida: ARRUDA CAMARA",
+    "stop_lat":-7.217413997277618,
+    "stop_lon":-35.875546038150787
+  },
+  {
+    "stop_id":"432_440",
+    "stop_name":"432_440",
+    "stop_desc":"Rua / Avenida: INDEPENDÊNCIA",
+    "stop_lat":-7.224112981930375,
+    "stop_lon":-35.896144984290004
+  },
+  {
+    "stop_id":"112_441",
+    "stop_name":"112_441",
+    "stop_desc":"Rua / Avenida: INDEPENDÊNCIA",
+    "stop_lat":-7.224193029105663,
+    "stop_lon":-35.897775012999773
+  },
+  {
+    "stop_id":"382_442",
+    "stop_name":"382_442",
+    "stop_desc":"Rua / Avenida: OSVALDO CRUZ",
+    "stop_lat":-7.22491898573935,
+    "stop_lon":-35.900190006941557
+  },
+  {
+    "stop_id":"505_-_OPOSTO_443",
+    "stop_name":"505 - OPOSTO_443",
+    "stop_desc":"Rua / Avenida: OSVALDO CRUZ",
+    "stop_lat":-7.225269014015794,
+    "stop_lon":-35.901463972404599
+  },
+  {
+    "stop_id":"785_444",
+    "stop_name":"785_444",
+    "stop_desc":"Rua / Avenida: OSVALDO CRUZ",
+    "stop_lat":-7.225742004811764,
+    "stop_lon":-35.903055025264621
+  },
+  {
+    "stop_id":"EMBRAPA_445",
+    "stop_name":"EMBRAPA_445",
+    "stop_desc":"Rua / Avenida: OSVALDO CRUZ",
+    "stop_lat":-7.226902982220054,
+    "stop_lon":-35.907151009887457
+  },
+  {
+    "stop_id":"1309_-_OPOSTO_446",
+    "stop_name":"1309 - OPOSTO_446",
+    "stop_desc":"Rua / Avenida: OSVALDO CRUZ",
+    "stop_lat":-7.227317970246077,
+    "stop_lon":-35.908436039462686
+  },
+  {
+    "stop_id":"290_447",
+    "stop_name":"290_447",
+    "stop_desc":"Rua / Avenida: OSVALDO CRUZ",
+    "stop_lat":-7.22719500772655,
+    "stop_lon":-35.911065023392439
+  },
+  {
+    "stop_id":"472_448",
+    "stop_name":"472_448",
+    "stop_desc":"Rua / Avenida: FRANCISCO ROBERTO",
+    "stop_lat":-7.227246975526214,
+    "stop_lon":-35.91285296715796
+  },
+  {
+    "stop_id":"468_449",
+    "stop_name":"468_449",
+    "stop_desc":"Rua / Avenida: ASSEMBLEIA DE DEUS",
+    "stop_lat":-7.225598003715277,
+    "stop_lon":-35.912424987182021
+  },
+  {
+    "stop_id":"279_450",
+    "stop_name":"279_450",
+    "stop_desc":"Rua / Avenida: ASSEMBLEIA DE DEUS",
+    "stop_lat":-7.219441998749971,
+    "stop_lon":-35.914385011419654
+  },
+  {
+    "stop_id":"UFCG_452",
+    "stop_name":"UFCG_452",
+    "stop_desc":"Rua / Avenida: APRÍGIO VELOSO",
+    "stop_lat":-7.217199001461268,
+    "stop_lon":-35.909094018861651
+  },
+  {
+    "stop_id":"UFCG_453",
+    "stop_name":"UFCG_453",
+    "stop_desc":"Rua / Avenida: APRÍGIO VELOSO",
+    "stop_lat":-7.217166982591152,
+    "stop_lon":-35.909002991393209
+  },
+  {
+    "stop_id":"LAVA-JATO_-_OPOSTO_454",
+    "stop_name":"LAVA-JATO - OPOSTO_454",
+    "stop_desc":"Rua / Avenida: APRÍGIO VELOSO",
+    "stop_lat":-7.217154996469617,
+    "stop_lon":-35.910752965137362
+  },
+  {
+    "stop_id":"831_455",
+    "stop_name":"831_455",
+    "stop_desc":"Rua / Avenida: SAO VICENTE",
+    "stop_lat":-7.221892029047012,
+    "stop_lon":-35.909257968887687
+  },
+  {
+    "stop_id":"427_456",
+    "stop_name":"427_456",
+    "stop_desc":"Rua / Avenida: ABEL COSTA",
+    "stop_lat":-7.220437014475465,
+    "stop_lon":-35.908637959510088
+  },
+  {
+    "stop_id":"CANTINHO_UNIVERSITARIO_457",
+    "stop_name":"CANTINHO UNIVERSITARIO_457",
+    "stop_desc":"Rua / Avenida: APRÍGIO VELOSO",
+    "stop_lat":-7.217435035854578,
+    "stop_lon":-35.90921999886632
+  },
+  {
+    "stop_id":"CABRAL_459",
+    "stop_name":"CABRAL_459",
+    "stop_desc":"Rua / Avenida: APRÍGIO VELOSO",
+    "stop_lat":-7.216677982360125,
+    "stop_lon":-35.907176993787289
+  },
+  {
+    "stop_id":"LUCENA_RACOES_460",
+    "stop_name":"LUCENA RACOES_460",
+    "stop_desc":"Rua / Avenida: APRÍGIO VELOSO",
+    "stop_lat":-7.216170039027929,
+    "stop_lon":-35.904587991535664
+  },
+  {
+    "stop_id":"76_461",
+    "stop_name":"76_461",
+    "stop_desc":"Rua / Avenida: JOSE AUGUSTO TRINDADE",
+    "stop_lat":-7.214921973645687,
+    "stop_lon":-35.900409026071429
+  },
+  {
+    "stop_id":"326A_462",
+    "stop_name":"326A_462",
+    "stop_desc":"Rua / Avenida: JOSE AUGUSTO TRINDADE",
+    "stop_lat":-7.2127799782902,
+    "stop_lon":-35.899292975664139
+  },
+  {
+    "stop_id":"407_-_OPOSTO_463",
+    "stop_name":"407 - OPOSTO_463",
+    "stop_desc":"Rua / Avenida: JOSE AUGUSTO TRINDADE",
+    "stop_lat":-7.211616989225149,
+    "stop_lon":-35.899094995111227
+  },
+  {
+    "stop_id":"1313_-_OPOSTO_464",
+    "stop_name":"1313 - OPOSTO_464",
+    "stop_desc":"Rua / Avenida: JOAO SUASSUNA",
+    "stop_lat":-7.211536020040512,
+    "stop_lon":-35.897922031581402
+  },
+  {
+    "stop_id":"98_465",
+    "stop_name":"98_465",
+    "stop_desc":"Rua / Avenida: SANTINA LEAO",
+    "stop_lat":-7.210346963256598,
+    "stop_lon":-35.898574981838465
+  },
+  {
+    "stop_id":"10_466",
+    "stop_name":"10_466",
+    "stop_desc":"Rua / Avenida: PROFESSOR BALBINO",
+    "stop_lat":-7.209980003535748,
+    "stop_lon":-35.897869979962707
+  },
+  {
+    "stop_id":"150_467",
+    "stop_name":"150_467",
+    "stop_desc":"Rua / Avenida: FRANCISCO BORGES DA COSTA",
+    "stop_lat":-7.207197966054082,
+    "stop_lon":-35.897271009162068
+  },
+  {
+    "stop_id":"331_468",
+    "stop_name":"331_468",
+    "stop_desc":"Rua / Avenida: SAMUEL FERNANDES",
+    "stop_lat":-7.205791985616088,
+    "stop_lon":-35.900703985244036
+  },
+  {
+    "stop_id":"147_469",
+    "stop_name":"147_469",
+    "stop_desc":"Rua / Avenida: AGOSTINHO SANTOS",
+    "stop_lat":-7.205198965966702,
+    "stop_lon":-35.90150797739625
+  },
+  {
+    "stop_id":"192_470",
+    "stop_name":"192_470",
+    "stop_desc":"Rua / Avenida: ADALGISA RAMOS RAIA",
+    "stop_lat":-7.203553011640906,
+    "stop_lon":-35.903405975550413
+  },
+  {
+    "stop_id":"40_-_OPOSTO_471",
+    "stop_name":"40 - OPOSTO_471",
+    "stop_desc":"Rua / Avenida: ADALGISA RAMOS RAIA",
+    "stop_lat":-7.202500998973846,
+    "stop_lon":-35.902476003393531
+  },
+  {
+    "stop_id":"313_472",
+    "stop_name":"313_472",
+    "stop_desc":"Rua / Avenida: MANOEL ALEXANDRINO DE ARAUJO",
+    "stop_lat":-7.202958986163139,
+    "stop_lon":-35.901360958814621
+  },
+  {
+    "stop_id":"169_473",
+    "stop_name":"169_473",
+    "stop_desc":"Rua / Avenida: MANOEL ALEXANDRINO DE ARAUJO",
+    "stop_lat":-7.204435961320996,
+    "stop_lon":-35.901374034583569
+  },
+  {
+    "stop_id":"480_474",
+    "stop_name":"480_474",
+    "stop_desc":"Rua / Avenida: SAO LUCAS",
+    "stop_lat":-7.204622039571405,
+    "stop_lon":-35.900876987725496
+  },
+  {
+    "stop_id":"154_-_OPOSTO_475",
+    "stop_name":"154 - OPOSTO_475",
+    "stop_desc":"Rua / Avenida: CONDE DE MONTE CRISTO",
+    "stop_lat":-7.202651035040617,
+    "stop_lon":-35.897594969719648
+  },
+  {
+    "stop_id":"1045_476",
+    "stop_name":"1045_476",
+    "stop_desc":"Rua / Avenida: SIQUEIRA CAMPOS",
+    "stop_lat":-7.215046025812626,
+    "stop_lon":-35.890061985701323
+  },
+  {
+    "stop_id":"REDEPHARMA_477",
+    "stop_name":"REDEPHARMA_477",
+    "stop_desc":"Rua / Avenida: MARQUES DO HERVAL",
+    "stop_lat":-7.218292001634836,
+    "stop_lon":-35.885136025026441
+  },
+  {
+    "stop_id":"ALUÍSIO_CALCADOS_478",
+    "stop_name":"ALUÍSIO CALCADOS_478",
+    "stop_desc":"Rua / Avenida: MARQUES DO HERVAL",
+    "stop_lat":-7.218111958354712,
+    "stop_lon":-35.885183969512582
+  },
+  {
+    "stop_id":"389_479",
+    "stop_name":"389_479",
+    "stop_desc":"Rua / Avenida: SAO RAFAEL",
+    "stop_lat":-7.203895999118686,
+    "stop_lon":-35.898248003795743
+  },
+  {
+    "stop_id":"480_480",
+    "stop_name":"480_480",
+    "stop_desc":"Rua / Avenida: SAO LUCAS",
+    "stop_lat":-7.204595971852541,
+    "stop_lon":-35.900886040180922
+  },
+  {
+    "stop_id":"738_481",
+    "stop_name":"738_481",
+    "stop_desc":"Rua / Avenida: SAO LUCAS",
+    "stop_lat":-7.204820020124316,
+    "stop_lon":-35.903331963345408
+  },
+  {
+    "stop_id":"377_-_OPOSTO_482",
+    "stop_name":"377 - OPOSTO_482",
+    "stop_desc":"Rua / Avenida: SAMUEL FERNANDES",
+    "stop_lat":-7.20579500310123,
+    "stop_lon":-35.900396034121513
+  },
+  {
+    "stop_id":"337_483",
+    "stop_name":"337_483",
+    "stop_desc":"Rua / Avenida: FRANCISCO BORGES DA COSTA",
+    "stop_lat":-7.206102032214403,
+    "stop_lon":-35.898727029561996
+  },
+  {
+    "stop_id":"235_484",
+    "stop_name":"235_484",
+    "stop_desc":"Rua / Avenida: PROFESSOR BALBINO",
+    "stop_lat":-7.208318039774895,
+    "stop_lon":-35.896787960082293
+  },
+  {
+    "stop_id":"481_485",
+    "stop_name":"481_485",
+    "stop_desc":"Rua / Avenida: OLEGARIO MACIEL",
+    "stop_lat":-7.210427010431886,
+    "stop_lon":-35.897933011874557
+  },
+  {
+    "stop_id":"1564_486",
+    "stop_name":"1564_486",
+    "stop_desc":"Rua / Avenida: JOAO SUASSUNA",
+    "stop_lat":-7.210559025406838,
+    "stop_lon":-35.900014992803335
+  },
+  {
+    "stop_id":"521_487",
+    "stop_name":"521_487",
+    "stop_desc":"Rua / Avenida: FRANCISCO CALIXTO",
+    "stop_lat":-7.211453039199114,
+    "stop_lon":-35.901616020128131
+  },
+  {
+    "stop_id":"135_488",
+    "stop_name":"135_488",
+    "stop_desc":"Rua / Avenida: FRANCISCO CALIXTO",
+    "stop_lat":-7.212257031351328,
+    "stop_lon":-35.901964036747813
+  },
+  {
+    "stop_id":"199_489",
+    "stop_name":"199_489",
+    "stop_desc":"Rua / Avenida: JOSE AUGUSTO TRINDADE",
+    "stop_lat":-7.21381195820868,
+    "stop_lon":-35.899876020848751
+  },
+  {
+    "stop_id":"35_490",
+    "stop_name":"35_490",
+    "stop_desc":"Rua / Avenida: ABEL COSTA",
+    "stop_lat":-7.218054961413145,
+    "stop_lon":-35.908233029767871
+  },
+  {
+    "stop_id":"567_-_OPOSTO_491",
+    "stop_name":"567 - OPOSTO_491",
+    "stop_desc":"Rua / Avenida: ABEL COSTA",
+    "stop_lat":-7.221237989142537,
+    "stop_lon":-35.908882962539792
+  },
+  {
+    "stop_id":"569_-_OPOSTO_492",
+    "stop_name":"569 - OPOSTO_492",
+    "stop_desc":"Rua / Avenida: VINTE E SETE DE JULHO",
+    "stop_lat":-7.222891990095377,
+    "stop_lon":-35.911715961992741
+  },
+  {
+    "stop_id":"425_-_OPOSTO_493",
+    "stop_name":"425 - OPOSTO_493",
+    "stop_desc":"Rua / Avenida: VINTE E SETE DE JULHO",
+    "stop_lat":-7.225925987586379,
+    "stop_lon":-35.912762023508549
+  },
+  {
+    "stop_id":"43_-_LATERAL_494",
+    "stop_name":"43 - LATERAL_494",
+    "stop_desc":"Rua / Avenida: FRANCISCO ROBERTO",
+    "stop_lat":-7.227363986894488,
+    "stop_lon":-35.912368996068835
+  },
+  {
+    "stop_id":"84_-_OPOSTO_495",
+    "stop_name":"84 - OPOSTO_495",
+    "stop_desc":"Rua / Avenida: FRANCISCO ROBERTO",
+    "stop_lat":-7.227436993271112,
+    "stop_lon":-35.908818002790213
+  },
+  {
+    "stop_id":"EMBRABA_-_OPOSTO_496",
+    "stop_name":"EMBRABA - OPOSTO_496",
+    "stop_desc":"Rua / Avenida: OSVALDO CRUZ",
+    "stop_lat":-7.227116972208023,
+    "stop_lon":-35.907361982390285
+  },
+  {
+    "stop_id":"889_497",
+    "stop_name":"889_497",
+    "stop_desc":"Rua / Avenida: NILO PECANHA",
+    "stop_lat":-7.224416993558407,
+    "stop_lon":-35.896641025319695
+  },
+  {
+    "stop_id":"POSTO_DALLAS_498",
+    "stop_name":"POSTO DALLAS_498",
+    "stop_desc":"Rua / Avenida: BR-104 (SUL)",
+    "stop_lat":-7.287927009165287,
+    "stop_lon":-35.889921002089977
+  },
+  {
+    "stop_id":"_499",
+    "stop_name":"_499",
+    "stop_desc":"Rua / Avenida: GAMA QUATRO",
+    "stop_lat":-7.290431018918753,
+    "stop_lon":-35.890875030308962
+  },
+  {
+    "stop_id":"_500",
+    "stop_name":"_500",
+    "stop_desc":"Rua / Avenida: SEVERINO JOSE DE BRITO",
+    "stop_lat":-7.290073027834296,
+    "stop_lon":-35.892215967178345
+  },
+  {
+    "stop_id":"55_501",
+    "stop_name":"55_501",
+    "stop_desc":"Rua / Avenida: JOANA ALVES DE MELO",
+    "stop_lat":-7.289276998490095,
+    "stop_lon":-35.892965979874134
+  },
+  {
+    "stop_id":"333_502",
+    "stop_name":"333_502",
+    "stop_desc":"Rua / Avenida: ANDRE DIAS PEREIRA",
+    "stop_lat":-7.288257004693151,
+    "stop_lon":-35.893227998167276
+  },
+  {
+    "stop_id":"IGREJA_BATISTA_503",
+    "stop_name":"IGREJA BATISTA_503",
+    "stop_desc":"Rua / Avenida: ANDRE DIAS PEREIRA",
+    "stop_lat":-7.287242962047458,
+    "stop_lon":-35.89469600468874
+  },
+  {
+    "stop_id":"PRACA_504",
+    "stop_name":"PRACA_504",
+    "stop_desc":"Rua / Avenida: ANDRE DIAS PEREIRA",
+    "stop_lat":-7.286589005962014,
+    "stop_lon":-35.895603010430932
+  },
+  {
+    "stop_id":"34A_505",
+    "stop_name":"34A_505",
+    "stop_desc":"Rua / Avenida: MAURILIO PACHECO DE BRITO",
+    "stop_lat":-7.288119960576296,
+    "stop_lon":-35.896787038072944
+  },
+  {
+    "stop_id":"99_506",
+    "stop_name":"99_506",
+    "stop_desc":"Rua / Avenida: FIRMINO LEOPOLDINO DA COSTA",
+    "stop_lat":-7.287188982591033,
+    "stop_lon":-35.896357968449593
+  },
+  {
+    "stop_id":"PRACA_-_OPOSTO_507",
+    "stop_name":"PRACA - OPOSTO_507",
+    "stop_desc":"Rua / Avenida: ANDRE DIAS PEREIRA",
+    "stop_lat":-7.286650026217103,
+    "stop_lon":-35.895612984895706
+  },
+  {
+    "stop_id":"226_508",
+    "stop_name":"226_508",
+    "stop_desc":"Rua / Avenida: ANDRE DIAS PEREIRA",
+    "stop_lat":-7.287682006135583,
+    "stop_lon":-35.894128968939185
+  },
+  {
+    "stop_id":"MERCADINHO_GB_509",
+    "stop_name":"MERCADINHO GB_509",
+    "stop_desc":"Rua / Avenida: ANDRE DIAS PEREIRA",
+    "stop_lat":-7.288333028554916,
+    "stop_lon":-35.893218023702502
+  },
+  {
+    "stop_id":"45_510",
+    "stop_name":"45_510",
+    "stop_desc":"Rua / Avenida: JOANA ALVES DE MELO",
+    "stop_lat":-7.289149006828666,
+    "stop_lon":-35.893223974853754
+  },
+  {
+    "stop_id":"120_511",
+    "stop_name":"120_511",
+    "stop_desc":"Rua / Avenida: GAMA QUATRO",
+    "stop_lat":-7.290501007810235,
+    "stop_lon":-35.891573997214437
+  },
+  {
+    "stop_id":"237_512",
+    "stop_name":"237_512",
+    "stop_desc":"Rua / Avenida: JOSEFINA DE SOUSA MONTENEGRO",
+    "stop_lat":-7.295007035136223,
+    "stop_lon":-35.887922002002597
+  },
+  {
+    "stop_id":"458_-_OPOSTO_513",
+    "stop_name":"458 - OPOSTO_513",
+    "stop_desc":"Rua / Avenida: JOSEFINA DE SOUSA MONTENEGRO",
+    "stop_lat":-7.296946020796895,
+    "stop_lon":-35.886711990460753
+  },
+  {
+    "stop_id":"86_-_OPOSTO_514",
+    "stop_name":"86 - OPOSTO_514",
+    "stop_desc":"Rua / Avenida: CARMELITA JOSE DOS SANTOS",
+    "stop_lat":-7.298145974054933,
+    "stop_lon":-35.88301096111536
+  },
+  {
+    "stop_id":"180_-_OPOSTO_515",
+    "stop_name":"180 - OPOSTO_515",
+    "stop_desc":"Rua / Avenida: CARMELITA JOSE DOS SANTOS",
+    "stop_lat":-7.297965008765459,
+    "stop_lon":-35.88111899793148
+  },
+  {
+    "stop_id":"177_-_OPOSTO_516",
+    "stop_name":"177 - OPOSTO_516",
+    "stop_desc":"Rua / Avenida: CARMELITA JOSE DOS SANTOS",
+    "stop_lat":-7.297904994338751,
+    "stop_lon":-35.8811179921031
+  },
+  {
+    "stop_id":"86_517",
+    "stop_name":"86_517",
+    "stop_desc":"Rua / Avenida: CARMELITA JOSE DOS SANTOS",
+    "stop_lat":-7.298106998205185,
+    "stop_lon":-35.882904008030891
+  },
+  {
+    "stop_id":"IGREJA_518",
+    "stop_name":"IGREJA_518",
+    "stop_desc":"Rua / Avenida: FELIPE GOMES DA COSTA",
+    "stop_lat":-7.292924970388413,
+    "stop_lon":-35.888848034664989
+  },
+  {
+    "stop_id":"118_-_OPOSTO_519",
+    "stop_name":"118 - OPOSTO_519",
+    "stop_desc":"Rua / Avenida: FELIPE GOMES DA COSTA",
+    "stop_lat":-7.292839977890253,
+    "stop_lon":-35.889423033222556
+  },
+  {
+    "stop_id":"LANCHONETE_DA_PEDRA_520",
+    "stop_name":"LANCHONETE DA PEDRA_520",
+    "stop_desc":"Rua / Avenida: BR-104 (SUL)",
+    "stop_lat":-7.29027695953846,
+    "stop_lon":-35.890192994847894
+  },
+  {
+    "stop_id":"LANCHONETE_DA_PEDRA_521",
+    "stop_name":"LANCHONETE DA PEDRA_521",
+    "stop_desc":"Rua / Avenida: BR-104 (SUL)",
+    "stop_lat":-7.290372010320425,
+    "stop_lon":-35.890197018161416
+  },
+  {
+    "stop_id":"POSTO_DALLAS_-_OPOSTO_522",
+    "stop_name":"POSTO DALLAS - OPOSTO_522",
+    "stop_desc":"Rua / Avenida: BR-104 (SUL)",
+    "stop_lat":-7.287701033055782,
+    "stop_lon":-35.88975696824491
+  },
+  {
+    "stop_id":"PARQUE_DE_EXPOSICOES_523",
+    "stop_name":"PARQUE DE EXPOSICOES_523",
+    "stop_desc":"Rua / Avenida: BR-104 (SUL)",
+    "stop_lat":-7.285144971683621,
+    "stop_lon":-35.889421021565795
+  },
+  {
+    "stop_id":"PARQUE_MOTEL_524",
+    "stop_name":"PARQUE MOTEL_524",
+    "stop_desc":"Rua / Avenida: BR-104 (SUL)",
+    "stop_lat":-7.280093031004071,
+    "stop_lon":-35.888958005234599
+  },
+  {
+    "stop_id":"CAMPO_SANTO_525",
+    "stop_name":"CAMPO SANTO_525",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.276055971160531,
+    "stop_lon":-35.888718031346798
+  },
+  {
+    "stop_id":"CONAB_526",
+    "stop_name":"CONAB_526",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.271829983219504,
+    "stop_lon":-35.888215033337474
+  },
+  {
+    "stop_id":"CONAB_-_OPOSTO_527",
+    "stop_name":"CONAB - OPOSTO_527",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.271266970783472,
+    "stop_lon":-35.888278987258673
+  },
+  {
+    "stop_id":"6_529",
+    "stop_name":"6_529",
+    "stop_desc":"Rua / Avenida: TRAVESSA DO JUA",
+    "stop_lat":-7.256137970834971,
+    "stop_lon":-35.886216033250093
+  },
+  {
+    "stop_id":"14_530",
+    "stop_name":"14_530",
+    "stop_desc":"Rua / Avenida: TRAVESSA DO JUA",
+    "stop_lat":-7.256189016625285,
+    "stop_lon":-35.886536976322532
+  },
+  {
+    "stop_id":"358_531",
+    "stop_name":"358_531",
+    "stop_desc":"Rua / Avenida: TAMBOR",
+    "stop_lat":-7.254993002861738,
+    "stop_lon":-35.886691035702825
+  },
+  {
+    "stop_id":"183_532",
+    "stop_name":"183_532",
+    "stop_desc":"Rua / Avenida: TAMBOR",
+    "stop_lat":-7.254568040370941,
+    "stop_lon":-35.886720037087798
+  },
+  {
+    "stop_id":"233_-_OPOSTO_533",
+    "stop_name":"233 - OPOSTO_533",
+    "stop_desc":"Rua / Avenida: TAMBOR",
+    "stop_lat":-7.252970030531287,
+    "stop_lon":-35.88668298907578
+  },
+  {
+    "stop_id":"209_-_VIZINHO_534",
+    "stop_name":"209 - VIZINHO_534",
+    "stop_desc":"Rua / Avenida: TAMBOR",
+    "stop_lat":-7.252746988087893,
+    "stop_lon":-35.886665973812342
+  },
+  {
+    "stop_id":"103_-_OPOSTO_535",
+    "stop_name":"103 - OPOSTO_535",
+    "stop_desc":"Rua / Avenida: TAMBOR",
+    "stop_lat":-7.251583999022842,
+    "stop_lon":-35.886872000992298
+  },
+  {
+    "stop_id":"12_536",
+    "stop_name":"12_536",
+    "stop_desc":"Rua / Avenida: TAMBOR",
+    "stop_lat":-7.250843038782477,
+    "stop_lon":-35.887190010398626
+  },
+  {
+    "stop_id":"RETIFICA_PARAIBANA_537",
+    "stop_name":"RETIFICA PARAIBANA_537",
+    "stop_desc":"Rua / Avenida: TRAVESSA VENEZUELA",
+    "stop_lat":-7.247374020516872,
+    "stop_lon":-35.886807041242719
+  },
+  {
+    "stop_id":"916_538",
+    "stop_name":"916_538",
+    "stop_desc":"Rua / Avenida: VINTE E QUATRO DE MAIO",
+    "stop_lat":-7.242022007703781,
+    "stop_lon":-35.886046970263124
+  },
+  {
+    "stop_id":"618_539",
+    "stop_name":"618_539",
+    "stop_desc":"Rua / Avenida: VINTE E QUATRO DE MAIO",
+    "stop_lat":-7.23952897824347,
+    "stop_lon":-35.886073037981987
+  },
+  {
+    "stop_id":"592_540",
+    "stop_name":"592_540",
+    "stop_desc":"Rua / Avenida: VINTE E QUATRO DE MAIO",
+    "stop_lat":-7.23935597576201,
+    "stop_lon":-35.886077983304858
+  },
+  {
+    "stop_id":"293_-_OPOSTO_541",
+    "stop_name":"293 - OPOSTO_541",
+    "stop_desc":"Rua / Avenida: VINTE E QUATRO DE MAIO",
+    "stop_lat":-7.236644010990858,
+    "stop_lon":-35.885984022170305
+  },
+  {
+    "stop_id":"255_542",
+    "stop_name":"255_542",
+    "stop_desc":"Rua / Avenida: VINTE E QUATRO DE MAIO",
+    "stop_lat":-7.236344022676349,
+    "stop_lon":-35.88595200330019
+  },
+  {
+    "stop_id":"400_-_OPOSTO_544",
+    "stop_name":"400 - OPOSTO_544",
+    "stop_desc":"Rua / Avenida: PRUDENTE DE MORAIS",
+    "stop_lat":-7.233587969094515,
+    "stop_lon":-35.885191010311246
+  },
+  {
+    "stop_id":"148_546",
+    "stop_name":"148_546",
+    "stop_desc":"Rua / Avenida: PRUDENTE DE MORAIS",
+    "stop_lat":-7.231603972613812,
+    "stop_lon":-35.88453303091228
+  },
+  {
+    "stop_id":"163A_547",
+    "stop_name":"163A_547",
+    "stop_desc":"Rua / Avenida: PRUDENTE DE MORAIS",
+    "stop_lat":-7.231288980692625,
+    "stop_lon":-35.884494977071881
+  },
+  {
+    "stop_id":"300_548",
+    "stop_name":"300_548",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.230754969641566,
+    "stop_lon":-35.889254976063967
+  },
+  {
+    "stop_id":"109_549",
+    "stop_name":"109_549",
+    "stop_desc":"Rua / Avenida: DUQUE DE CAXIAS",
+    "stop_lat":-7.2235659789294,
+    "stop_lon":-35.897933011874557
+  },
+  {
+    "stop_id":"ESTADUAL_DA_PRATA_550",
+    "stop_name":"ESTADUAL DA PRATA_550",
+    "stop_desc":"Rua / Avenida: JOSE DE ALENCAR",
+    "stop_lat":-7.221707040444017,
+    "stop_lon":-35.897802002727985
+  },
+  {
+    "stop_id":"ATECEL_551",
+    "stop_name":"ATECEL_551",
+    "stop_desc":"Rua / Avenida: JOSE DE ALENCAR",
+    "stop_lat":-7.2211570199579,
+    "stop_lon":-35.899969981983304
+  },
+  {
+    "stop_id":"1100_552",
+    "stop_name":"1100_552",
+    "stop_desc":"Rua / Avenida: JOSE DE ALENCAR",
+    "stop_lat":-7.220536004751921,
+    "stop_lon":-35.902423029765487
+  },
+  {
+    "stop_id":"CONDOMINIO_FORTALEZA_553",
+    "stop_name":"CONDOMINIO FORTALEZA_553",
+    "stop_desc":"Rua / Avenida: MARIA DE LOURDES CRISPIM LIMA",
+    "stop_lat":-7.220196034759283,
+    "stop_lon":-35.905441017821431
+  },
+  {
+    "stop_id":"97_554",
+    "stop_name":"97_554",
+    "stop_desc":"Rua / Avenida: EDMUNDO PEREIRA DE ASSIS",
+    "stop_lat":-7.219038996845484,
+    "stop_lon":-35.905273966491222
+  },
+  {
+    "stop_id":"258_555",
+    "stop_name":"258_555",
+    "stop_desc":"Rua / Avenida: ANTONIO JOAQUIM PEQUENO",
+    "stop_lat":-7.218388980254531,
+    "stop_lon":-35.907483017072082
+  },
+  {
+    "stop_id":"PONTO_DAS_PLANTAS_-_OPOSTO_556",
+    "stop_name":"PONTO DAS PLANTAS - OPOSTO_556",
+    "stop_desc":"Rua / Avenida: VINTE E SETE DE JULHO",
+    "stop_lat":-7.217310983687639,
+    "stop_lon":-35.913812024518847
+  },
+  {
+    "stop_id":"CONFORTEL_-_OPOSTO_557",
+    "stop_name":"CONFORTEL - OPOSTO_557",
+    "stop_desc":"Rua / Avenida: VINTE E SETE DE JULHO",
+    "stop_lat":-7.220836998894811,
+    "stop_lon":-35.913502983748913
+  },
+  {
+    "stop_id":"149_-_OPOSTO_558",
+    "stop_name":"149 - OPOSTO_558",
+    "stop_desc":"Rua / Avenida: RICARDO WAGNER DA SILVEIRA PAZ",
+    "stop_lat":-7.219827985391021,
+    "stop_lon":-35.912248967215419
+  },
+  {
+    "stop_id":"88_-_OPOSTO_559",
+    "stop_name":"88 - OPOSTO_559",
+    "stop_desc":"Rua / Avenida: RICARDO WAGNER DA SILVEIRA PAZ",
+    "stop_lat":-7.217694036662579,
+    "stop_lon":-35.912347035482526
+  },
+  {
+    "stop_id":"FIT_ACADEMIA_560",
+    "stop_name":"FIT ACADEMIA_560",
+    "stop_desc":"Rua / Avenida: RODRIGUES ALVES",
+    "stop_lat":-7.217996036633849,
+    "stop_lon":-35.906547009944916
+  },
+  {
+    "stop_id":"CLINICA_SANTA_MARIA_-_OPOSTO_561",
+    "stop_name":"CLINICA SANTA MARIA - OPOSTO_561",
+    "stop_desc":"Rua / Avenida: RODRIGUES ALVES",
+    "stop_lat":-7.218352016061544,
+    "stop_lon":-35.904812039807439
+  },
+  {
+    "stop_id":"1183_562",
+    "stop_name":"1183_562",
+    "stop_desc":"Rua / Avenida: RODRIGUES ALVES",
+    "stop_lat":-7.219231026247144,
+    "stop_lon":-35.901131965219975
+  },
+  {
+    "stop_id":"794_-_OPOSTO_563",
+    "stop_name":"794 - OPOSTO_563",
+    "stop_desc":"Rua / Avenida: JOSE DE ALENCAR",
+    "stop_lat":-7.221396993845701,
+    "stop_lon":-35.899363970384002
+  },
+  {
+    "stop_id":"238_-_OPOSTO_564",
+    "stop_name":"238 - OPOSTO_564",
+    "stop_desc":"Rua / Avenida: JOSE DE ALENCAR",
+    "stop_lat":-7.222455041483045,
+    "stop_lon":-35.895116021856666
+  },
+  {
+    "stop_id":"310_565",
+    "stop_name":"310_565",
+    "stop_desc":"Rua / Avenida: ANTENOR NAVARRO",
+    "stop_lat":-7.221532026305795,
+    "stop_lon":-35.89433298446238
+  },
+  {
+    "stop_id":"CASA_DA_PIZZA_566",
+    "stop_name":"CASA DA PIZZA_566",
+    "stop_desc":"Rua / Avenida: RODRIGUES ALVES",
+    "stop_lat":-7.221632022410631,
+    "stop_lon":-35.891829980537295
+  },
+  {
+    "stop_id":"EXTRA_579",
+    "stop_name":"EXTRA_579",
+    "stop_desc":"Rua / Avenida: SEVERINO BEZERRA CABRAL",
+    "stop_lat":-7.234866041690111,
+    "stop_lon":-35.868728030472994
+  },
+  {
+    "stop_id":"446_582",
+    "stop_name":"446_582",
+    "stop_desc":"Rua / Avenida: NILO PECANHA",
+    "stop_lat":-7.219613995403051,
+    "stop_lon":-35.895453980192542
+  },
+  {
+    "stop_id":"762_583",
+    "stop_name":"762_583",
+    "stop_desc":"Rua / Avenida: NILO PECANHA",
+    "stop_lat":-7.222660984843969,
+    "stop_lon":-35.896250009536743
+  },
+  {
+    "stop_id":"MONTE_CARMELO_584",
+    "stop_name":"MONTE CARMELO_584",
+    "stop_desc":"Rua / Avenida: PROFESSOR CARLOS FRANCISCO MEDEIROS DE ALMEIDA",
+    "stop_lat":-7.221866967156529,
+    "stop_lon":-35.903104981407523
+  },
+  {
+    "stop_id":"129_585",
+    "stop_name":"129_585",
+    "stop_desc":"Rua / Avenida: SANTA LUZIA",
+    "stop_lat":-7.221846012398601,
+    "stop_lon":-35.905196014791727
+  },
+  {
+    "stop_id":"48_586",
+    "stop_name":"48_586",
+    "stop_desc":"Rua / Avenida: SANTA LUZIA",
+    "stop_lat":-7.22195397131145,
+    "stop_lon":-35.905323000624776
+  },
+  {
+    "stop_id":"187_587",
+    "stop_name":"187_587",
+    "stop_desc":"Rua / Avenida: SANTA LUZIA",
+    "stop_lat":-7.223637979477644,
+    "stop_lon":-35.907965982332826
+  },
+  {
+    "stop_id":"300_-_OPOSTO_588",
+    "stop_name":"300 - OPOSTO_588",
+    "stop_desc":"Rua / Avenida: VINTE E SETE DE JULHO",
+    "stop_lat":-7.227355018258095,
+    "stop_lon":-35.913368035107851
+  },
+  {
+    "stop_id":"2818_-_OPOSTO_589",
+    "stop_name":"2818 - OPOSTO_589",
+    "stop_desc":"Rua / Avenida: ALMEIDA BARRETO",
+    "stop_lat":-7.229104992002249,
+    "stop_lon":-35.910236975178123
+  },
+  {
+    "stop_id":"2588_-_OPOSTO_590",
+    "stop_name":"2588 - OPOSTO_590",
+    "stop_desc":"Rua / Avenida: ALMEIDA BARRETO",
+    "stop_lat":-7.22919300198555,
+    "stop_lon":-35.908230012282729
+  },
+  {
+    "stop_id":"2028_-_OPOSTO_591",
+    "stop_name":"2028 - OPOSTO_591",
+    "stop_desc":"Rua / Avenida: ALMEIDA BARRETO",
+    "stop_lat":-7.229324011132121,
+    "stop_lon":-35.90591199696064
+  },
+  {
+    "stop_id":"2026_592",
+    "stop_name":"2026_592",
+    "stop_desc":"Rua / Avenida: ALMEIDA BARRETO",
+    "stop_lat":-7.22923600114882,
+    "stop_lon":-35.906249033287168
+  },
+  {
+    "stop_id":"2524_593",
+    "stop_name":"2524_593",
+    "stop_desc":"Rua / Avenida: ALMEIDA BARRETO",
+    "stop_lat":-7.229142962023616,
+    "stop_lon":-35.907578989863396
+  },
+  {
+    "stop_id":"2706_594",
+    "stop_name":"2706_594",
+    "stop_desc":"Rua / Avenida: ALMEIDA BARRETO",
+    "stop_lat":-7.229052018374205,
+    "stop_lon":-35.909290993586183
+  },
+  {
+    "stop_id":"2848_595",
+    "stop_name":"2848_595",
+    "stop_desc":"Rua / Avenida: ALMEIDA BARRETO",
+    "stop_lat":-7.228984963148832,
+    "stop_lon":-35.910473009571433
+  },
+  {
+    "stop_id":"1495_-_OPOSTO_596",
+    "stop_name":"1495 - OPOSTO_596",
+    "stop_desc":"Rua / Avenida: APRIGIO VELOSO",
+    "stop_lat":-7.216336000710726,
+    "stop_lon":-35.91620497405529
+  },
+  {
+    "stop_id":"255_-_OPOSTO_597",
+    "stop_name":"255 - OPOSTO_597",
+    "stop_desc":"Rua / Avenida: PORTUGAL",
+    "stop_lat":-7.214297018945217,
+    "stop_lon":-35.919752027839422
+  },
+  {
+    "stop_id":"MASTODONTE_598",
+    "stop_name":"MASTODONTE_598",
+    "stop_desc":"Rua / Avenida: BR-230",
+    "stop_lat":-7.197119984775782,
+    "stop_lon":-35.955746015533805
+  },
+  {
+    "stop_id":"352_-_SAO_JOSE_DA_MATA_599",
+    "stop_name":"352 - SAO JOSE DA MATA_599",
+    "stop_desc":"Rua / Avenida: BENICIO FERNANDES",
+    "stop_lat":-7.180605959147215,
+    "stop_lon":-35.984829962253571
+  },
+  {
+    "stop_id":"LAVA_JATO_-_SAO_JOSE_DA_MATA_600",
+    "stop_name":"LAVA JATO - SAO JOSE DA MATA_600",
+    "stop_desc":"Rua / Avenida: MONSENHOR SALES",
+    "stop_lat":-7.184027032926679,
+    "stop_lon":-35.981542998924851
+  },
+  {
+    "stop_id":"CHURRASCARIA_RECANTO_DAS_AGUAS_601",
+    "stop_name":"CHURRASCARIA RECANTO DAS AGUAS_601",
+    "stop_desc":"Rua / Avenida: BR-230",
+    "stop_lat":-7.186319986358285,
+    "stop_lon":-35.971540035679936
+  },
+  {
+    "stop_id":"5825_602",
+    "stop_name":"5825_602",
+    "stop_desc":"Rua / Avenida: BR-230",
+    "stop_lat":-7.188067026436329,
+    "stop_lon":-35.968804014846683
+  },
+  {
+    "stop_id":"4385_603",
+    "stop_name":"4385_603",
+    "stop_desc":"Rua / Avenida: BR-230",
+    "stop_lat":-7.195101035758853,
+    "stop_lon":-35.962180970236659
+  },
+  {
+    "stop_id":"3425_604",
+    "stop_name":"3425_604",
+    "stop_desc":"Rua / Avenida: BR-230",
+    "stop_lat":-7.199032986536622,
+    "stop_lon":-35.953638972714543
+  },
+  {
+    "stop_id":"ESCOLA_MUNICIPAL_MAURO_LUNA_605",
+    "stop_name":"ESCOLA MUNICIPAL MAURO LUNA_605",
+    "stop_desc":"Rua / Avenida: BR-230",
+    "stop_lat":-7.200688999146223,
+    "stop_lon":-35.95268502831459
+  },
+  {
+    "stop_id":"COLEGIO_CARMELA_VELOSO_606",
+    "stop_name":"COLEGIO CARMELA VELOSO_606",
+    "stop_desc":"Rua / Avenida: APRIGIO VELOSO",
+    "stop_lat":-7.216616962105036,
+    "stop_lon":-35.915326969698071
+  },
+  {
+    "stop_id":"2105_-_OPOSTO_608",
+    "stop_name":"2105 - OPOSTO_608",
+    "stop_desc":"Rua / Avenida: BR-230",
+    "stop_lat":-7.205248000100255,
+    "stop_lon":-35.950070964172482
+  },
+  {
+    "stop_id":"ESCOLA_IRMA_JOAQUINA_SAMPAIO_609",
+    "stop_name":"ESCOLA IRMA JOAQUINA SAMPAIO_609",
+    "stop_desc":"Rua / Avenida: BR-230",
+    "stop_lat":-7.208444019779563,
+    "stop_lon":-35.946581996977329
+  },
+  {
+    "stop_id":"J.N._CARNES_610",
+    "stop_name":"J.N. CARNES_610",
+    "stop_desc":"Rua / Avenida: RAFAELA SOUSA E SILVA",
+    "stop_lat":-7.227204982191324,
+    "stop_lon":-35.951614994555712
+  },
+  {
+    "stop_id":"18_611",
+    "stop_name":"18_611",
+    "stop_desc":"Rua / Avenida: RAFAELA SOUSA E SILVA",
+    "stop_lat":-7.225909978151321,
+    "stop_lon":-35.950433984398842
+  },
+  {
+    "stop_id":"28_-_OPOSTO_612",
+    "stop_name":"28 - OPOSTO_612",
+    "stop_desc":"Rua / Avenida: RAFAELA SOUSA E SILVA",
+    "stop_lat":-7.224615979939699,
+    "stop_lon":-35.949206035584211
+  },
+  {
+    "stop_id":"54_-_OPOSTO_613",
+    "stop_name":"54 - OPOSTO_613",
+    "stop_desc":"Rua / Avenida: RAFAELA SOUSA E SILVA",
+    "stop_lat":-7.223359029740095,
+    "stop_lon":-35.94877302646637
+  },
+  {
+    "stop_id":"_614",
+    "stop_name":"_614",
+    "stop_desc":"Rua / Avenida: RAFAELA SOUSA E SILVA",
+    "stop_lat":-7.220800034701824,
+    "stop_lon":-35.950849978253245
+  },
+  {
+    "stop_id":"_615",
+    "stop_name":"_615",
+    "stop_desc":"Rua / Avenida: RAFAELA SOUSA E SILVA",
+    "stop_lat":-7.219862015917897,
+    "stop_lon":-35.951129011809826
+  },
+  {
+    "stop_id":"PRESIDIO_DO_SERROTAO_616",
+    "stop_name":"PRESIDIO DO SERROTAO_616",
+    "stop_desc":"Rua / Avenida: ARISTIDES OLIMPIO MAIA",
+    "stop_lat":-7.216864982619882,
+    "stop_lon":-35.951015017926693
+  },
+  {
+    "stop_id":"9A_-_OPOSTO_617",
+    "stop_name":"9A - OPOSTO_617",
+    "stop_desc":"Rua / Avenida: ARISTIDES OLIMPIO MAIA",
+    "stop_lat":-7.214257959276438,
+    "stop_lon":-35.949135040864348
+  },
+  {
+    "stop_id":"828_-_OPOSTO_618",
+    "stop_name":"828 - OPOSTO_618",
+    "stop_desc":"Rua / Avenida: BR-230",
+    "stop_lat":-7.210505967959762,
+    "stop_lon":-35.940056014806032
+  },
+  {
+    "stop_id":"_619",
+    "stop_name":"_619",
+    "stop_desc":"Rua / Avenida: BR-230",
+    "stop_lat":-7.210646029561758,
+    "stop_lon":-35.933462977409363
+  },
+  {
+    "stop_id":"1479_620",
+    "stop_name":"1479_620",
+    "stop_desc":"Rua / Avenida: BR-230",
+    "stop_lat":-7.211549011990428,
+    "stop_lon":-35.930354967713356
+  },
+  {
+    "stop_id":"1365_621",
+    "stop_name":"1365_621",
+    "stop_desc":"Rua / Avenida: BR-230",
+    "stop_lat":-7.212834963575006,
+    "stop_lon":-35.92821397818625
+  },
+  {
+    "stop_id":"1016_-_OPOSTO_622",
+    "stop_name":"1016 - OPOSTO_622",
+    "stop_desc":"Rua / Avenida: BR-230",
+    "stop_lat":-7.213719002902508,
+    "stop_lon":-35.926401978358626
+  },
+  {
+    "stop_id":"55_623",
+    "stop_name":"55_623",
+    "stop_desc":"Rua / Avenida: PORTUGAL",
+    "stop_lat":-7.215509964153171,
+    "stop_lon":-35.918688029050827
+  },
+  {
+    "stop_id":"1127_625",
+    "stop_name":"1127_625",
+    "stop_desc":"Rua / Avenida: GETULIO VARGAS",
+    "stop_lat":-7.216893984004855,
+    "stop_lon":-35.89512599632144
+  },
+  {
+    "stop_id":"948_-_OPOSTO_626",
+    "stop_name":"948 - OPOSTO_626",
+    "stop_desc":"Rua / Avenida: GETULIO VARGAS",
+    "stop_lat":-7.217282988131046,
+    "stop_lon":-35.893570985645056
+  },
+  {
+    "stop_id":"373_-_OPOSTO_627",
+    "stop_name":"373 - OPOSTO_627",
+    "stop_desc":"Rua / Avenida: CARMELITA SILVA DE ARAUJO",
+    "stop_lat":-7.254422027617693,
+    "stop_lon":-35.926071982830763
+  },
+  {
+    "stop_id":"664_628",
+    "stop_name":"664_628",
+    "stop_desc":"Rua / Avenida: CARMELITA SILVA DE ARAUJO",
+    "stop_lat":-7.253968985751271,
+    "stop_lon":-35.923545006662607
+  },
+  {
+    "stop_id":"ESCOLA_MUNICIPAL_629",
+    "stop_name":"ESCOLA MUNICIPAL_629",
+    "stop_desc":"Rua / Avenida: OTAVIO BATISTA CABRAL (TRAVESSA)",
+    "stop_lat":-7.253616023808718,
+    "stop_lon":-35.920275980606675
+  },
+  {
+    "stop_id":"808_630",
+    "stop_name":"808_630",
+    "stop_desc":"Rua / Avenida: OTAVIO BATISTA CABRAL",
+    "stop_lat":-7.255163993686438,
+    "stop_lon":-35.920744026079774
+  },
+  {
+    "stop_id":"DISTRIBUIDORA_DE_GAS_631",
+    "stop_name":"DISTRIBUIDORA DE GAS_631",
+    "stop_desc":"Rua / Avenida: OTAVIO BATISTA CABRAL",
+    "stop_lat":-7.257075989618897,
+    "stop_lon":-35.920273968949914
+  },
+  {
+    "stop_id":"Q-7;_L-7_632",
+    "stop_name":"Q-7; L-7_632",
+    "stop_desc":"Rua / Avenida: OTAVIO BATISTA CABRAL",
+    "stop_lat":-7.258465038612485,
+    "stop_lon":-35.920030977576971
+  },
+  {
+    "stop_id":"Q-9;_L-24_633",
+    "stop_name":"Q-9; L-24_633",
+    "stop_desc":"Rua / Avenida: OTAVIO BATISTA CABRAL",
+    "stop_lat":-7.259447984397411,
+    "stop_lon":-35.919863004237413
+  },
+  {
+    "stop_id":"Q-I;_MINI_BOX_JOSIENE_634",
+    "stop_name":"Q-I; MINI BOX JOSIENE_634",
+    "stop_desc":"Rua / Avenida: PROJETADA",
+    "stop_lat":-7.260277960449457,
+    "stop_lon":-35.921336961910129
+  },
+  {
+    "stop_id":"Q-8_529_635",
+    "stop_name":"Q-8 529_635",
+    "stop_desc":"Rua / Avenida: PROJETADA",
+    "stop_lat":-7.258158009499311,
+    "stop_lon":-35.922255031764507
+  },
+  {
+    "stop_id":"Q-14_390_636",
+    "stop_name":"Q-14 390_636",
+    "stop_desc":"Rua / Avenida: PROJETADA",
+    "stop_lat":-7.257377989590168,
+    "stop_lon":-35.923956977203488
+  },
+  {
+    "stop_id":"451_637",
+    "stop_name":"451_637",
+    "stop_desc":"Rua / Avenida: STENIO MOZART BEZERRA DE LIMA",
+    "stop_lat":-7.255907971411943,
+    "stop_lon":-35.925798984244466
+  },
+  {
+    "stop_id":"194A_-_LATERAL_638",
+    "stop_name":"194A - LATERAL_638",
+    "stop_desc":"Rua / Avenida: ARQUITETO RENATO AZEVEDO",
+    "stop_lat":-7.255286034196615,
+    "stop_lon":-35.927669992670417
+  },
+  {
+    "stop_id":"524_-_VIZINHO_639",
+    "stop_name":"524 - VIZINHO_639",
+    "stop_desc":"Rua / Avenida: LINDOLFO ALBUQUERQUE",
+    "stop_lat":-7.252480024471879,
+    "stop_lon":-35.919980015605688
+  },
+  {
+    "stop_id":"80_640",
+    "stop_name":"80_640",
+    "stop_desc":"Rua / Avenida: OTAVIO BATISTA CABRAL",
+    "stop_lat":-7.249226002022624,
+    "stop_lon":-35.922614028677344
+  },
+  {
+    "stop_id":"46_641",
+    "stop_name":"46_641",
+    "stop_desc":"Rua / Avenida: JOSE NOGUEIRA PEREIRA",
+    "stop_lat":-7.248482024297118,
+    "stop_lon":-35.921980021521449
+  },
+  {
+    "stop_id":"7B_642",
+    "stop_name":"7B_642",
+    "stop_desc":"Rua / Avenida: JOSE NOGUEIRA PEREIRA",
+    "stop_lat":-7.249849028885365,
+    "stop_lon":-35.921373004093766
+  },
+  {
+    "stop_id":"387_-_OPOSTO_643",
+    "stop_name":"387 - OPOSTO_643",
+    "stop_desc":"Rua / Avenida: JOSE NOGUEIRA PEREIRA",
+    "stop_lat":-7.251349976286292,
+    "stop_lon":-35.920917028561234
+  },
+  {
+    "stop_id":"1303_644",
+    "stop_name":"1303_644",
+    "stop_desc":"Rua / Avenida: APRIGIO NEPOMUCENO",
+    "stop_lat":-7.244185963645577,
+    "stop_lon":-35.900963991880417
+  },
+  {
+    "stop_id":"1247_645",
+    "stop_name":"1247_645",
+    "stop_desc":"Rua / Avenida: APRIGIO NEPOMUCENO",
+    "stop_lat":-7.243973985314369,
+    "stop_lon":-35.899059036746621
+  },
+  {
+    "stop_id":"97_-_OPOSTO_646",
+    "stop_name":"97 - OPOSTO_646",
+    "stop_desc":"Rua / Avenida: APRIGIO NEPOMUCENO",
+    "stop_lat":-7.242804039269686,
+    "stop_lon":-35.889016008004546
+  },
+  {
+    "stop_id":"33_647",
+    "stop_name":"33_647",
+    "stop_desc":"Rua / Avenida: APRIGIO NEPOMUCENO",
+    "stop_lat":-7.242712005972862,
+    "stop_lon":-35.888413013890386
+  },
+  {
+    "stop_id":"40_648",
+    "stop_name":"40_648",
+    "stop_desc":"Rua / Avenida: UMBURANAS",
+    "stop_lat":-7.249074038118124,
+    "stop_lon":-35.924364002421498
+  },
+  {
+    "stop_id":"200_649",
+    "stop_name":"200_649",
+    "stop_desc":"Rua / Avenida: UMBURANAS",
+    "stop_lat":-7.247737962752581,
+    "stop_lon":-35.924937995150685
+  },
+  {
+    "stop_id":"AGILDO_MAGAZINE_650",
+    "stop_name":"AGILDO MAGAZINE_650",
+    "stop_desc":"Rua / Avenida: UMBURANAS",
+    "stop_lat":-7.246482018381357,
+    "stop_lon":-35.925446022301912
+  },
+  {
+    "stop_id":"133_651",
+    "stop_name":"133_651",
+    "stop_desc":"Rua / Avenida: JABUTICABEIRAS",
+    "stop_lat":-7.245381977409124,
+    "stop_lon":-35.924452012404799
+  },
+  {
+    "stop_id":"ESCOLA_SEVERINO_CABRAL_652",
+    "stop_name":"ESCOLA SEVERINO CABRAL_652",
+    "stop_desc":"Rua / Avenida: JAMILA ABRAAO JORGE",
+    "stop_lat":-7.24270798265934,
+    "stop_lon":-35.923477029427886
+  },
+  {
+    "stop_id":"64_653",
+    "stop_name":"64_653",
+    "stop_desc":"Rua / Avenida: AVELOZES",
+    "stop_lat":-7.240982986986637,
+    "stop_lon":-35.924006011337042
+  },
+  {
+    "stop_id":"MATERIAL_DE_CONSTRUCAO_654",
+    "stop_name":"MATERIAL DE CONSTRUCAO_654",
+    "stop_desc":"Rua / Avenida: PLINIO LEMOS",
+    "stop_lat":-7.239052969962359,
+    "stop_lon":-35.923218028619885
+  },
+  {
+    "stop_id":"MERCADO_DAS_MALVINAS_-_OPOSTO_655",
+    "stop_name":"MERCADO DAS MALVINAS - OPOSTO_655",
+    "stop_desc":"Rua / Avenida: PLINIO LEMOS",
+    "stop_lat":-7.236614003777504,
+    "stop_lon":-35.924213966354728
+  },
+  {
+    "stop_id":"PIRAMIDAL_BAR_-_OPOSTO_656",
+    "stop_name":"PIRAMIDAL BAR - OPOSTO_656",
+    "stop_desc":"Rua / Avenida: PLINIO LEMOS",
+    "stop_lat":-7.234399002045393,
+    "stop_lon":-35.925132036209106
+  },
+  {
+    "stop_id":"380_-_OPOSTO_657",
+    "stop_name":"380 - OPOSTO_657",
+    "stop_desc":"Rua / Avenida: PLINIO LEMOS",
+    "stop_lat":-7.231712015345693,
+    "stop_lon":-35.926256971433759
+  },
+  {
+    "stop_id":"07_658",
+    "stop_name":"07_658",
+    "stop_desc":"Rua / Avenida: LEONARDO COSTA VASCONCELOS",
+    "stop_lat":-7.230767039582133,
+    "stop_lon":-35.924979988485575
+  },
+  {
+    "stop_id":"RESTAURANTE_VITORIA_-_OPOSTO_659",
+    "stop_name":"RESTAURANTE VITORIA - OPOSTO_659",
+    "stop_desc":"Rua / Avenida: LEONARDO COSTA VASCONCELOS",
+    "stop_lat":-7.230428997427225,
+    "stop_lon":-35.924114976078272
+  },
+  {
+    "stop_id":"VERA_CABELEREIRA_-_OPOSTO_660",
+    "stop_name":"VERA CABELEREIRA - OPOSTO_660",
+    "stop_desc":"Rua / Avenida: GUARABIRA",
+    "stop_lat":-7.230516001582146,
+    "stop_lon":-35.922558959573507
+  },
+  {
+    "stop_id":"HAIR_FLY_-_OPOSTO_661",
+    "stop_name":"HAIR FLY - OPOSTO_661",
+    "stop_desc":"Rua / Avenida: SEBASTIAO MARTINS DE OLIVEIRA",
+    "stop_lat":-7.229632968083024,
+    "stop_lon":-35.92112397775054
+  },
+  {
+    "stop_id":"558_662",
+    "stop_name":"558_662",
+    "stop_desc":"Rua / Avenida: FLORIPEDES COUTINHO",
+    "stop_lat":-7.228069994598627,
+    "stop_lon":-35.921384990215302
+  },
+  {
+    "stop_id":"1320_-_OPOSTO_663",
+    "stop_name":"1320 - OPOSTO_663",
+    "stop_desc":"Rua / Avenida: FLORIPEDES COUTINHO",
+    "stop_lat":-7.22575600259006,
+    "stop_lon":-35.921478029340506
+  },
+  {
+    "stop_id":"955_664",
+    "stop_name":"955_664",
+    "stop_desc":"Rua / Avenida: FLORIPEDES COUTINHO",
+    "stop_lat":-7.222713958472014,
+    "stop_lon":-35.921571990475059
+  },
+  {
+    "stop_id":"807_665",
+    "stop_name":"807_665",
+    "stop_desc":"Rua / Avenida: FLORIPEDES COUTINHO",
+    "stop_lat":-7.221236983314157,
+    "stop_lon":-35.92159696854651
+  },
+  {
+    "stop_id":"808_-_OPOSTO_666",
+    "stop_name":"808 - OPOSTO_666",
+    "stop_desc":"Rua / Avenida: MANOEL JOAQUIM RIBEIRO",
+    "stop_lat":-7.220421005040407,
+    "stop_lon":-35.921480040997267
+  },
+  {
+    "stop_id":"CASA_CIDE_667",
+    "stop_name":"CASA CIDE_667",
+    "stop_desc":"Rua / Avenida: MANOEL JOAQUIM RIBEIRO",
+    "stop_lat":-7.22038596868515,
+    "stop_lon":-35.918918028473854
+  },
+  {
+    "stop_id":"109_668",
+    "stop_name":"109_668",
+    "stop_desc":"Rua / Avenida: ENGENHEIRO LOURIVAL DE ANDRADE",
+    "stop_lat":-7.218423010781407,
+    "stop_lon":-35.916775027289987
+  },
+  {
+    "stop_id":"42_-_OPOSTO_669",
+    "stop_name":"42 - OPOSTO_669",
+    "stop_desc":"Rua / Avenida: BRIGADEIRO EDUARDO GOMES",
+    "stop_lat":-7.21159796230495,
+    "stop_lon":-35.90973598882556
+  },
+  {
+    "stop_id":"ENTRADA_UEPB_670",
+    "stop_name":"ENTRADA UEPB_670",
+    "stop_desc":"Rua / Avenida: DOMITILIA CABRAL DE CASTRO",
+    "stop_lat":-7.210270017385483,
+    "stop_lon":-35.911977980285883
+  },
+  {
+    "stop_id":"CCBS_671",
+    "stop_name":"CCBS_671",
+    "stop_desc":"Rua / Avenida: UEPB",
+    "stop_lat":-7.210509991273284,
+    "stop_lon":-35.915740029886365
+  },
+  {
+    "stop_id":"CCBS_672",
+    "stop_name":"CCBS_672",
+    "stop_desc":"Rua / Avenida: UEPB",
+    "stop_lat":-7.210400020703673,
+    "stop_lon":-35.915620001032948
+  },
+  {
+    "stop_id":"EDUCACAO_FISICA_673",
+    "stop_name":"EDUCACAO FISICA_673",
+    "stop_desc":"Rua / Avenida: UEPB",
+    "stop_lat":-7.2110600117594,
+    "stop_lon":-35.913565009832382
+  },
+  {
+    "stop_id":"_674",
+    "stop_name":"_674",
+    "stop_desc":"Rua / Avenida: UEPB",
+    "stop_lat":-7.21041401848197,
+    "stop_lon":-35.91190698556602
+  },
+  {
+    "stop_id":"42_675",
+    "stop_name":"42_675",
+    "stop_desc":"Rua / Avenida: BRIGADEIRO EDUARDO GOMES",
+    "stop_lat":-7.211734000593424,
+    "stop_lon":-35.909834979102015
+  },
+  {
+    "stop_id":"COMERCIO_DE_PEDRAS_676",
+    "stop_name":"COMERCIO DE PEDRAS_676",
+    "stop_desc":"Rua / Avenida: CARLOS ALBERTO DE SOUZA",
+    "stop_lat":-7.217372003942728,
+    "stop_lon":-35.915800966322422
+  },
+  {
+    "stop_id":"324_677",
+    "stop_name":"324_677",
+    "stop_desc":"Rua / Avenida: CARLOS ALBERTO DE SOUZA",
+    "stop_lat":-7.219083001837134,
+    "stop_lon":-35.915574990212917
+  },
+  {
+    "stop_id":"394_678",
+    "stop_name":"394_678",
+    "stop_desc":"Rua / Avenida: CARLOS ALBERTO DE SOUZA",
+    "stop_lat":-7.22014800645411,
+    "stop_lon":-35.915349014103413
+  },
+  {
+    "stop_id":"208_679",
+    "stop_name":"208_679",
+    "stop_desc":"Rua / Avenida: MANOEL JOAQUIM RIBEIRO",
+    "stop_lat":-7.220408013090491,
+    "stop_lon":-35.916476966813207
+  },
+  {
+    "stop_id":"222_680",
+    "stop_name":"222_680",
+    "stop_desc":"Rua / Avenida: MANOEL JOAQUIM RIBEIRO",
+    "stop_lat":-7.220316985622048,
+    "stop_lon":-35.919012995436788
+  },
+  {
+    "stop_id":"808_681",
+    "stop_name":"808_681",
+    "stop_desc":"Rua / Avenida: MANOEL JOAQUIM RIBEIRO",
+    "stop_lat":-7.220395021140575,
+    "stop_lon":-35.921432012692094
+  },
+  {
+    "stop_id":"906_682",
+    "stop_name":"906_682",
+    "stop_desc":"Rua / Avenida: FLORIPEDES COUTINHO",
+    "stop_lat":-7.222656961530447,
+    "stop_lon":-35.921653965488076
+  },
+  {
+    "stop_id":"420_683",
+    "stop_name":"420_683",
+    "stop_desc":"Rua / Avenida: FLORIPEDES COUTINHO",
+    "stop_lat":-7.226170990616083,
+    "stop_lon":-35.921507030725479
+  },
+  {
+    "stop_id":"553A_684",
+    "stop_name":"553A_684",
+    "stop_desc":"Rua / Avenida: FLORIPEDES COUTINHO",
+    "stop_lat":-7.228059014305472,
+    "stop_lon":-35.921423966065049
+  },
+  {
+    "stop_id":"1120A_-_OPOSTO_685",
+    "stop_name":"1120A - OPOSTO_685",
+    "stop_desc":"Rua / Avenida: SEBASTIAO MARTINS DE OLIVEIRA",
+    "stop_lat":-7.229641014710069,
+    "stop_lon":-35.921181980520487
+  },
+  {
+    "stop_id":"MONT_MOVEIS_686",
+    "stop_name":"MONT MOVEIS_686",
+    "stop_desc":"Rua / Avenida: GUARABIRA",
+    "stop_lat":-7.230509966611862,
+    "stop_lon":-35.922659039497375
+  },
+  {
+    "stop_id":"MINI_BOX_687",
+    "stop_name":"MINI BOX_687",
+    "stop_desc":"Rua / Avenida: LEONARDO COSTA VASCONCELOS",
+    "stop_lat":-7.230437966063619,
+    "stop_lon":-35.924239028245211
+  },
+  {
+    "stop_id":"380_688",
+    "stop_name":"380_688",
+    "stop_desc":"Rua / Avenida: PLINIO LEMOS",
+    "stop_lat":-7.231869008392096,
+    "stop_lon":-35.926228975877166
+  },
+  {
+    "stop_id":"PIRAMIDAL_BAR_689",
+    "stop_name":"PIRAMIDAL BAR_689",
+    "stop_desc":"Rua / Avenida: PLINIO LEMOS",
+    "stop_lat":-7.234150981530547,
+    "stop_lon":-35.925324987620115
+  },
+  {
+    "stop_id":"86A_690",
+    "stop_name":"86A_690",
+    "stop_desc":"Rua / Avenida: OLINDA",
+    "stop_lat":-7.234903005883098,
+    "stop_lon":-35.926726022735238
+  },
+  {
+    "stop_id":"162_691",
+    "stop_name":"162_691",
+    "stop_desc":"Rua / Avenida: OLINDA",
+    "stop_lat":-7.235225960612297,
+    "stop_lon":-35.927585000172257
+  },
+  {
+    "stop_id":"314_692",
+    "stop_name":"314_692",
+    "stop_desc":"Rua / Avenida: SANTAREM",
+    "stop_lat":-7.234239997342229,
+    "stop_lon":-35.928237028419971
+  },
+  {
+    "stop_id":"65_-_OPOSTO_693",
+    "stop_name":"65 - OPOSTO_693",
+    "stop_desc":"Rua / Avenida: GARANHUNS",
+    "stop_lat":-7.233785027638078,
+    "stop_lon":-35.92918099835515
+  },
+  {
+    "stop_id":"235_-_OPOSTO_694",
+    "stop_name":"235 - OPOSTO_694",
+    "stop_desc":"Rua / Avenida: GARANHUNS",
+    "stop_lat":-7.234463039785624,
+    "stop_lon":-35.930842962116003
+  },
+  {
+    "stop_id":"700_695",
+    "stop_name":"700_695",
+    "stop_desc":"Rua / Avenida: MARIA DA GUIA MUNIZ ALBUQUERQUE",
+    "stop_lat":-7.233656030148268,
+    "stop_lon":-35.931686013936996
+  },
+  {
+    "stop_id":"850_696",
+    "stop_name":"850_696",
+    "stop_desc":"Rua / Avenida: MARIA DA GUIA MUNIZ ALBUQUERQUE",
+    "stop_lat":-7.232580967247486,
+    "stop_lon":-35.931883994489908
+  },
+  {
+    "stop_id":"1090_697",
+    "stop_name":"1090_697",
+    "stop_desc":"Rua / Avenida: MARIA DA GUIA MUNIZ ALBUQUERQUE",
+    "stop_lat":-7.230721022933722,
+    "stop_lon":-35.931958006694913
+  },
+  {
+    "stop_id":"THIAGO_CABELEREIRO_698",
+    "stop_name":"THIAGO CABELEREIRO_698",
+    "stop_desc":"Rua / Avenida: MARIA DA GUIA MUNIZ ALBUQUERQUE",
+    "stop_lat":-7.229338008910418,
+    "stop_lon":-35.931799001991749
+  },
+  {
+    "stop_id":"112B_699",
+    "stop_name":"112B_699",
+    "stop_desc":"Rua / Avenida: MARIA DA GUIA MUNIZ ALBUQUERQUE",
+    "stop_lat":-7.227298021316528,
+    "stop_lon":-35.931590041145682
+  },
+  {
+    "stop_id":"PONTO_FINAL_700",
+    "stop_name":"PONTO FINAL_700",
+    "stop_desc":"Rua / Avenida: CAICO",
+    "stop_lat":-7.225706968456507,
+    "stop_lon":-35.931733958423138
+  },
+  {
+    "stop_id":"20_701",
+    "stop_name":"20_701",
+    "stop_desc":"Rua / Avenida: CAICO",
+    "stop_lat":-7.22674397751689,
+    "stop_lon":-35.930262012407184
+  },
+  {
+    "stop_id":"PANIFICADORA_702",
+    "stop_name":"PANIFICADORA_702",
+    "stop_desc":"Rua / Avenida: CAICO",
+    "stop_lat":-7.228990998119116,
+    "stop_lon":-35.928530981764197
+  },
+  {
+    "stop_id":"ESCOLA_CARLOS_DRUMOND_DE_ANDRADE_703",
+    "stop_name":"ESCOLA CARLOS DRUMOND DE ANDRADE_703",
+    "stop_desc":"Rua / Avenida: CAICO",
+    "stop_lat":-7.231217985972762,
+    "stop_lon":-35.927347037941217
+  },
+  {
+    "stop_id":"MERCADO_DAS_MALVINAS_704",
+    "stop_name":"MERCADO DAS MALVINAS_704",
+    "stop_desc":"Rua / Avenida: PLINIO LEMOS",
+    "stop_lat":-7.236209996044636,
+    "stop_lon":-35.924487970769405
+  },
+  {
+    "stop_id":"EXPRESSO_LONDRES_705",
+    "stop_name":"EXPRESSO LONDRES_705",
+    "stop_desc":"Rua / Avenida: PLINIO LEMOS",
+    "stop_lat":-7.239298978820443,
+    "stop_lon":-35.92320503666997
+  },
+  {
+    "stop_id":"128_706",
+    "stop_name":"128_706",
+    "stop_desc":"Rua / Avenida: AVELOZES",
+    "stop_lat":-7.240939987823367,
+    "stop_lon":-35.924108019098639
+  },
+  {
+    "stop_id":"195_707",
+    "stop_name":"195_707",
+    "stop_desc":"Rua / Avenida: JAMILA ABRAAO JORGE",
+    "stop_lat":-7.24242702126503,
+    "stop_lon":-35.923642991110682
+  },
+  {
+    "stop_id":"17_708",
+    "stop_name":"17_708",
+    "stop_desc":"Rua / Avenida: JAMILA ABRAAO JORGE",
+    "stop_lat":-7.244312027469277,
+    "stop_lon":-35.922872023656964
+  },
+  {
+    "stop_id":"LANA_CABELEREIRAS_709",
+    "stop_name":"LANA CABELEREIRAS_709",
+    "stop_desc":"Rua / Avenida: JABUTICABEIRAS",
+    "stop_lat":-7.245173016563058,
+    "stop_lon":-35.924371965229511
+  },
+  {
+    "stop_id":"IGREJA_CONGREGACIONAL_710",
+    "stop_name":"IGREJA CONGREGACIONAL_710",
+    "stop_desc":"Rua / Avenida: UMBURANAS",
+    "stop_lat":-7.24648604169488,
+    "stop_lon":-35.925483992323279
+  },
+  {
+    "stop_id":"04_711",
+    "stop_name":"04_711",
+    "stop_desc":"Rua / Avenida: UMBURANAS",
+    "stop_lat":-7.248776983469725,
+    "stop_lon":-35.924548991024494
+  },
+  {
+    "stop_id":"677_-_OPOSTO_712",
+    "stop_name":"677 - OPOSTO_712",
+    "stop_desc":"Rua / Avenida: MANOEL LEONARDO GOMES",
+    "stop_lat":-7.245612982660532,
+    "stop_lon":-35.896905977278948
+  },
+  {
+    "stop_id":"886_-_VIZINHO_713",
+    "stop_name":"886 - VIZINHO_713",
+    "stop_desc":"Rua / Avenida: MANOEL LEONARDO GOMES",
+    "stop_lat":-7.247367985546589,
+    "stop_lon":-35.896696010604501
+  },
+  {
+    "stop_id":"03_-_OPOSTO_714",
+    "stop_name":"03 - OPOSTO_714",
+    "stop_desc":"Rua / Avenida: MANOEL LEONARDO GOMES",
+    "stop_lat":-7.249938966706395,
+    "stop_lon":-35.89641303755343
+  },
+  {
+    "stop_id":"1180_715",
+    "stop_name":"1180_715",
+    "stop_desc":"Rua / Avenida: MANOEL LEONARDO GOMES",
+    "stop_lat":-7.251532031223178,
+    "stop_lon":-35.896153030917048
+  },
+  {
+    "stop_id":"17_-_OPOSTO_716",
+    "stop_name":"17 - OPOSTO_716",
+    "stop_desc":"Rua / Avenida: DOUTOR VENTURA",
+    "stop_lat":-7.252048021182418,
+    "stop_lon":-35.895435037091374
+  },
+  {
+    "stop_id":"1357_717",
+    "stop_name":"1357_717",
+    "stop_desc":"Rua / Avenida: JOSE FIRMINO DA SILVA",
+    "stop_lat":-7.251633033156395,
+    "stop_lon":-35.894736992195249
+  },
+  {
+    "stop_id":"445_718",
+    "stop_name":"445_718",
+    "stop_desc":"Rua / Avenida: PROFESSOR ARIEL DE OLIVEIRA",
+    "stop_lat":-7.250495022162795,
+    "stop_lon":-35.89446097612381
+  },
+  {
+    "stop_id":"1551_719",
+    "stop_name":"1551_719",
+    "stop_desc":"Rua / Avenida: GETULIO CAVALCANTE",
+    "stop_lat":-7.248332994058728,
+    "stop_lon":-35.893814982846379
+  },
+  {
+    "stop_id":"1071_720",
+    "stop_name":"1071_720",
+    "stop_desc":"Rua / Avenida: GETULIO CAVALCANTE",
+    "stop_lat":-7.243864014744759,
+    "stop_lon":-35.894302977249026
+  },
+  {
+    "stop_id":"1730_-_OPOSTO_722",
+    "stop_name":"1730 - OPOSTO_722",
+    "stop_desc":"Rua / Avenida: GETULIO CAVALCANTE",
+    "stop_lat":-7.249989006668329,
+    "stop_lon":-35.893599987030029
+  },
+  {
+    "stop_id":"435_723",
+    "stop_name":"435_723",
+    "stop_desc":"Rua / Avenida: LUIZ SODRE FILHO",
+    "stop_lat":-7.244320996105671,
+    "stop_lon":-35.877939993515611
+  },
+  {
+    "stop_id":"01_-_OPOSTO_724",
+    "stop_name":"01 - OPOSTO_724",
+    "stop_desc":"Rua / Avenida: LUIZ SODRE FILHO",
+    "stop_lat":-7.24455401301384,
+    "stop_lon":-35.87570495903492
+  },
+  {
+    "stop_id":"18_-_OPOSTO_725",
+    "stop_name":"18 - OPOSTO_725",
+    "stop_desc":"Rua / Avenida: LUIZ SODRE FILHO",
+    "stop_lat":-7.244596006348729,
+    "stop_lon":-35.874790996313095
+  },
+  {
+    "stop_id":"CEDUC_-_OPOSTO_726",
+    "stop_name":"CEDUC - OPOSTO_726",
+    "stop_desc":"Rua / Avenida: CONSUL JOSEPH NOUJUAIN HABIB NACAD",
+    "stop_lat":-7.229449991136789,
+    "stop_lon":-35.879935976117849
+  },
+  {
+    "stop_id":"103_-_VIZINHO_727",
+    "stop_name":"103 - VIZINHO_727",
+    "stop_desc":"Rua / Avenida: ANTONIO GUEDES DE ANDRADE",
+    "stop_lat":-7.227818034589291,
+    "stop_lon":-35.880234036594629
+  },
+  {
+    "stop_id":"SESC_-_OPOSTO_728",
+    "stop_name":"SESC - OPOSTO_728",
+    "stop_desc":"Rua / Avenida: PAULO DE FRONTEIN",
+    "stop_lat":-7.227791966870427,
+    "stop_lon":-35.88231903500855
+  },
+  {
+    "stop_id":"COLEGIO_11_DE_OUTUBRO_729",
+    "stop_name":"COLEGIO 11 DE OUTUBRO_729",
+    "stop_desc":"Rua / Avenida: VILA NOVA DA RAINHA",
+    "stop_lat":-7.22036199644208,
+    "stop_lon":-35.879335999488831
+  },
+  {
+    "stop_id":"141_730",
+    "stop_name":"141_730",
+    "stop_desc":"Rua / Avenida: VILA NOVA DA RAINHA",
+    "stop_lat":-7.221836959943175,
+    "stop_lon":-35.878208968788385
+  },
+  {
+    "stop_id":"23_-_VIZINHO_731",
+    "stop_name":"23 - VIZINHO_731",
+    "stop_desc":"Rua / Avenida: VILA NOVA DA RAINHA",
+    "stop_lat":-7.222623014822602,
+    "stop_lon":-35.877588959410787
+  },
+  {
+    "stop_id":"VIALUZ_-_OPOSTO_732",
+    "stop_name":"VIALUZ - OPOSTO_732",
+    "stop_desc":"Rua / Avenida: JOAO FLORENTINO DE CARVALHO",
+    "stop_lat":-7.224335018545389,
+    "stop_lon":-35.876784967258573
+  },
+  {
+    "stop_id":"OC_CONTABILIDADE_-_OPOSTO_733",
+    "stop_name":"OC CONTABILIDADE - OPOSTO_733",
+    "stop_desc":"Rua / Avenida: OTACILIO NEPOMUCENO",
+    "stop_lat":-7.229913007467985,
+    "stop_lon":-35.87634801864624
+  },
+  {
+    "stop_id":"AUTOMOTIVA_-_OPOSTO_734",
+    "stop_name":"AUTOMOTIVA - OPOSTO_734",
+    "stop_desc":"Rua / Avenida: OTACILIO NEPOMUCENO",
+    "stop_lat":-7.231164006516337,
+    "stop_lon":-35.875320984050632
+  },
+  {
+    "stop_id":"490_735",
+    "stop_name":"490_735",
+    "stop_desc":"Rua / Avenida: OTACILIO NEPOMUCENO",
+    "stop_lat":-7.232483988627791,
+    "stop_lon":-35.87424399331212
+  },
+  {
+    "stop_id":"32_736",
+    "stop_name":"32_736",
+    "stop_desc":"Rua / Avenida: DOUTOR JOAO PEQUENO",
+    "stop_lat":-7.233873037621379,
+    "stop_lon":-35.876737022772431
+  },
+  {
+    "stop_id":"12_737",
+    "stop_name":"12_737",
+    "stop_desc":"Rua / Avenida: LUIZ SODRE FILHO",
+    "stop_lat":-7.244528029114008,
+    "stop_lon":-35.874537024646997
+  },
+  {
+    "stop_id":"276_738",
+    "stop_name":"276_738",
+    "stop_desc":"Rua / Avenida: LUIZ SODRE FILHO",
+    "stop_lat":-7.244337005540729,
+    "stop_lon":-35.876901978626847
+  },
+  {
+    "stop_id":"57_739",
+    "stop_name":"57_739",
+    "stop_desc":"Rua / Avenida: VALDEMIRA EMILIA PINTO",
+    "stop_lat":-7.242151005193591,
+    "stop_lon":-35.879685021936893
+  },
+  {
+    "stop_id":"20_740",
+    "stop_name":"20_740",
+    "stop_desc":"Rua / Avenida: VALDEMIRA EMILIA PINTO",
+    "stop_lat":-7.242128038778901,
+    "stop_lon":-35.879564993083477
+  },
+  {
+    "stop_id":"200_-_VIZINHO_741",
+    "stop_name":"200 - VIZINHO_741",
+    "stop_desc":"Rua / Avenida: VALDEMIRA EMILIA PINTO",
+    "stop_lat":-7.242229962721467,
+    "stop_lon":-35.881874961778522
+  },
+  {
+    "stop_id":"201_-_VIZINHO_742",
+    "stop_name":"201 - VIZINHO_742",
+    "stop_desc":"Rua / Avenida: VALDEMIRA EMILIA PINTO",
+    "stop_lat":-7.242247983813286,
+    "stop_lon":-35.881776977330446
+  },
+  {
+    "stop_id":"265_-_OPOSTO_743",
+    "stop_name":"265 - OPOSTO_743",
+    "stop_desc":"Rua / Avenida: APRIGIO FERREIRA LEITE",
+    "stop_lat":-7.24395596422255,
+    "stop_lon":-35.882134968414903
+  },
+  {
+    "stop_id":"392_744",
+    "stop_name":"392_744",
+    "stop_desc":"Rua / Avenida: APRIGIO FERREIRA LEITE",
+    "stop_lat":-7.245232025161386,
+    "stop_lon":-35.882132034748793
+  },
+  {
+    "stop_id":"MERCADO_NOVA_OLINDA_745",
+    "stop_name":"MERCADO NOVA OLINDA_745",
+    "stop_desc":"Rua / Avenida: ALDERICO PESSOA DE OLIVEIRA",
+    "stop_lat":-7.246636999770999,
+    "stop_lon":-35.8842539973557
+  },
+  {
+    "stop_id":"795_-_OPOSTO_746",
+    "stop_name":"795 - OPOSTO_746",
+    "stop_desc":"Rua / Avenida: ALDERICO PESSOA DE OLIVEIRA",
+    "stop_lat":-7.249334966763854,
+    "stop_lon":-35.884023997932673
+  },
+  {
+    "stop_id":"230_-_OPOSTO_747",
+    "stop_name":"230 - OPOSTO_747",
+    "stop_desc":"Rua / Avenida: MANOEL ALVES DE OLIVEIRA",
+    "stop_lat":-7.2504429705441,
+    "stop_lon":-35.884131034836173
+  },
+  {
+    "stop_id":"155_-_OPOSTO_748",
+    "stop_name":"155 - OPOSTO_748",
+    "stop_desc":"Rua / Avenida: MANOEL PAULINO",
+    "stop_lat":-7.25235496647656,
+    "stop_lon":-35.885352026671171
+  },
+  {
+    "stop_id":"1673_-_OPOSTO_749",
+    "stop_name":"1673 - OPOSTO_749",
+    "stop_desc":"Rua / Avenida: VINTE E QUATRO DE MAIO",
+    "stop_lat":-7.252971958369017,
+    "stop_lon":-35.885775983333588
+  },
+  {
+    "stop_id":"1869_-_OPOSTO_750",
+    "stop_name":"1869 - OPOSTO_750",
+    "stop_desc":"Rua / Avenida: VINTE E QUATRO DE MAIO",
+    "stop_lat":-7.254261011257768,
+    "stop_lon":-35.885755028575659
+  },
+  {
+    "stop_id":"SO_TURBINAS_-_OPOSTO_751",
+    "stop_name":"SO TURBINAS - OPOSTO_751",
+    "stop_desc":"Rua / Avenida: VINTE E QUATRO DE MAIO",
+    "stop_lat":-7.255810992792249,
+    "stop_lon":-35.885697025805712
+  },
+  {
+    "stop_id":"118_752",
+    "stop_name":"118_752",
+    "stop_desc":"Rua / Avenida: SEVERINO GONCALVES DE MENEZES",
+    "stop_lat":-7.255844017490745,
+    "stop_lon":-35.884861014783382
+  },
+  {
+    "stop_id":"AMERICAN_FLEX_753",
+    "stop_name":"AMERICAN FLEX_753",
+    "stop_desc":"Rua / Avenida: JOAO WALLIG",
+    "stop_lat":-7.257115971297026,
+    "stop_lon":-35.88399600237608
+  },
+  {
+    "stop_id":"TESS_754",
+    "stop_name":"TESS_754",
+    "stop_desc":"Rua / Avenida: JOAO WALLIG",
+    "stop_lat":-7.256604004651308,
+    "stop_lon":-35.879541020840406
+  },
+  {
+    "stop_id":"772_755",
+    "stop_name":"772_755",
+    "stop_desc":"Rua / Avenida: RITA ALVES RAMOS",
+    "stop_lat":-7.256088014692068,
+    "stop_lon":-35.884013017639518
+  },
+  {
+    "stop_id":"1879_756",
+    "stop_name":"1879_756",
+    "stop_desc":"Rua / Avenida: VINTE E QUATRO DE MAIO",
+    "stop_lat":-7.254385985434055,
+    "stop_lon":-35.885698031634092
+  },
+  {
+    "stop_id":"275_757",
+    "stop_name":"275_757",
+    "stop_desc":"Rua / Avenida: MANOEL PAULINO",
+    "stop_lat":-7.25192598067224,
+    "stop_lon":-35.885357977822423
+  },
+  {
+    "stop_id":"98_758",
+    "stop_name":"98_758",
+    "stop_desc":"Rua / Avenida: MANOEL ALVES DE OLIVEIRA",
+    "stop_lat":-7.250823006033897,
+    "stop_lon":-35.885422015562654
+  },
+  {
+    "stop_id":"642_-_OPOSTO_759",
+    "stop_name":"642 - OPOSTO_759",
+    "stop_desc":"Rua / Avenida: ALDERICO PESSOA DE OLIVEIRA",
+    "stop_lat":-7.247812980785966,
+    "stop_lon":-35.884091975167394
+  },
+  {
+    "stop_id":"39_760",
+    "stop_name":"39_760",
+    "stop_desc":"Rua / Avenida: HUMBERTO BATISTA LIMA",
+    "stop_lat":-7.245686994865537,
+    "stop_lon":-35.882444009184837
+  },
+  {
+    "stop_id":"404_-_OPOSTO_761",
+    "stop_name":"404 - OPOSTO_761",
+    "stop_desc":"Rua / Avenida: APRIGIO FERREIRA LEITE",
+    "stop_lat":-7.245345013216138,
+    "stop_lon":-35.882027009502053
+  },
+  {
+    "stop_id":"265D_762",
+    "stop_name":"265D_762",
+    "stop_desc":"Rua / Avenida: APRIGIO FERREIRA LEITE",
+    "stop_lat":-7.24365396425128,
+    "stop_lon":-35.882026003673673
+  },
+  {
+    "stop_id":"666_763",
+    "stop_name":"666_763",
+    "stop_desc":"Rua / Avenida: LUIZA BEZERRA MOTTA",
+    "stop_lat":-7.238247971981764,
+    "stop_lon":-35.881915027275681
+  },
+  {
+    "stop_id":"MOTIVA_764",
+    "stop_name":"MOTIVA_764",
+    "stop_desc":"Rua / Avenida: LUIZA BEZERRA MOTTA",
+    "stop_lat":-7.238413011655211,
+    "stop_lon":-35.882294978946447
+  },
+  {
+    "stop_id":"445_765",
+    "stop_name":"445_765",
+    "stop_desc":"Rua / Avenida: APRIGIO NEPOMUCENO",
+    "stop_lat":-7.243138980120421,
+    "stop_lon":-35.891872979700565
+  },
+  {
+    "stop_id":"TV_PARAIBA_766",
+    "stop_name":"TV PARAIBA_766",
+    "stop_desc":"Rua / Avenida: XV DE NOVEMBRO",
+    "stop_lat":-7.196017010137439,
+    "stop_lon":-35.895809037610888
+  },
+  {
+    "stop_id":"1167_-_VIZINHO_767",
+    "stop_name":"1167 - VIZINHO_767",
+    "stop_desc":"Rua / Avenida: DINAMERICA ALVES CORREA",
+    "stop_lat":-7.244156962260604,
+    "stop_lon":-35.911146998405457
+  },
+  {
+    "stop_id":"365_768",
+    "stop_name":"365_768",
+    "stop_desc":"Rua / Avenida: DINAMERICA ALVES CORREA",
+    "stop_lat":-7.240857006981969,
+    "stop_lon":-35.910841980949044
+  },
+  {
+    "stop_id":"INSS_769",
+    "stop_name":"INSS_769",
+    "stop_desc":"Rua / Avenida: DINAMERICA ALVES CORREA",
+    "stop_lat":-7.238936964422464,
+    "stop_lon":-35.91061701066792
+  },
+  {
+    "stop_id":"1033_770",
+    "stop_name":"1033_770",
+    "stop_desc":"Rua / Avenida: DINAMERICA ALVES CORREA",
+    "stop_lat":-7.237173998728395,
+    "stop_lon":-35.910435961559415
+  },
+  {
+    "stop_id":"470_771",
+    "stop_name":"470_771",
+    "stop_desc":"Rua / Avenida: DINAMERICA ALVES CORREA",
+    "stop_lat":-7.232331018894911,
+    "stop_lon":-35.910483989864588
+  },
+  {
+    "stop_id":"AUTOESCOLA_SANTO_ANDRE_772",
+    "stop_name":"AUTOESCOLA SANTO ANDRE_772",
+    "stop_desc":"Rua / Avenida: DINAMERICA ALVES CORREA",
+    "stop_lat":-7.235858961939812,
+    "stop_lon":-35.910857990384102
+  },
+  {
+    "stop_id":"ARMAZEM_DO_CIMENTO_773",
+    "stop_name":"ARMAZEM DO CIMENTO_773",
+    "stop_desc":"Rua / Avenida: DINAMERICA ALVES CORREA",
+    "stop_lat":-7.237886041402817,
+    "stop_lon":-35.9110670350492
+  },
+  {
+    "stop_id":"THERMO_INJET_774",
+    "stop_name":"THERMO INJET_774",
+    "stop_desc":"Rua / Avenida: DINAMERICA ALVES CORREA",
+    "stop_lat":-7.240117974579334,
+    "stop_lon":-35.911299968138337
+  },
+  {
+    "stop_id":"ESCOLA_JARDIM_MARAVILHA_775",
+    "stop_name":"ESCOLA JARDIM MARAVILHA_775",
+    "stop_desc":"Rua / Avenida: DINAMERICA ALVES CORREA",
+    "stop_lat":-7.241653958335519,
+    "stop_lon":-35.911460984498262
+  },
+  {
+    "stop_id":"JC_ROCHA_776",
+    "stop_name":"JC ROCHA_776",
+    "stop_desc":"Rua / Avenida: DINAMERICA ALVES CORREA",
+    "stop_lat":-7.244628025218844,
+    "stop_lon":-35.911710010841489
+  },
+  {
+    "stop_id":"359_-_OPOSTO_777",
+    "stop_name":"359 - OPOSTO_777",
+    "stop_desc":"Rua / Avenida: ENFERMEIRA MARIA DE LOURDES SILVA",
+    "stop_lat":-7.238157028332353,
+    "stop_lon":-35.901738982647657
+  },
+  {
+    "stop_id":"1093_-_VIZINHO_778",
+    "stop_name":"1093 - VIZINHO_778",
+    "stop_desc":"Rua / Avenida: RUA DO SOL",
+    "stop_lat":-7.23312696442008,
+    "stop_lon":-35.905368011444807
+  },
+  {
+    "stop_id":"FUNDICAO_CENTENARIO_-_OPOSTO_779",
+    "stop_name":"FUNDICAO CENTENARIO - OPOSTO_779",
+    "stop_desc":"Rua / Avenida: ALMEIDA BARRETO",
+    "stop_lat":-7.229560967534781,
+    "stop_lon":-35.901553994044662
+  },
+  {
+    "stop_id":"1524_780",
+    "stop_name":"1524_780",
+    "stop_desc":"Rua / Avenida: ALMEIDA BARRETO",
+    "stop_lat":-7.229389976710081,
+    "stop_lon":-35.898305000737309
+  },
+  {
+    "stop_id":"1287_781",
+    "stop_name":"1287_781",
+    "stop_desc":"Rua / Avenida: NILO PECANHA",
+    "stop_lat":-7.227535983547568,
+    "stop_lon":-35.897409981116652
+  },
+  {
+    "stop_id":"1287_-_OPOSTO_782",
+    "stop_name":"1287 - OPOSTO_782",
+    "stop_desc":"Rua / Avenida: NILO PECANHA",
+    "stop_lat":-7.227548975497484,
+    "stop_lon":-35.897477958351374
+  },
+  {
+    "stop_id":"1524_783",
+    "stop_name":"1524_783",
+    "stop_desc":"Rua / Avenida: ALMEIDA BARRETO",
+    "stop_lat":-7.229200964793563,
+    "stop_lon":-35.898115988820791
+  },
+  {
+    "stop_id":"1750_-_VIZINHO_784",
+    "stop_name":"1750 - VIZINHO_784",
+    "stop_desc":"Rua / Avenida: ALMEIDA BARRETO",
+    "stop_lat":-7.229434987530112,
+    "stop_lon":-35.900210961699486
+  },
+  {
+    "stop_id":"FUNDICAO_CENTENARIO_785",
+    "stop_name":"FUNDICAO CENTENARIO_785",
+    "stop_desc":"Rua / Avenida: ALMEIDA BARRETO",
+    "stop_lat":-7.229458037763834,
+    "stop_lon":-35.901608979329467
+  },
+  {
+    "stop_id":"IGREJA_DOS_MORMAOS_786",
+    "stop_name":"IGREJA DOS MORMAOS_786",
+    "stop_desc":"Rua / Avenida: ALMEIDA BARRETO",
+    "stop_lat":-7.229413026943803,
+    "stop_lon":-35.901949033141136
+  },
+  {
+    "stop_id":"1502_787",
+    "stop_name":"1502_787",
+    "stop_desc":"Rua / Avenida: ALMEIDA BARRETO",
+    "stop_lat":-7.229164000600576,
+    "stop_lon":-35.897935023531318
+  },
+  {
+    "stop_id":"ESTADIO_PRESIDENE_VARGAS_788",
+    "stop_name":"ESTADIO PRESIDENE VARGAS_788",
+    "stop_desc":"Rua / Avenida: TEIXEIRA DE FREITAS",
+    "stop_lat":-7.226514983922243,
+    "stop_lon":-35.895272009074688
+  },
+  {
+    "stop_id":"IGREJA_789",
+    "stop_name":"IGREJA_789",
+    "stop_desc":"Rua / Avenida: SERGIPE",
+    "stop_lat":-7.23314699716866,
+    "stop_lon":-35.891103018075228
+  },
+  {
+    "stop_id":"615_790",
+    "stop_name":"615_790",
+    "stop_desc":"Rua / Avenida: SERGIPE",
+    "stop_lat":-7.233724007382989,
+    "stop_lon":-35.89100101031363
+  },
+  {
+    "stop_id":"949_791",
+    "stop_name":"949_791",
+    "stop_desc":"Rua / Avenida: SANTA CATARINA",
+    "stop_lat":-7.239133017137647,
+    "stop_lon":-35.890987012535334
+  },
+  {
+    "stop_id":"07_792",
+    "stop_name":"07_792",
+    "stop_desc":"Rua / Avenida: GETULIO CAVALCANTE",
+    "stop_lat":-7.235415978357196,
+    "stop_lon":-35.895300004631281
+  },
+  {
+    "stop_id":"GINASIO_COLEGIO_CACILDIVA_793",
+    "stop_name":"GINASIO COLEGIO CACILDIVA_793",
+    "stop_desc":"Rua / Avenida: MINAS GERAIS",
+    "stop_lat":-7.230488006025553,
+    "stop_lon":-35.892240023240447
+  },
+  {
+    "stop_id":"345_794",
+    "stop_name":"345_794",
+    "stop_desc":"Rua / Avenida: MARTINS JUNIOR",
+    "stop_lat":-7.231523003429174,
+    "stop_lon":-35.889781024307013
+  },
+  {
+    "stop_id":"ART_DESIGN_-_VIZINHO_795",
+    "stop_name":"ART DESIGN - VIZINHO_795",
+    "stop_desc":"Rua / Avenida: ASSIS CHATEAUBRIAND",
+    "stop_lat":-7.243154989555478,
+    "stop_lon":-35.887764003127813
+  },
+  {
+    "stop_id":"FUNDACAO_SUELLEN_CAROLINE_796",
+    "stop_name":"FUNDACAO SUELLEN CAROLINE_796",
+    "stop_desc":"Rua / Avenida: LUIZA BEZERRA MOTTA",
+    "stop_lat":-7.238135989755392,
+    "stop_lon":-35.880064973607659
+  },
+  {
+    "stop_id":"FACISA_797",
+    "stop_name":"FACISA_797",
+    "stop_desc":"Rua / Avenida: MANOEL CARDOSO PALHANO",
+    "stop_lat":-7.249601008370519,
+    "stop_lon":-35.870127975940704
+  },
+  {
+    "stop_id":"101_798",
+    "stop_name":"101_798",
+    "stop_desc":"Rua / Avenida: MARIA DA GUIA COSTA FIGUEIREDO",
+    "stop_lat":-7.248500967398286,
+    "stop_lon":-35.870216991752386
+  },
+  {
+    "stop_id":"123_802",
+    "stop_name":"123_802",
+    "stop_desc":"Rua / Avenida: CHILE",
+    "stop_lat":-7.244587959721685,
+    "stop_lon":-35.874795019626617
+  },
+  {
+    "stop_id":"POSTO_POLICIAL_807",
+    "stop_name":"POSTO POLICIAL_807",
+    "stop_desc":"Rua / Avenida: SEBASTIAO LOPES DE MENEZES",
+    "stop_lat":-7.214448982849717,
+    "stop_lon":-35.855906987562776
+  },
+  {
+    "stop_id":"BAIRRO_DA_GLORIA_808",
+    "stop_name":"BAIRRO DA GLORIA_808",
+    "stop_desc":"Rua / Avenida: PROJETADA",
+    "stop_lat":-7.214858019724488,
+    "stop_lon":-35.853475984185934
+  },
+  {
+    "stop_id":"BAIRRO_DA_GLORIA_809",
+    "stop_name":"BAIRRO DA GLORIA_809",
+    "stop_desc":"Rua / Avenida: PROJETADA",
+    "stop_lat":-7.213856969028711,
+    "stop_lon":-35.854707034304738
+  },
+  {
+    "stop_id":"293_813",
+    "stop_name":"293_813",
+    "stop_desc":"Rua / Avenida: SALVINO DE OLIVEIRA NETO",
+    "stop_lat":-7.215061029419303,
+    "stop_lon":-35.871925977990031
+  },
+  {
+    "stop_id":"597_815",
+    "stop_name":"597_815",
+    "stop_desc":"Rua / Avenida: PEDRO II",
+    "stop_lat":-7.219561021775007,
+    "stop_lon":-35.892828013747931
+  },
+  {
+    "stop_id":"767_817",
+    "stop_name":"767_817",
+    "stop_desc":"Rua / Avenida: MANOEL FELICIANO",
+    "stop_lat":-7.238057032227516,
+    "stop_lon":-35.900200987234712
+  },
+  {
+    "stop_id":"UBSF_818",
+    "stop_name":"UBSF_818",
+    "stop_desc":"Rua / Avenida: RAUL PEREIRA DA SILVA",
+    "stop_lat":-7.25314998999238,
+    "stop_lon":-35.93459696508944
+  },
+  {
+    "stop_id":"270A_819",
+    "stop_name":"270A_819",
+    "stop_desc":"Rua / Avenida: ZACARIAS RIBEIRO VASCONCELOS",
+    "stop_lat":-7.254256987944245,
+    "stop_lon":-35.934174014255404
+  },
+  {
+    "stop_id":"110_820",
+    "stop_name":"110_820",
+    "stop_desc":"Rua / Avenida: ZACARIAS RIBEIRO VASCONCELOS",
+    "stop_lat":-7.254591006785631,
+    "stop_lon":-35.933914007619023
+  },
+  {
+    "stop_id":"ENTRADA_DO_VERDEJANTE_821",
+    "stop_name":"ENTRADA DO VERDEJANTE_821",
+    "stop_desc":"Rua / Avenida: RODOVIA RAIMUNDO ASFORA",
+    "stop_lat":-7.252383967861533,
+    "stop_lon":-35.933589963242412
+  },
+  {
+    "stop_id":"II_822",
+    "stop_name":"II_822",
+    "stop_desc":"Rua / Avenida: CONJUNTO MAJOR VENEZIANO",
+    "stop_lat":-7.270891964435577,
+    "stop_lon":-35.936436960473657
+  },
+  {
+    "stop_id":"III_823",
+    "stop_name":"III_823",
+    "stop_desc":"Rua / Avenida: CONJUNTO MAJOR VENEZIANO",
+    "stop_lat":-7.271533012390137,
+    "stop_lon":-35.936195980757475
+  },
+  {
+    "stop_id":"548_824",
+    "stop_name":"548_824",
+    "stop_desc":"Rua / Avenida: PETROPOLES",
+    "stop_lat":-7.271795030683279,
+    "stop_lon":-35.93216797336936
+  },
+  {
+    "stop_id":"560_825",
+    "stop_name":"560_825",
+    "stop_desc":"Rua / Avenida: PETROPOLES",
+    "stop_lat":-7.271658992394805,
+    "stop_lon":-35.932023972272873
+  },
+  {
+    "stop_id":"MINI-BOX_DO_SOL_826",
+    "stop_name":"MINI-BOX DO SOL_826",
+    "stop_desc":"Rua / Avenida: PETROPOLES",
+    "stop_lat":-7.270964970812202,
+    "stop_lon":-35.930474996566772
+  },
+  {
+    "stop_id":"BAR_DO_DUDU_827",
+    "stop_name":"BAR DO DUDU_827",
+    "stop_desc":"Rua / Avenida: TRES IRMAS",
+    "stop_lat":-7.262589018791914,
+    "stop_lon":-35.921395970508456
+  },
+  {
+    "stop_id":"264_828",
+    "stop_name":"264_828",
+    "stop_desc":"Rua / Avenida: APRIGIO VELOSO",
+    "stop_lat":-7.216745037585497,
+    "stop_lon":-35.905278995633125
+  },
+  {
+    "stop_id":"48_829",
+    "stop_name":"48_829",
+    "stop_desc":"Rua / Avenida: IARA AMARAL",
+    "stop_lat":-7.241625040769577,
+    "stop_lon":-35.911818975582719
+  },
+  {
+    "stop_id":"142_-_LATERAL_830",
+    "stop_name":"142 - LATERAL_830",
+    "stop_desc":"Rua / Avenida: IARA AMARAL",
+    "stop_lat":-7.242395002394915,
+    "stop_lon":-35.913614965975285
+  },
+  {
+    "stop_id":"64_-_OPOSTO_831",
+    "stop_name":"64 - OPOSTO_831",
+    "stop_desc":"Rua / Avenida: ALAIDE DE ARAUJO MEDEIROS",
+    "stop_lat":-7.243312988430262,
+    "stop_lon":-35.91403498314321
+  },
+  {
+    "stop_id":"100_832",
+    "stop_name":"100_832",
+    "stop_desc":"Rua / Avenida: SEVERINO PEREIRA DE MELO",
+    "stop_lat":-7.245475016534329,
+    "stop_lon":-35.913972035050392
+  },
+  {
+    "stop_id":"122_-_LATERAL_833",
+    "stop_name":"122 - LATERAL_833",
+    "stop_desc":"Rua / Avenida: IARA AMARAL",
+    "stop_lat":-7.2424700204283,
+    "stop_lon":-35.913622006773949
+  },
+  {
+    "stop_id":"48_-_OPOSTO_834",
+    "stop_name":"48 - OPOSTO_834",
+    "stop_desc":"Rua / Avenida: IARA AMARAL",
+    "stop_lat":-7.241754038259387,
+    "stop_lon":-35.911925006657839
+  },
+  {
+    "stop_id":"500_835",
+    "stop_name":"500_835",
+    "stop_desc":"Rua / Avenida: TRANQUILINO COELHO LEMOS",
+    "stop_lat":-7.237362004816532,
+    "stop_lon":-35.917990989983082
+  },
+  {
+    "stop_id":"669_-_OPOSTO_836",
+    "stop_name":"669 - OPOSTO_836",
+    "stop_desc":"Rua / Avenida: JOSE AGOSTINHO DO NASCIMENTO",
+    "stop_lat":-7.241079965606332,
+    "stop_lon":-35.917826034128666
+  },
+  {
+    "stop_id":"IFPB_837",
+    "stop_name":"IFPB_837",
+    "stop_desc":"Rua / Avenida: TRANQUILINO COELHO LEMOS",
+    "stop_lat":-7.240078998729587,
+    "stop_lon":-35.916682993993163
+  },
+  {
+    "stop_id":"EMPRESA_NACIONAL_838",
+    "stop_name":"EMPRESA NACIONAL_838",
+    "stop_desc":"Rua / Avenida: TRANQUILINO COELHO LEMOS",
+    "stop_lat":-7.237577000632882,
+    "stop_lon":-35.917726960033178
+  },
+  {
+    "stop_id":"MAIOR_839",
+    "stop_name":"MAIOR_839",
+    "stop_desc":"Rua / Avenida: JOAO MACHADO",
+    "stop_lat":-7.221362041309476,
+    "stop_lon":-35.896127969026566
+  },
+  {
+    "stop_id":"549_840",
+    "stop_name":"549_840",
+    "stop_desc":"Rua / Avenida: DUQUE DE CAXIAS",
+    "stop_lat":-7.220638012513518,
+    "stop_lon":-35.897120973095298
+  },
+  {
+    "stop_id":"FEIRA_DA_PRATA_841",
+    "stop_name":"FEIRA DA PRATA_841",
+    "stop_desc":"Rua / Avenida: DUQUE DE CAXIAS",
+    "stop_lat":-7.218454023823142,
+    "stop_lon":-35.896583022549748
+  },
+  {
+    "stop_id":"175_842",
+    "stop_name":"175_842",
+    "stop_desc":"Rua / Avenida: LUIZ MALHEIROS",
+    "stop_lat":-7.212957004085183,
+    "stop_lon":-35.92565699480474
+  },
+  {
+    "stop_id":"DONA_LINDU_II_843",
+    "stop_name":"DONA LINDU II_843",
+    "stop_desc":"Rua / Avenida: MARIA GONCALVES DE MELO",
+    "stop_lat":-7.209315989166498,
+    "stop_lon":-35.924153029918671
+  },
+  {
+    "stop_id":"251_844",
+    "stop_name":"251_844",
+    "stop_desc":"Rua / Avenida: MARIA GONCALVES DE MELO",
+    "stop_lat":-7.209756039083004,
+    "stop_lon":-35.922862971201539
+  },
+  {
+    "stop_id":"224_845",
+    "stop_name":"224_845",
+    "stop_desc":"Rua / Avenida: MARIA GONCALVES DE MELO",
+    "stop_lat":-7.210000958293676,
+    "stop_lon":-35.921816993504763
+  },
+  {
+    "stop_id":"214_-_OPOSTO_846",
+    "stop_name":"214 - OPOSTO_846",
+    "stop_desc":"Rua / Avenida: MARIA GONCALVES DE MELO",
+    "stop_lat":-7.210128027945757,
+    "stop_lon":-35.921002021059394
+  },
+  {
+    "stop_id":"CCBS_-_UFCG_847",
+    "stop_name":"CCBS - UFCG_847",
+    "stop_desc":"Rua / Avenida: JUVENCIO ARRUDA",
+    "stop_lat":-7.210757005959749,
+    "stop_lon":-35.919256992638111
+  },
+  {
+    "stop_id":"CCBS_-_UFCG_-_OPOSTO_848",
+    "stop_name":"CCBS - UFCG - OPOSTO_848",
+    "stop_desc":"Rua / Avenida: JUVENCIO ARRUDA",
+    "stop_lat":-7.21071601845324,
+    "stop_lon":-35.919121038168669
+  },
+  {
+    "stop_id":"ACUDE_DE_BODOCONGO_849",
+    "stop_name":"ACUDE DE BODOCONGO_849",
+    "stop_desc":"Rua / Avenida: JUVENCIO ARRUDA",
+    "stop_lat":-7.211160007864237,
+    "stop_lon":-35.917290011420846
+  },
+  {
+    "stop_id":"REDENTORISTA_850",
+    "stop_name":"REDENTORISTA_850",
+    "stop_desc":"Rua / Avenida: FRANCISCO PINTO DE OLIVEIRA",
+    "stop_lat":-7.209081966429949,
+    "stop_lon":-35.911351013928652
+  },
+  {
+    "stop_id":"REDENTORISTA_-_OPOSTO_851",
+    "stop_name":"REDENTORISTA - OPOSTO_851",
+    "stop_desc":"Rua / Avenida: FRANCISCO PINTO DE OLIVEIRA",
+    "stop_lat":-7.208750965073705,
+    "stop_lon":-35.911173988133669
+  },
+  {
+    "stop_id":"16_852",
+    "stop_name":"16_852",
+    "stop_desc":"Rua / Avenida: FRANCISCO PINTO DE OLIVEIRA",
+    "stop_lat":-7.207263009622693,
+    "stop_lon":-35.909745963290334
+  },
+  {
+    "stop_id":"16_-_OPOSTO_853",
+    "stop_name":"16 - OPOSTO_853",
+    "stop_desc":"Rua / Avenida: FRANCISCO PINTO DE OLIVEIRA",
+    "stop_lat":-7.2069569863379,
+    "stop_lon":-35.909362994134426
+  },
+  {
+    "stop_id":"810_854",
+    "stop_name":"810_854",
+    "stop_desc":"Rua / Avenida: FRANCISCO PINTO DE OLIVEIRA",
+    "stop_lat":-7.206344017758966,
+    "stop_lon":-35.908292960375547
+  },
+  {
+    "stop_id":"_855",
+    "stop_name":"_855",
+    "stop_desc":"Rua / Avenida: FRANCISCO PINTO DE OLIVEIRA",
+    "stop_lat":-7.205803971737623,
+    "stop_lon":-35.907602962106466
+  },
+  {
+    "stop_id":"HOSPITAL_DA_FAP_-_PROXIMO_856",
+    "stop_name":"HOSPITAL DA FAP - PROXIMO_856",
+    "stop_desc":"Rua / Avenida: MINISTRO ALCIDES CARNEIRO",
+    "stop_lat":-7.204827982932329,
+    "stop_lon":-35.906408959999681
+  },
+  {
+    "stop_id":"79_857",
+    "stop_name":"79_857",
+    "stop_desc":"Rua / Avenida: MINISTRO ALCIDES CARNEIRO",
+    "stop_lat":-7.205320000648499,
+    "stop_lon":-35.904767028987408
+  },
+  {
+    "stop_id":"1114_858",
+    "stop_name":"1114_858",
+    "stop_desc":"Rua / Avenida: OLEGARIO MACIEL",
+    "stop_lat":-7.205998012796044,
+    "stop_lon":-35.903399018570781
+  },
+  {
+    "stop_id":"1069_859",
+    "stop_name":"1069_859",
+    "stop_desc":"Rua / Avenida: OLEGARIO MACIEL",
+    "stop_lat":-7.2066789586097,
+    "stop_lon":-35.902009969577193
+  },
+  {
+    "stop_id":"821_860",
+    "stop_name":"821_860",
+    "stop_desc":"Rua / Avenida: OLEGARIO MACIEL",
+    "stop_lat":-7.208257019519806,
+    "stop_lon":-35.899893958121538
+  },
+  {
+    "stop_id":"481_861",
+    "stop_name":"481_861",
+    "stop_desc":"Rua / Avenida: OLEGARIO MACIEL",
+    "stop_lat":-7.210438996553421,
+    "stop_lon":-35.897861011326313
+  },
+  {
+    "stop_id":"382_-_OPOSTO_862",
+    "stop_name":"382 - OPOSTO_862",
+    "stop_desc":"Rua / Avenida: JOAO MAURICIO DE MEDEIROS",
+    "stop_lat":-7.212024014443159,
+    "stop_lon":-35.897593041881919
+  },
+  {
+    "stop_id":"37_863",
+    "stop_name":"37_863",
+    "stop_desc":"Rua / Avenida: FRANCISCO ROSA DE FARIAS",
+    "stop_lat":-7.213102011010051,
+    "stop_lon":-35.897867968305945
+  },
+  {
+    "stop_id":"385F_864",
+    "stop_name":"385F_864",
+    "stop_desc":"Rua / Avenida: CONDE D'EU",
+    "stop_lat":-7.215466964989901,
+    "stop_lon":-35.898406002670527
+  },
+  {
+    "stop_id":"ESCOLA_CARLOS_DRUMOND_DE_ANDRADE_-_OPOSTO_868",
+    "stop_name":"ESCOLA CARLOS DRUMOND DE ANDRADE - OPOSTO_868",
+    "stop_desc":"Rua / Avenida: CAICO",
+    "stop_lat":-7.231253022328019,
+    "stop_lon":-35.927262967452407
+  },
+  {
+    "stop_id":"96_-_OPOSTO_870",
+    "stop_name":"96 - OPOSTO_870",
+    "stop_desc":"Rua / Avenida: CAICO",
+    "stop_lat":-7.228851020336151,
+    "stop_lon":-35.92849301174283
+  },
+  {
+    "stop_id":"943_-_OPOSTO_872",
+    "stop_name":"943 - OPOSTO_872",
+    "stop_desc":"Rua / Avenida: CAICO",
+    "stop_lat":-7.226555971428752,
+    "stop_lon":-35.930402996018529
+  },
+  {
+    "stop_id":"_875",
+    "stop_name":"_875",
+    "stop_desc":"Rua / Avenida: SANTAREM",
+    "stop_lat":-7.233733981847763,
+    "stop_lon":-35.928427968174219
+  },
+  {
+    "stop_id":"NECAO_BAR_-_OPOSTO_876",
+    "stop_name":"NECAO BAR - OPOSTO_876",
+    "stop_desc":"Rua / Avenida: SANTAREM",
+    "stop_lat":-7.233778992667794,
+    "stop_lon":-35.928475996479392
+  },
+  {
+    "stop_id":"462_877",
+    "stop_name":"462_877",
+    "stop_desc":"Rua / Avenida: JOAQUIM AMORIM JUNIOR",
+    "stop_lat":-7.22637701779604,
+    "stop_lon":-35.922040035948157
+  },
+  {
+    "stop_id":"1192_-_OPOSTO_878",
+    "stop_name":"1192 - OPOSTO_878",
+    "stop_desc":"Rua / Avenida: VICENTE GOMES DE ALMEIDA",
+    "stop_lat":-7.225336991250515,
+    "stop_lon":-35.925953965634108
+  },
+  {
+    "stop_id":"775_-_OPOSTO_879",
+    "stop_name":"775 - OPOSTO_879",
+    "stop_desc":"Rua / Avenida: VICENTE GOMES DE ALMEIDA",
+    "stop_lat":-7.221173029392958,
+    "stop_lon":-35.92589202336967
+  },
+  {
+    "stop_id":"735_880",
+    "stop_name":"735_880",
+    "stop_desc":"Rua / Avenida: VICENTE GOMES DE ALMEIDA",
+    "stop_lat":-7.22085895948112,
+    "stop_lon":-35.925834020599723
+  },
+  {
+    "stop_id":"617_-_VIZINHO_881",
+    "stop_name":"617 - VIZINHO_881",
+    "stop_desc":"Rua / Avenida: VICENTE GOMES DE ALMEIDA",
+    "stop_lat":-7.218956016004086,
+    "stop_lon":-35.925779035314918
+  },
+  {
+    "stop_id":"101_882",
+    "stop_name":"101_882",
+    "stop_desc":"Rua / Avenida: ARQUELAU DA COSTA GUIMARAES",
+    "stop_lat":-7.218899019062519,
+    "stop_lon":-35.928972037509084
+  },
+  {
+    "stop_id":"150_883",
+    "stop_name":"150_883",
+    "stop_desc":"Rua / Avenida: ARQUELAU DA COSTA GUIMARAES",
+    "stop_lat":-7.218801034614444,
+    "stop_lon":-35.929471012204885
+  },
+  {
+    "stop_id":"2230_884",
+    "stop_name":"2230_884",
+    "stop_desc":"Rua / Avenida: PLINIO LEMOS",
+    "stop_lat":-7.21778498031199,
+    "stop_lon":-35.929620964452624
+  },
+  {
+    "stop_id":"300_885",
+    "stop_name":"300_885",
+    "stop_desc":"Rua / Avenida: ENGENHEIRO LOURIVAL DE ANDRADE",
+    "stop_lat":-7.222154969349504,
+    "stop_lon":-35.916272029280663
+  },
+  {
+    "stop_id":"CENTRO_AUTOMOTIVO_-_OPOSTO_886",
+    "stop_name":"CENTRO AUTOMOTIVO - OPOSTO_886",
+    "stop_desc":"Rua / Avenida: ENGENHEIRO LOURIVAL DE ANDRADE",
+    "stop_lat":-7.2306979727,
+    "stop_lon":-35.916345035657287
+  },
+  {
+    "stop_id":"1835_887",
+    "stop_name":"1835_887",
+    "stop_desc":"Rua / Avenida: ENGENHEIRO LOURIVAL DE ANDRADE",
+    "stop_lat":-7.231026040390134,
+    "stop_lon":-35.916199022904038
+  },
+  {
+    "stop_id":"1673_888",
+    "stop_name":"1673_888",
+    "stop_desc":"Rua / Avenida: ENGENHEIRO LOURIVAL DE ANDRADE",
+    "stop_lat":-7.229240024462342,
+    "stop_lon":-35.914984988048673
+  },
+  {
+    "stop_id":"INTEGRACAO_1",
+    "stop_name":"INTEGRACAO_1",
+    "stop_desc":"Rua / Avenida: Dom Pedro II",
+    "stop_lat":-7.220618,
+    "stop_lon":-35.889802
+  },
+  {
+    "stop_id":"INTEGRACAO_2",
+    "stop_name":"INTEGRACAO_2",
+    "stop_desc":"Rua / Avenida: Dom Pedro II",
+    "stop_lat":-7.220693,
+    "stop_lon":-35.888944
+  }
+]
