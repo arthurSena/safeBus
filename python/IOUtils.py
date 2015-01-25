@@ -33,7 +33,7 @@ def read_file_to_dictlist(filename):
 def save_file(list, filename):
 	file = open(filename, 'w')
 	for line in range(0, len(list)):
-		file.write(str(list[line]) + "\n")
+		file.write(list[line] + "\n")
 	file.close()
 
 # Dada uma lista de listas, salva os dados dessa lista num arquivo cujo nome eh passado
