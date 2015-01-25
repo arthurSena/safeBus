@@ -37,7 +37,7 @@
         ];
 
         var circulos = [];
-
+        var valores = [];
 
 
         function initialize() {
@@ -53,7 +53,8 @@
 
             $.getJSON("https://dl.dropboxusercontent.com/u/8912311/crimes.json",function(result){
                 $.each(result,function(key,val){
-                    taxiData.push(new google.maps.LatLng(val["lat"],val["lon"]))
+                    taxiData.push(new google.maps.LatLng(val["lat"],val["lon"]));
+                    valores.push(val);
                 })
                 var pointArray = new google.maps.MVCArray(taxiData);
 
@@ -70,15 +71,15 @@
 
         }
 
-        function showAlert(e) {
-              var infowindow = new google.maps.InfoWindow({
-                  content: cityCircle["lat"],
-                  maxWidth: 200
-              });
+        function addInfoWindow(marker, message) {
 
-              infowindow.open(map,cityCircle);
+            var infoWindow = new google.maps.InfoWindow({
+                content: message["RUA"]
+            });
 
-
+            google.maps.event.addListener(marker, 'click', function () {
+                infoWindow.open(map, marker);
+            });
         }
 
         function toggleHeatmap() {
@@ -113,7 +114,7 @@
                     };
                     // Add the circle for this city to the map.
                     cityCircle = new google.maps.Circle(circulo);
-                    google.maps.event.addDomListener(cityCircle, 'click', showAlert);
+                    addInfoWindow(cityCircle, valores[dataa]);
 
                     circulos.push(cityCircle);
                 }
