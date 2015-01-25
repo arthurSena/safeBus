@@ -60,7 +60,7 @@ body {
 <script>
 
 var margin = {top: 40, right: 20, bottom: 30, left: 60},
-    width = 1200 - margin.left - margin.right,
+    width = 1800 - margin.left - margin.right,
     height = 700 - margin.top - margin.bottom;
 
 var formatPercent = d3.format(".0%");
@@ -102,7 +102,7 @@ d3.csv("crims_por_rota.tsv", type, function(error, data) {
   data.sort(function(a,b) { return parseFloat(b.crime) - parseFloat(a.crime) } );
 
 
-  x.domain(data.map(function(d) { return d.rota.substring(0,5); }));
+  x.domain(data.map(function(d) { return d.rota.substring(0,4); }));
   y.domain([0, d3.max(data, function(d) { return d.crime; })]);
 
   svg.append("g")
@@ -124,7 +124,7 @@ d3.csv("crims_por_rota.tsv", type, function(error, data) {
       .data(data)
     .enter().append("rect")
       .attr("class", "bar")
-      .attr("x", function(d) { return x(d.rota.substring(0,5)); })
+      .attr("x", function(d) { return x(d.rota.substring(0,4)); })
       .attr("width", x.rangeBand())
       .attr("y", function(d) { return y(d.crime); })
       .attr("height", function(d) { return height - y(d.crime); })
