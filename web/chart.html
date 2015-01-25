@@ -98,7 +98,7 @@ d3.csv("crims_por_rota.tsv", type, function(error, data) {
 
 
 
-  data.sort(function(a,b) { return parseFloat(a.crime) - parseFloat(b.crime) } );
+  data.sort(function(a,b) { return parseFloat(b.crime) - parseFloat(a.crime) } );
 
 
   x.domain(data.map(function(d) { return d.rota.substring(0,5); }));
