@@ -3,36 +3,213 @@
   <head>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
-    <title>KML Layers</title>
-    <style>
+    <title>safebus</title>
+	 <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <!-- <style>
       html, body, #map-canvas {
         height: 100%;
         margin: 0px;
         padding: 0px
       }
-    </style>
-    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true"></script>
+    </style> -->
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=visualization"></script>
+      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
     <script>
-function initialize() {
-  var chicago = new google.maps.LatLng(-7.22, -35.91);
-  var mapOptions = {
-    zoom: 11,
-    center: chicago
-  }
+        var map;
+                    var layers = [];
 
-  var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+        function initialize() {
+            var pointarray, heatmap;
 
-  var ctaLayer = new google.maps.KmlLayer({
-    url: 'https://dl.dropboxusercontent.com/u/8912311/Rotas%20Linha%20Marrom.kml'
-  });
-  ctaLayer.setMap(map);
-}
+            var taxiData = [];
 
-google.maps.event.addDomListener(window, 'load', initialize);
+            var heatmapData = [];
 
-    </script>
+            var circulos = [];
+            var valores = [];
+
+            var chicago = new google.maps.LatLng(-7.22, -35.91);
+            var mapOptions = {
+                zoom: 14,
+                center: chicago
+            }
+
+            map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+
+
+            $.getJSON("https://dl.dropboxusercontent.com/u/8912311/crimes.json", function (result) {
+                $.each(result, function (key, val) {
+                    taxiData.push(new google.maps.LatLng(val["lat"], val["lon"]));
+                    valores.push(val);
+                    heatmapData.push({location: new google.maps.LatLng(val["lat"], val["lon"]), weight: val["count"] * 10})
+                })
+                var pointArray = new google.maps.MVCArray(heatmapData);
+
+                heatmap = new google.maps.visualization.HeatmapLayer({
+                    data: pointArray,
+                    radius: 50
+                });
+
+                heatmap.setMap(map);
+
+            });
+
+        }
+    google.maps.event.addDomListener(window, 'load', initialize);
+
+	function plotRoute(a) {
+        if (layers.length > 0){
+            layers[0].setMap(null);
+            layers = [];
+        }
+        var ctaLayer;
+
+		var chicago = new google.maps.LatLng(-7.22, -35.91);
+          var mapOptions = {
+            zoom: 14,
+            center: chicago
+          }
+
+          //var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+          ctaLayer = new google.maps.KmlLayer({
+            url: a
+          });
+          ctaLayer.setMap(map);
+        layers.push(ctaLayer);
+	}
+	</script>
   </head>
   <body>
+	<div id="containerPanel">
+	<div class="sidebar">
+	<div id="logoBox">
+	<p id="logo"> safeBus </p>
+	</div>
+
+	<form method="post">
+		<p class="rotSep"> Linha Marrom </p>
+		<input type="radio" name="selecRota" value="055.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20055.kml')" /><label for="055.kml">055</label>
+		<input type="radio" name="selecRota" value="500.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20500.kml')" /><label for="500.kml">500</label>
+<input type="radio" name="selecRota" value="505.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20505.kml')" /><label for="505.kml">505</label>
+<input type="radio" name="selecRota" value="550.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20550.kml')" /><label for="550.kml">550</label>
+<input type="radio" name="selecRota" value="555.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20555.kml')" /><label for="555.kml">555</label>
+
+		
+		<p class="rotSep"> Linha Vermelha </p>
+		<input type="radio" name="selecRota" value="004.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20004.kml')" /><label for="004.kml">004</label>
+<input type="radio" name="selecRota" value="004A.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20004A.kml')" /><label for="004A.kml">004A</label>
+<input type="radio" name="selecRota" value="400.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20400.kml')" /><label for="400.kml">400</label>
+<input type="radio" name="selecRota" value="404.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20404.kml')" /><label for="404.kml">404</label>
+<input type="radio" name="selecRota" value="444.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20444.kml')" /><label for="444.kml">444</label>
+
+		<p class="rotSep"> Linha Verde </p>
+		
+		<input type="radio" name="selecRota" value="003.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20003.kml')" /><label for="003.kml">003</label>
+		<input type="radio" name="selecRota" value="003B.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20003B.kml')" /><label for="003B.kml">003B</label>
+<input type="radio" name="selecRota" value="300B.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20300B.kml')" /><label for="300B.kml">300B</label>
+<input type="radio" name="selecRota" value="303.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20303.kml')" /><label for="303.kml">303</label>
+<input type="radio" name="selecRota" value="333.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20333.kml')" /><label for="333.kml">333</label>
+
+	<p class="rotSep"> Linha Amarela </p>
+	<input type="radio" name="selecRota" value="020.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20020.kml')" /><label for="020.kml">020</label>
+<input type="radio" name="selecRota" value="022.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20022.kml')" /><label for="022.kml">022</label>
+<input type="radio" name="selecRota" value="202" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20202%20Ramadinha.kml')" /><label for="202">202</label>
+<input type="radio" name="selecRota" value="202.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20202.kml')" /><label for="202.kml">202</label>
+<input type="radio" name="selecRota" value="202A.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20202A.kml')" /><label for="202A.kml">202A</label>
+<input type="radio" name="selecRota" value="220.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20220.kml')" /><label for="220.kml">220</label>
+<input type="radio" name="selecRota" value="222" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20222%20Ramadinha.kml')" /><label for="222">222 - Ramadinha</label>
+<input type="radio" name="selecRota" value="222.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20222.kml')" /><label for="222.kml">222</label>
+	
+	<p class="rotSep"> Linha Azul </p>
+
+	<input type="radio" name="selecRota" value="101" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20101%20-%20Provisoria.kml')" /><label for="101">101 - Provis&oacute;ria</label>
+
+<input type="radio" name="selecRota" value="101.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20101.kml')" /><label for="101.kml">101</label>
+
+<input type="radio" name="selecRota" value="111.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20111.kml')" /><label for="111.kml">111</label>
+	
+	<p class="rotSep"> Linha Cinza </p>
+	<input type="radio" name="selecRota" value="077.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/ROTA%20077.kml')" /><label for="077.kml">077</label>
+
+	<p class="rotSep"> Linha Laranja </p>
+	<input type="radio" name="selecRota" value="066.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20066.kml')" /><label for="066.kml">066</label>
+<input type="radio" name="selecRota" value="660.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20660.kml')" /><label for="660.kml">660</label>
+
+<p class="rotSep"> Linha Branca </p>
+<input type="radio" name="selecRota" value="090A.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20090A.kml')" /><label for="090A.kml">090A</label>
+<input type="radio" name="selecRota" value="090B.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20090B.kml')" /><label for="090B.kml">090B</label>
+<input type="radio" name="selecRota" value="900A.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20900A.kml')" /><label for="900A.kml">900A</label>
+
+<input type="radio" name="selecRota" value="900B.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20900B.kml')" /><label for="900B.kml">900B</label>
+
+<input type="radio" name="selecRota" value="901.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20901.kml')" /><label for="901.kml">901</label>
+<input type="radio" name="selecRota" value="911.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20911.kml')" /><label for="911.kml">911</label>
+<input type="radio" name="selecRota" value="904.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20904.kml')" /><label for="904.kml">904</label>
+
+<input type="radio" name="selecRota" value="944.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20944.kml')" /><label for="944.kml">944</label>
+
+<input type="radio" name="selecRota" value="944A" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20944A%20-%20Massape.kml')" /><label for="944A">944A</label>
+
+<p class="rotSep"> Inter&aacute;rea </p>
+	<input type="radio" name="selecRota" value="092.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20092.kml')" /><label for="092.kml">092</label>
+<input type="radio" name="selecRota" value="263A.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20263A.kml')" /><label for="263A.kml">263A</label>
+
+<input type="radio" name="selecRota" value="263B.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20263B.kml')" /><label for="263B.kml">263B</label>
+
+	
+
+<input type="radio" name="selecRota" value="245A.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20245A.kml')" /><label for="245A.kml">245A</label>
+
+<input type="radio" name="selecRota" value="245B.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20245B.kml')" /><label for="245B.kml">245B</label>
+<input type="radio" name="selecRota" value="922.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20922.kml')" /><label for="922.kml">922</label>
+
+<p class="rotSep"> Distritais </p>
+
+
+<input type="radio" name="selecRota" value="009" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20009%20-%20Fazenda%20Caicara.kml')" /><label for="009">009</label>
+
+
+
+
+<input type="radio" name="selecRota" value="902" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20902%20-%20Estreito.kml')" /><label for="902">902</label>
+
+<input type="radio" name="selecRota" value="902" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20902%20-%20Salgadinho.kml')" /><label for="902">902</label>
+
+<input type="radio" name="selecRota" value="903" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20903%20-%20Capim%20Grande.kml')" /><label for="903">903</label>
+
+<input type="radio" name="selecRota" value="903" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20903%20-%20Mutirao%20Nova.kml')" /><label for="903">903</label>
+
+<input type="radio" name="selecRota" value="903" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20903%20-%20Mutirao_Sao%20Januario.kml')" /><label for="903">903</label>
+
+<input type="radio" name="selecRota" value="903" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20903%20-%20Sitio%20Tambor.kml')" /><label for="903">903</label>
+
+<input type="radio" name="selecRota" value="903.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20903.kml')" /><label for="903.kml">903</label>
+
+
+<input type="radio" name="selecRota" value="910" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20910%20-%20Cuites_Continental.kml')" /><label for="910">910</label>
+
+<input type="radio" name="selecRota" value="910" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20910%20-%20Jenipapo.kml')" /><label for="910">910</label>
+
+
+
+<input type="radio" name="selecRota" value="944A.kml" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20944A.kml')" /><label for="944A.kml">944A</label>
+
+<input type="radio" name="selecRota" value="945" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20945%20-%20Santa%20Terezinha.kml')" /><label for="945">945</label>
+
+<input type="radio" name="selecRota" value="955" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20955%20-%20Parana.kml')" /><label for="955">955</label>
+
+<input type="radio" name="selecRota" value="955" class="test" onclick="plotRoute('http://apapetrolina.com.br/pubmatch/routes/Rota%20955%20-%20Santana.kml')" /><label for="955">955</label>
+
+
+
+		
+	</form>
+	
+	
+	
+	</div>
+	</div>
     <div id="map-canvas"></div>
   </body>
 </html>
