@@ -59,7 +59,7 @@ def execute():
             total_crimes = 0
             for parada in paradas:
                 total_crimes += int(paradas[parada]["count"])
-            print rota,total_crimes
+            print str(rota[0])+","+str(total_crimes)
             a = 1
 
 cProfile.run('execute()')
