@@ -49,7 +49,7 @@ def extract_stops(file_name):
 #shapes.txt
 def extract_routes(file_name):
     root = parser.fromstring(open(file_name, 'r').read())
-
+    routesd = set()
     routes = []
     routes.append(["shape_id","shape_pt_lat","shape_pt_lon","shape_pt_sequence"])
     for folder in root.Document.Folder.Folder:
@@ -69,6 +69,10 @@ def extract_routes(file_name):
                         route_name = route.name.text[4:].strip() if route.name.text.find("Rota") > -1 else route.name.text
                         route_name = route_name.replace(" ", "_")
                         routes.append([route_name,lat ,longi,str(line + 1)])
+                        routesd.add(route_name)
+        for route in routesd:
+            print route
+
     return routes
 
 '''Escreve paradas no formato KML'''

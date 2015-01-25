@@ -1,0 +1,5 @@
+setwd("/home/andryw/safeBus/python/dados/")
+df = read.csv("paradas_rotas.csv")
+rotas = data.frame(unique(df$ROTA))
+rotas$unique.df.ROTA. = sprintf("%03d", rotas$unique.df.ROTA.)
+write.csv(rotas,"rotas.csv",row.names=F)
