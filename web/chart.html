@@ -102,7 +102,7 @@ d3.csv("crims_por_rota.tsv", type, function(error, data) {
   data.sort(function(a,b) { return parseFloat(a.crime) - parseFloat(b.crime) } );
 
 
-  x.domain(data.map(function(d) { return d.rota; }));
+  x.domain(data.map(function(d) { return d.rota.substring(0,5); }));
   y.domain([0, d3.max(data, function(d) { return d.crime; })]);
 
   svg.append("g")
@@ -124,7 +124,7 @@ d3.csv("crims_por_rota.tsv", type, function(error, data) {
       .data(data)
     .enter().append("rect")
       .attr("class", "bar")
-      .attr("x", function(d) { return x(d.rota; })
+      .attr("x", function(d) { return x(d.rota.substring(0,5)); })
       .attr("width", x.rangeBand())
       .attr("y", function(d) { return y(d.crime); })
       .attr("height", function(d) { return height - y(d.crime); })

@@ -64,6 +64,7 @@ def extract_routes(file_name):
                     coord = str(coord).replace("\n","")
                     output = str(coord).split(" ")
                     #pra cada linha da lista, reorganiza na ordem
+                    print route.name
                     for line in range(0,len(output)-1):
                         longi,lat,ident = output[line].split(',')
                         route_name = route.name.text[4:].strip() if route.name.text.find("Rota") > -1 else route.name.text
@@ -106,7 +107,44 @@ def write_stops(stops,filename,document_name):
     file = open(filename, 'w')
     file.write(etree.tostring(doc, pretty_print=True))
 
+def split(file_name):
+    root = parser.fromstring(open(file_name, 'r').read())
+    routesd = set()
+    routes = []
+    routes.append(["shape_id","shape_pt_lat","shape_pt_lon","shape_pt_sequence"])
+    for folder in root.Document.Folder.Folder:
+        # coordenadas das paradas
+        if (folder.name == "Rotas"):
+            for folder2 in folder.Folder:
+                for placemark in folder2.Placemark:
+                    write_new_file(placemark)
 
+    return routes
+
+def write_new_file(placemark):
+    route_name = placemark.name
+    print route_name
+
+    file_name = route_name + ".kml"
+    placemark.visibility = 1
+    placemark.styleUrl = None
+
+    document = KML.Document(
+            KML.name(route_name),
+
+        )
+    document.Placemark = placemark
+
+    doc = KML.kml(
+        document
+    )
+
+    file = open(file_name, 'w')
+    file.write(etree.tostring(doc, pretty_print=True))
+
+split("dados/Rotas.kml")
+print "________________"
+#extract_routes("dados/Rotas.kml")
 #stops = IOUtils.read_file_to_dictlist(paths.GOOGLE_TRANSIT + 'stops.txt')
 #print(stops)
 #write_stops(stops[:7],"teste.kml")
