@@ -31,4 +31,4 @@ def toList(dict_):
 
 crimes = crimes_incidence("dados/crimes.csv")
 crimesList = toList(crimes)
-IOUtils.save_file(crimesList,"crimes_list.csv")
+IOUtils.save_file(crimesList,"crimes_list1.csv")

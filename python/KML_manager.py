@@ -70,8 +70,8 @@ def extract_routes(file_name):
                         route_name = route_name.replace(" ", "_")
                         routes.append([route_name,lat ,longi,str(line + 1)])
                         routesd.add(route_name)
-        for route in routesd:
-            print route
+        # for route in routesd:
+        #     print route
 
     return routes
 

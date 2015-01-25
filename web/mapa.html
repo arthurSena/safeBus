@@ -49,9 +49,11 @@
             map = new google.maps.Map(document.getElementById('map-canvas'),
                     mapOptions);
 
-            $.getJSON("paradas.json",function(result){
+
+
+            $.getJSON("https://dl.dropboxusercontent.com/u/8912311/crimes.json",function(result){
                 $.each(result,function(key,val){
-                    taxiData.push(new google.maps.LatLng(val["stop_lat"],val["stop_lon"]))
+                    taxiData.push(new google.maps.LatLng(val["lat"],val["lon"]))
                 })
                 var pointArray = new google.maps.MVCArray(taxiData);
 
@@ -64,6 +66,17 @@
 
              });
 
+
+
+        }
+
+        function showAlert(e) {
+              var infowindow = new google.maps.InfoWindow({
+                  content: cityCircle["lat"],
+                  maxWidth: 200
+              });
+
+              infowindow.open(map,cityCircle);
 
 
         }
@@ -100,6 +113,8 @@
                     };
                     // Add the circle for this city to the map.
                     cityCircle = new google.maps.Circle(circulo);
+                    google.maps.event.addDomListener(cityCircle, 'click', showAlert);
+
                     circulos.push(cityCircle);
                 }
                 $("#btn_gradient").hide();
