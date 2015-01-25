@@ -49,7 +49,7 @@ def execute():
         listaRotas = csv.reader(csvfile)
         for rota in listaRotas:
 
-            crimes = IOUtils.read_file_to_dictlist('crimes_list.csv')
+            crimes = IOUtils.read_file_to_dictlist('crimes_list3.csv')
             #route_marks = IOUtils.read_file_to_dictlist(paths.GOOGLE_TRANSIT + "shapes.txt")
             route_marks = KML_manager.extract_routes("dados/Rotas.kml")
             marks = IOUtils.lists_to_dicts(route_marks)

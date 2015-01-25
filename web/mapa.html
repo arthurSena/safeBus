@@ -36,6 +36,8 @@
 
         ];
 
+        var heatmapData = [];
+
         var circulos = [];
         var valores = [];
 
@@ -55,12 +57,13 @@
                 $.each(result,function(key,val){
                     taxiData.push(new google.maps.LatLng(val["lat"],val["lon"]));
                     valores.push(val);
+                    heatmapData.push({location: new google.maps.LatLng(val["lat"],val["lon"]), weight: val["count"]*10})
                 })
-                var pointArray = new google.maps.MVCArray(taxiData);
+                var pointArray = new google.maps.MVCArray(heatmapData);
 
                 heatmap = new google.maps.visualization.HeatmapLayer({
                     data: pointArray,
-                    radius: 25
+                    radius: 50
                 });
 
                 heatmap.setMap(map);
